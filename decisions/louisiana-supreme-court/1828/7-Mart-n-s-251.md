@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Supreme Court"
 decided: "1828-10"
-citations: ["7 Mart. (n.s.) 251", "7 Mart. (n.s.) 227"]
+decided_precision: "month"
+citations: ["7 Mart. (n.s.) 251"]
 reporter: "mart-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
