@@ -1,0 +1,39 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1821-06"
+citations: ["10 Mart. (o.s.) 74"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOANE vs. FARROW."]
+source_url: "https://static.case.law/mart-os/10/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12123677
+---
+
+# Doane v. Farrow
+
+## Majority (Martin, J. Mathews, J.)
+
+Martin, J.
+The petition states, that one R. Harris, in 1818, made a contract with the government of the united states, for the erection of fortifications on Dauphine Island, and immediately after entered into partnership with the defendant, on an equal footing, for carrying into effect Harris's engagement with government; and some time in May, 1819, the plaintiff and Harris entered into an engagement, by which the former undertook to make all the centers, scaffolds, &c., required by the masons, for the sum of two dollars for every thousand bricks laid; that in consequence the plaintiff went to Massachusetts, and soon after returned with twenty seven labourers and carpenters, paying forty dollars for the passage of each of them, besides their provisions, and necessary previous expenses, materials, &c.; that the plaintiff, with his said labourers, worked on the fortifications, and when he applied for money to the said Harris, he refused to pay any till the arrival of his partner, the defendant; that on the 31st of May, they made another agreement, by which the plaintiff agreed to furnish him, the said Harris, with five carpenters, Harris furnishing them with provisions, quarters, &c., and paying the plaintiff fifty-five dollars a month, for each of them; that there is due (to the plaintiff thereon $12,362 85 cents, for his expenditures, the labour of his hands, &c., for which the said Harris and the defendant are liable.
+East'n District.
+June, 1821.
+The defendant pleaded the pendency of another suit in the state of Alabama, and the general issue.
+There was judgment for the defendant, as in case of a non-suit, and the plaintiff appealed.
+The defendant and appellee prayed that the appeal might be dismissed, on the ground, that the appeal bond was not signed by the appellant, but by Livermore, his attorney, who does not style himself attorney in fact; who does not appear to have had any authority to execute the bond, and who filed the ordinary answer that there is not any error.
+The record shews, that at the trial, the plaintiff offered J. Gordon as a witness, to prove that the defendant had admitted himself a partner of Harris, as set forth in the petition. This witness being admitted, declared he had seen written articles of partnership, between Harris and the defendant; that he had a certified copy of them, and believed the original was on record at Mobile, whereupon the defendant objected to any evidence being given of his admission, until the contract of partnership was produced, or shewn to be lost, as no notice had been given him to produce it.
+The plaintiff next offered the testimony of E. Clark, and C. Clive, being the authorised agents of the defendant; and Harris, of the former having acknowleged them as such.— He also offered to prove the signatures of Harris, Clive, and D. H. Henneway, and the residence of the two latter persons, in the state of Alabama.
+These signatures are affixed to a contract, purporting to have been entered into by Harris and the present defendant, with the plaintiff, for work to be performed by the latter on the fortifications. That of Harris appeared as that of principal, and the two other as those of subscribing witnesses.
+The reason which induced the court a quo to sustain these objections, are not very apparent from the record. We take them to be, that the court thought that no evidence of the plaintiff’s claim ought to be admitted, till the existence of the pretended partnership was proved by the exhibition of the articles, or the absence of the document accounted for.
+The case is thus before us on the exception to the legality of the appeal, and the two bills.
+I think the appeal was properly granted; the appellant is only required to give security. This, in my opinion, may be done, without his obliging himself to a bond. The law binds him sufficiently to the performance of the decree of the supreme court, and one may as well give security for an obligation which the law imposes, as for one which he voluntarily enters into.
+It is not contended that the surety was not legally bound, nor that he was not sufficient.
+The two bills of exceptions depending on the same point may be considered together.
+Articles of partnership are not of the essence of the contract; they may regulate its duration, the liability of each member among the rest, but not in regard to creditors of the partnership, and if the members continue to transact business, after the expiration of the contract, by its own limitation, they are nevertheless liable as before.
+I think the district court erred in sustaining the defendant’s objections, and that the judgment ought to be reversed, and the case remanded, with directions to admit the evidence mentioned in the two bills of exceptions, and that the costs in this court ought to be borne by the defendant and appellee.
+Mathews, J.
+This case comes up on two bills of exceptions, and the appeal is required to be dismissed on account of irregularity and insufficiency in the appeal bond. It is complained of as not having been signed by the appellant, or any person regularly authorised by him; having only the signature of the attorney who prosecutes the suit, as surety. The object of the bond in the present case, is to secure payment of the costs, and can extend no further. I am of opinion that a reasonable construction of our law, on the subject of appeal bonds, will not require that they should be executed by an appellant, especially in the case of a non-resident, as his bond would not create any new or additional obligation on him, beyond what is fixed and determined by the judgment. It ought to suffice if the bond be executed by a solvent surety.
+The first bill of exceptions relates to the rejection of parol evidence, to establish the existence of a partnership, between the appellee and Harris, as set forth in the plaintiff’s petition. The principle, on which the judge of the court below seems to have acted, is that which will not permit oral testimony in proof of facts contained in an instrument of writing, unless under certain circumstances, as authorised by law on the subject of evidence; as by giving notice to the opposite party to produce the writing, or obtaining a subpœna for a witness, as it may be in the power of either. This would be correct in a contest between partners; but when one of a partnership is pursued as liable to a third person, on account of such partnership, I am of opinion that the plaintiff is not bound to shew any articles of partnership, which may have been reduced to writing between the partners themselves, to which he cannot in any way be presumed to be a party, they being entirely res inter alios acta. See Watson on Part. p. 5, and seq.; and 1 Dallas’ Reports, 269. I therefore think the district court erred in rejecting the testimony offered to prove the partnership. The correctness or error of the opinion of the district court, to which the second bill of exceptions was filed, depends entirely on the first for its support, and as I believe that to be erroneous, the latter is without foundation.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court be annulled, avoided and reversed, and the case remanded with direction to the judge to receive the evidence excepted to; the costs of the appeal to be paid by the defendant and appellee. Richardson vs. Terrel, 9 Martin, 1.
+Pierce for the plaintiff, Smith for the defendant.
