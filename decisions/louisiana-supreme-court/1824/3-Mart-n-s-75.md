@@ -1,0 +1,40 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1824-09"
+citations: ["3 Mart. (n.s.) 75"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FERGUSON & AL. vs. THOMAS & AL."]
+source_url: "https://static.case.law/mart-ns/3/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12125062
+---
+
+# Ferguson v. Thomas
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the court. This action was commenced on an obligation by which the defendant promised to deliver a certain quantity of cotton to the plaintiff.
+West’n District,
+Sept. 1824.
+A promise to deliver cotton in payment of a debt, which the obligee is to sell, is not discharged by the death of the latter.
+The defendants pleaded as follows:
+They denied all and singular the allegations contained in the plaintiffs petition,
+The right of the plaintiffs to sue, because the obligation was personal to George Rich, a deceased partner in the house of Ferguson & Rich, who is represented in this suit by his mother and heir’s.
+The right of one of the plaintiffs, Rebecca Rich, because she was not the heir of George Rich,
+And lastly, that the plaintiffs could recover, because the contract was a synallagmatic one, and two copies of it were not made according to law.
+No evidence appears in the record to establish the execution of the instrument sued on, but the plaintiffs insist the want of this proof is supplied by the pleadings.
+This court has held in several cases, that where a defendant pleaded inconsistent pleas, such as joining that of payment and satisfaction to the general issue, or in addition to a plea that he did not sign the note; an allegation that he was not of age when it was executed, and that the instrument was entered into without any valid consideration, we should consider the general denial as waved, because the fact disclosed by the party himself forbid any other construction.
+When a man says he has paid his note, it is an acknowledgment that it once had an existence. When he affirms, that it was entered into without a good and valid consideration, he admits that it was executed. See 8 Martin, 492, 11 ibid. 640. vol. 1 127, 412.
+This case, it appears to us, comes within the principle under which these cases was decided. The defendant joined to his answer, that he did not sign the note, an averment, that “the obligation sued on is a synallagmatic agreement, containing stipulations and agreements on the part of all the parties who have a distinct interest, and was not executed in as many originals as there are parties." This is surely an admission that it was executed. If it had never been made by him, as the general issue implies, it could not be defective, because it was not made double.
+This opinion brings us to the merits of the dispute. The obligation sued on was, as we have stated, for the delivery of a certain quantity of cotton. It recites as a consideration for the promise, that indulgence should be given in the proceedings on two twelve months bonds, one in favor of Walter Turnbull, and the other in favor of the then firm of Ferguson & Rich. The defendants bound themselves in solido, to furnish on or before the first day of January next ensuing the date of the agreement, a sufficient quantity of cotton in bales to pay the amount of the bonds with costs: the said Rich to ship the cotton, and apply the nett proceeds to the extinguishment of the said bonds. This agreement is signed by the obligors alone, and to the plaintiffs prayer of recovery they now object,
+That the contract was not executed in as many originals as there are parties.
+That the contract was a personal one, and that Rich, the party who was to sell the cotton having died, they were not obliged to confide this trust to his heirs and representatives.
+On this last point the court below gave judgment against the plaintiffs, and they appealed.
+The article of our code which requires that there should be as many originals as there are parties having a distinct interest, was made to insure to each the means of enforcing the agreement, and applies to these cases where the contract is perfectly synallagmatic, or bilateral: that is, where the obligation which each of the contracting parties enter into, is equally the principal obligation of the contract. As in the contract of exchange, partnership, &c. and does not govern a case such as this, where tho' there are two parties, as there necessarily must be to every contract; the obligation of one was only incidental, and a consequence of a performance of the other. The promise here was merely to make a dation en paiement, and there was nothing stipulated on the part of him who was to receive it, in which the other party could have had an interest antecedent to his own performance. We therefore think it was unnecessary he should have had an original. Potie's Obligations, no. 9. Were we even to agree with the appellees, that this was one of those cases where there should be as many originals as parties, they would still be unable to escape from their obligation. The law does not say the act shall be null and void, for want of this formality, it declares they shall not be valid, (ne sont valables,) that is, that the agreement is not perfect, that it does not make full proof of what is therein contained. But altho’ it may not be sufficient for that purpose, it is still a writing emanating from the party against whom it is produced, and is a commencement of proof in writing. This is the construction put on the article of the Napoleon Code, from which ours is taken; and of its soundness we do not think there can be a doubt.
+The second point, and that on which the inferior court decided the case, appears to us free from any difficulty. The defendants agree to pay certain debts in cotton, and the person who was to receive it, promised to sell it, and place the proceeds to their credit. They now say they are discharged from their obligation, because the payee has deceased, and that they have not confidence in any of his heirs and representatives. This may be very true, but why they should be discharged from their engagement, and the heirs lose their debt, because the appellees have not confidence in them, is what we are unable to understand. The general rule is, that all the obligations of the ancestor pass to his heirs, active as well as passive. The exceptions to this rule are these obligations, which result from agreements, in which the personal qualities of the person promising are to be supposed the leading motive of the contract, and where the want of them cannot be supplied by any other, or compensated by pecuniary damages. Such is the confidence we repose in our physician, who assists us in sickness, the painter whom we may desire to make family portraits; and in case of their decease, their heirs cannot demand that they shall be permitted to supply their place or perform their contract. But, an engagement to ship cotton may be performed by any one; the qualities of mind are not the leading consideration that induced the contract. Pecuniary responsibility is the moving cause, because the non-performance can be compensated in damages, and no objection can be made to the heirs, on that score, where they are the creditors of the person whose engagement they seek to enforce.
+On examining the record, for the purpose of giving final judgment, we find there is not sufficient evidence to enable us to do so. The obligation on which the defendants are sued, states they have bound themselves to pay two twelve months bonds, and these bonds are not produced, nor is there any other evidence by which the amount of either can be ascertained.
+Johnston & Wilson for the plaintiffs, Thomas for the defendants.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court be annulled, avoided and reversed, that the case be remanded for a new trial, and that the appellees pay the costs of this appeal.
