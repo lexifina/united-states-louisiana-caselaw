@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1849-11"
+decided_precision: "month"
+citations: ["4 La. Ann. 569"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walker et al. v. Duverger, Administratrix."]
+source_url: "https://static.case.law/la-ann/4/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4891441
+cites_cases: ["6 La. 27", "9 Rob. 224"]
+---
+
+# Walker v. Duverger
+
+## Majority (Slidell, J.)
+
+The judgment of the court was pronounced by
+Slidell, J.
+Franklin Wharton, deceased* intermarried with Amanda J. Walker, then widow of Sandifer Hoggatt, in May 1835, in Natchez, Mississippi. At the time of the Celebration of the marriage, Wharton was a citizen of this State, residing in New Orleans, and engaged in the practice of the law. Mrs. Hoggatt Was on a visit to her relatives at Natchez, and was a resident of Tennessee. The intention of the parties was to live in N. Orleans, the husband’s domicil. They accordingly, after a summer excursion to the north, repaired in the fall to New Orleans, where they resided until their deaths. She died intestate, in 1839, and Wharton in 1847.
+At the time of her marriage she owned several slaves, some of whom were in the State of Tennessee, and others were hired on board of steamboats navigating the Mississippi river. Wharton, after the marriage, had the possession of the slaves in Louisiana, received their hire, disposed of one of them during his wife’s life, and of some others after her death,
+Amanda Walker’s heirs are the plaintiffs in this suit. In a former action they obtained judgment for the unsold slaves. In the present, they demand from the succession of Wharton, the value of the slaves sold by Wharton, and the hire of all the slaves from the date of his wife’s death.
+We have no hesitation in holding that, under the facts above stated, the rights of Mr. and Mrs. Wharton, with reference to the slaves, were controlled by the law of Louisiana, the matrimonial domicil which they contemplated at the time of the marriage, and which they actually adopted within a reasonable time. Ford’s Curator v. Ford, 2 Martin, N. S. 576; Routh v. Her Husband, 9 Rob. 224; Fisher v. Fisher, 2 An. 775; Hayden v. Nutt, ante p. 67.
+As the slaves were the paraphernal property of the wife, the succession of Wharton, is bound to pay to the heirs of the wife, the price at which he and his wife sold a portion of the slaves during his wife’s life-time, and the reasonable value of those which he sold after his wife’s death. The succession of Wharton is also liable for the reasonable wages of the slaves, which, after his wife’s death, he treated as his own and hired out to various persons. In estimating the claim for wages, we have made a reasonable allowance in favor of Wharton, for the expense of the clothing and medical attendance of the slaves, the occasional loss of time, and the expense and trouble of collecting their wages.
+It was pleaded in the answer that, the slaves were disposed of by Wharton, with the full knowledge and consent of the plaintiffs. The evidence on this point is not sufficient to establish an abandonment of their rights by the plaintiffs; and it is proper to add, not only that there was a probable ignorance on the part of the plaintiffs (residents of another State,) of their rights, which depended upon a question of conflict of laws, but that several of the plaintiffs are either minors, incapable of making an abandonment, or married women whose acts would require the sanction of their husbands.
+We consider that a tacit mortgage attached in favor of the wife, for the price of the slave Jenny, sold by Wharton during her lifetime, at the date of the receipt of that price by him, namely, May 6 1836. Fisher v. Fisher, 2 An. 776; Foster v. Her Husband, 6 La. 27. The right having so attached and become vested in the wife, passed at her death, to her heirs.
+Whether a tacit mortgage exists in favor of the wife’s heirs for the price of the paraphernal property alienated by him after her death, is a very different question, and one upon which we have notbeen.favored with argument by either party. Our conclusion upon this point is that, the wife’s heirs have not a tacit mortgage in such a case.
+Tacit mortgages and preferences are in derogation of common right. They are to be strictly construed, and restrained to those cases where they are clearly granted by the lawgiver. “ No legal mortgage shall exist except in the cases determined by the present Code.” C. C. 3280. Article 2367 grants a legal mortgage in favor of the wife, “ where the husband has received the amount of the paraphernal property thus alienated by his wife, or otherwise disposed of the same to his individual use.” But the language of the article does not fairly comprise the heirs of the wife, so as to give them a legal mortgage for the price of the paraphernal property sold and appropriated by the husband after her death. Nor was there the same reason for their protection, as the lawgiver contemplated in the case of the wife herself. Subjected as the wife is, to the moral control and influence of her husband, there was a reason for interposing in her favor the safeguard of a legal fiction. No such reason exists in favor of the wife’s heirs.
+It is therefore decreed that the judgment of the district court be reversed. It is further decreed that the plaintiffs recover of the defendant, as administratrix of the succession of Franklin Wharton deceased, to be paid in due course of distribution of said estate, the sums following, to wit: the sum of $1,000, the price at which the slave Jenny was sold, for which price the plaintiffs are also decreed to have a legal mortgage, dating from the 6th May 1836 ; the further sum of $500, the value of the slave Spencer ;■ the further sum of $400, the value of the slave John Hoggatt; the further sum of $550, the value of the slave Priscilla; the further sum of $2,520, for wages of slaves after said Mrs. Wharton’s death: the sums aforesaid to bear interest from the judicial demand,. March 31 1848. It is further decreed that the costs of this suit in both courts be paid by the said succession.
