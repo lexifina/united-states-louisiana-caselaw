@@ -1,0 +1,39 @@
+---
+court: "Louisiana Supreme Court"
+docket: "2155"
+decided: "1871-01"
+citations: ["23 La. Ann. 63"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. L. Britton v. Aymar & Bryant and Jerome Bradley & Co."]
+source_url: "https://static.case.law/la-ann/23/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5228164
+cites_cases: ["6 La. 34"]
+---
+
+# Britton v. Aymar & Brayant
+
+## Majority (IIowe, J.)
+
+IIowe, J.
+It appears that in December, 1865, the plaintiff was in possession, claiming to be owner of a quantity of cotton, at Camden, in the State of Arkansas; that nine hundred and twenty-five bales thereof were there seized by O. H. Burbridge, an agent of the Treasury Department of the United States, and by him shipped to New Orleans by the steamboats Alabama and May Bruner; that upon its arrival in New Orleans, in January, 1866, it was sequestered by plaintiff in a suit begun by him in the United States Circuit Court against Bur-bridge, as an officer of the government; that, in virtue of the writ of sequestration, it was taken by the United States Marshal and stored with Jerome Bradley & Co., who seem to have kept a warehouse for the purpose of receiving cotton of this description, and that Jerome Bradley & Co. advanced a large amount of freight and charges on the same, and held it subject to further orders and to the payment of theii charges.
+About the first of February, 1866, Jerome Bradley & Co., who had rented the place of deposit, “ Orleans Yard No. 2,” from the co-defendants, Aymar & Bryant, gave up this yard to their lessors, leaving the cotton claimed by plaintiff on store with Aymar & Bryant, and still subject to the order of themselves, (Jerome Bradley & Co).
+On the sixth of March, 1866, the United States Marshal gave an order, addressed to “Orleans Yard No. 2, or Jerome Bradley & Co.,,: for the delivery to plaintiff or his order of the cotton in question, with the condition that “the press customary charges will be paid by Mr. Britton or his agents, as well as any charges or outlays due by said cotton.”
+The plaintiff indorsed this order, “ Please deliver to Richard Lloyd,” and on the seventh of March, 1866, the order was indorsed by one ol the firm of Aymar & Bryant, defendants, as follows:
+“By virtue of this order, I have this day delivered the within cotton to Benjamin L. Britton, who has delivered the same to Richard Lloyd.
+For Merchants’ Press E. K. BRYANT.”
+It appears as matter of fact from the record, that this last indorsement was made subject to the condition expressed in the Marshal’s order, and with the understanding that the claims of Jerome Bradley & Co., the depositors of Aymar & Bryant, should be satisfied before the cotton should be actually given up to the plaintiff or his agent, Lloyd. There has been some discussion between counsel as to whether this collateral agreement could be established by parol. It suffices to say that the testimony on this point was received without exception.
+On the same day, March 7, 1866, Jerome Bradley & Co. notified Aymar & Bryant, in writing, that they must not give up to plaintiff the cotton, as he refused to pay the freight and charges. On the next day this notice was repeated, in writing, with a statement of the amount of charges. On the day following, March 9, 1866, the defendants, Aymar & Bryant, were notified by the Collector of Customs, acting for the Secretary of the Treasury, to hold this and all other cotton claimed by plaintiff, and inspectors were detailed to compel obedience to this order. On the twelfth March, 1866, B. F. Flanders, General Agent of the Treasury, ordered Bradley to hold all cotton in his hands, claimed as government cotton, and Bradley, in turn, notified Aymar & Bryant to the sanie effect.
+On the tenth of April, 1866, Flanders, as General Agent, notified Jerome Bradley & Co. that he was ready to adjudicate and decide the case of the plaintiff’s cotton — “the Britton cotton.” On the twelfth April, Burbridgo, as “Supervising Special Agent of the Third Agency” of the Treasury, notified Jerome Bradley & Co. to “ hold the cotton claimed by B. L. Britton, marked B. L. B. and other marks, subject to my official order, any release or order to the contrary notwithstanding.” On the same day, Jerome Bradley & Co. notified Aymar & Bryant, in writing, and at considerable length, to retain the cotton. On the seventeenth of April the cotton was released by Burbridge, as Supervising Special Agent, and Jerome Bradley & Co. gave an order to Aymar & Bryant, in favor of plaintiff, for its delivery to him, and it was delivered. Thereafter, this action was instituted to recover from Aymar and Bryant and Jerome Bradley & Co., as wrongdoers, in solido, damages for
+First — Depreciation in price of cotton from March 6 to April 17, 1866.
+Second — Value of difference in Quantity delivered to defendants and that restored by them.
+Third — Injury from bad storage.
+Fourth — Damages by substitution of rubbish for good ordinary cotton.
+After trial the court below rejected the demand of plaintiff and also a reconvenfional demand for damages set up by Aymar & Bryant, and the plaintiff alone appealed.
+It seems plain, from the facts above stated, that Aymar & Bryant were the depositaries of Bradley & Co., and were bound, in the absence of a judicial proceeding on the part of Britton, to hold the cotton subject to the order and control of the depositors. C. C. 2920, 29.21, 2926; Pothier Depot, No. 40; 7 M. 284; 2 N. S. 284; 6 La. 34; 21 An. 596.
+In the absence, then, of proof of fraud and collusion, we must think that Aymar & Bryant can not be held in damages for obeying the orders of the depositors, Jerome Bradley & Co. But, even if the facts do not justify the application of this familiar principle of the law to the whole case, there is another element which perfects the defense. It will appear from the dates above recited that the detention of the cotton, w’hothor by Aymar & Bryant or Bradley & Co., for the.purpose of enforcing a settlement of an alleged claim for advances and charges, lasted but two days, March 7 and 8, and that on the ninth the government came in to assert a claim by a power which could not be resisted; and that this irresistible power of the United States, acting through the Treasury Department, reinforced by the Department of War, hold the cotton until the seventeenth of April, 1866, when it was finally released. It is true that no military guard was placed over it, but that was not necessary. A large military force was present, commanded by a vigilant general, and the war had not yet been declared at an end by the political department of the government. The agents of the treasury, engaged in the important business of collecting and saving for the people of the United States the large quantities of cotton surrendered by the defeated insurgents, are presumed to have acted honestly and regularly in this case, and there is no evidence to rebut this presumption and to show that their seizures were made by collusion with the defendants. During the two days of detention, which may be, perhaps, ascribed to the acts of the defendants, it does not appear that there was any decline'in the value of the cotton. At the most, then, it was damnum absque injuria. The decline which took place afterwards and up to April 17, must, so far as we can perceive, be accepted by plaintiff as one of the misfortunes, incident to a time of civil turmoil.
+We have thus far directed our attention chiefly to Aymar & Bryant. The detention by the Treasury agents, from March 9 to April 17, is-equally a defense for Bradley & Co., there being no evidence that, these official seizures were made by collusion, with Bradley & Co.
+The other items of damage claimed are not clearly established.
+Judgment affirmed.
