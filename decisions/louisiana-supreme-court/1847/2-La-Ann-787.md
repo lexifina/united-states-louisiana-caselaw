@@ -1,0 +1,30 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-09"
+decided_precision: "month"
+citations: ["2 La. Ann. 787"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tulane et al. v. Levinson."]
+source_url: "https://static.case.law/la-ann/2/cases/0787-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 335511
+---
+
+# Tulane v. Levinson
+
+## Majority (Eustis, C. J.)
+
+The judgment of the court was pronounced by
+Eustis, C. J.
+This is an action .brought for .the recovery of a certain lot of ground in the town of Natchitoches, .the petitioners alleging that one Joseph Levinson wrongfully detains possession of it, notwithstanding their ownership. The plaintiffs purchased the lot at a sheriff’s sale made on the 4th February, 1843, under a fieri facias which had issued on a judgment obtained in the District Court of the parish of Natchitoches, at the suit of the plaintiffs against Geo. F. Barney. The judgment was rendered on the 28th of April, 1842, and was recorded in the office of the register of mortgages of the parish, on the 3d of May of that year, Th® sheriff’s deed to the plaintiff’s was regularly recorded. The defendant, Levinson, disclaimed all title to the lot in dispute, alleging that he was only the lessee of the heirs and legal representatives of Jacob Y. Bartlett, deceased, and that he understands that John C. Bartlett, of the town of Greenwich, in the State of New Fork, is the sole heir of the said deceased, and he prays that, said John C, Bartlett may fee cited jn warranty to defend the suit, Two gentlemen pf the bar were appointed to represent him, and they appeared for him, and defended the suit accordingly.
+The answer nffeges the defendant to be the sole heir of the deceased Jacob Y. Bartlett; denies that the plain,tiffs have any right pr tijtje te the lot; and charges that he holds, and still is the legal proprietor of it by virtue of a sale made by George F- Barney to Jacob Y- Bartlett, on the 19th of Mprph, 1842, by act passed before William Y. Lewis, notary public, jn the ejty pf New Oiv leans, and duly recorded ip tl)e parish of Natchitoches.
+He prays that he may be quieted in his possession of the lot, and the plaintiffs’ suit bp dismissed with costs, Judgment was rendered for the plaintiffs against the defendant Bartlett, for the lot-apd .costs of the suit? and be has ap? pealed.
+Bartlett's title was not recorded jn the office of the parish judge of the paiv jsb of Natchitoches, but was recorded in that of t'he register of mortgages; and the decision of the case depends .on the respective rights of the parties under a sheriff’s sale, and an unrecorded notarial act passed out of the parish ip which the property is situated ; the record in the mortgage office not being a compliance with our registry laws concernin r sales of real property.
+The title and possession of Barney neither the plaintiffs nor the defendant .contest, Levinson is charged ip the petition as wrongfully holding possession <of the property; but no possession is proved to have been taken or held by the .defendant, .or his ancestor. It is .alleged to have existed in the answer and disclaimer of Levinson, but that is no proof .of the feet against the plaintiff. It ougfii to have been established affirmatively as a substantive fact, in order to enable the .defendant.to .avail himsejf of any legal fights dependent on it. The alleged possession of Levinspn .cannot enure tp the benefit of the defendant, without some evidence establishing his connection with it,
+ft has been urged that possession passed to the ancestor .of the defendant in virtue of the notarial act of sale, passed in New Orleans, on the 19th day of March, ¡L842; and the Civil .Code, art. 24.55, .and ffie decisions under it, have been referred to in support of that position. This article is evidently subordinate to those which require the registry of acts-of sale in the parish where the land conveyed is situated, i.n order to give effect to the sale against third .persons. An ,aet passed in a remote parish, and not recorded in the proper office, can have no effect, as to third persons, either as transferring title Of possession. As the case is before us, the defendant rests upon his naked acf ef purchase madeja New .Orleans, without possession .or any evidence of consideration, except that resulting from .the instrument itself.
+The title to the lot being in the pame of Barney on the public records if Hepame .subject to the mortgage, which the recording of the judgment creat.effi on the 3d of May, 1842, .and we think could be lawfully seized ¡under the execution issued on the judgment and s.old to satisfy the same. It seems to follow as a necessary consequence that, if it could be lawfully sold under this state of things, a purchaser, having# knowledge of the facts, would be justified in buying the property.
+It is in evidence, that the plaintiffs’ attorney, before the issuing of the fieri facias under which they became tlje purchasers, was apprised ,pf the existence of the act of sale to Bartlett, and of its being recorded in the mortgage office ; but that, on finding no record of it in the .office of the parish judge, he had the lot seized and bought.in for his clients, the .plaintiffs. As we consider the right of the plaintiffs to have .the property sold to satisfy their debt paramount to that of the defendant under his unrecorded deed, by virtue ,of their recorded judgment, \ve dp not see ho.w that right can be impaired by this knowledge on the part,of .the-attorney.
+The theory that notice is equivalent to registry in relation to conveyances of real property, we do not understand to have been adopted in opr jurisprudence. The subject is one o.f great interest, and by no meansfr.ee front difficulty. The facts in this case leaye no do.nht on our minds as to the correctness of the decision of the .district judge. Judgment affirmed.
+Slidell X, considering himself as having an interest in the question involved in this case, took no part in it. The decision was made by the other judges.
