@@ -1,0 +1,28 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1823-06"
+citations: ["1 Mart. (n.s.) 352"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VANNORGHT vs. FOREMAN & AL."]
+source_url: "https://static.case.law/mart-ns/1/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12132012
+---
+
+# Vannorght v. Foreman
+
+## Majority (Mathews, J.)
+
+Mathews, J.
+delivered the opinion of the court. In this case the plaintiff and appellant claims title to a certain slave as set forth in his petition; and supports his claim by an act of sale from Samuel Paxton to him, made in authentic form. The defendant Livingston sets up a title to said slave, derived from one John Black, who claims under the plaintiff by virtue of a sale made, sous seing privé, which is alleged to have been lost or stolen from said Black. The title being, as appears by the evidence of the case, regularly deduced from Black to the present claimant, the only difficulty, which the cause presents, relates to the sale from the plaintiff to the former.
+East’n District.
+June, 1823.
+To shew the loss of the written title, in order to be permitted to introduce testimonial proof of its contents, the testimony of Black, Vanorght’s vendee, and original vendor under whom the defendant claims, was offered, and received by the district court; in consequence of the witness having been released, from the obligation of warranty, by his immediate vendor. Notwithstanding this release, the plaintiffs counsel objects to the competency of said witness; to the sufficiency of the evidence (admitting him to be competent) to prove the allegations on the part of the claimant, and also to his credibility. To establish his competency, we are referred to Partida, 3, 16, 19; wherein it is declared that a vendor cannot be a witness, because he is equally interested with the defendant, in consequence of his obligation to guarantee the title of the latter.
+Objections to the competency of witnesses, according to our laws, are founded, on a supposed improper bias on their minds, arising either from strong natural affections, such as exist between father and son; or from interest. That opposed to the witness in the present case, is of the latter class; and if the release from his vendor destroys his interest, we are of opinion that his competency is thereby restored.
+But although competent to testify, it is insisted on by the counsel, for the plaintiff, that his testimony, unsupported by any other, is not sufficient to establish the truth of the fact, in support of which it is introduced; because the matter in dispute exceeds five hundred dollars, and for the correctness of this doctrine, reference is made to the code, p. 310 art. 243. This article has relation to covenants, the objects of which may be appreciated in money; and differs widely from the evidence required to establish a simple fact, unconnected with any covenant. To the rules theretofore established, there are many exceptions enumerated in the code; and it is clearly not applicable to a fortuitous occurrence, when human foresight and prudence could have no agency or participation. We are therefore of opinion that the testimony of a single credible witness is sufficient to establish the fortuitous, event by which a title, forming litteral proof, may have been lost. But where the object of such title exceeds five hundred dollars, perhaps two witnesses would be necessary to prove its contents. In the present case there are two who prove the contents of the lost instrument; Black being, as already settled, competent; for we have him and Walsh, the writer of the bill of sale, who was also a subscribing witness.
+The plaintiffs counsel has assumed in argument that the release of Jeremiah Black to John, the witness, although it destroys the obligation in warranty of the latter to the former, does not release him from the claims which subsequent vendees have, as successors to the title derived from him, the original vendor.
+When a purchaser is sued for property which he has bought, he may, pay it is his duty by law, if he means to resort to the vendor, to cite him in guaranty ; provided he be bound to warrant the title of the thing sold. The action of warranty ought regularly to be brought against the immediate seller, his heirs, or successors to all his rights. See Poth. Contrat de Vente, no. 110 If a second vendor be evicted, the seller to him can commence an action on the warranty of his vendor, provided he be bound on guaranty to the last purchaser. But if he be under no obligation to warrant the title to the person evicted, he has no recourse on the one who sold to him; for his interest in relation to the warranty ceases; and the whole retroactive effect of this species of action is at an end. Perhaps a seller without warranty could effectually cede to his purchaser any right of action which he might have against his immediate vendor: but we are of opinion that the last purchaser is not by law subrogated thereto. See Poth. Traité de Vente, no. 97, and Febr. part 1.b. 11, chap 10, no. 47. The obligation to warrant the thing sold is personal to the vendor; and the right to enforce it, is not ipso facto by the sale transferred to all vendees in succession. As to the credit which ought to be given to Black’s testimoney, we are of opinion, after weighing all the evidence and circumstances of the case, that he is entitled to belief.
+Preston for the plaintiff, M’Caleb for the defendants.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court be affirmed with costs.
