@@ -1,0 +1,29 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-10"
+citations: ["3 La. Ann. 588"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jones et al. v. Doles et al."]
+source_url: "https://static.case.law/la-ann/3/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4807883
+cites_cases: ["17 La. 266"]
+---
+
+# Jones v. Doles
+
+## Majority (Seidell, J.)
+
+The judgment of the court was pronounced by
+Seidell, J.
+The defendants are sued as the sureties in a sequestration bond, executed in the case of Sawyer, Crawford Cliborne, administrator v. Jones Sf Stevens. In that suit a quantity of logs was taken upon the writ of sequestration out of the possession of Jones Stevens, and the property was then claimed as the property of Saivyer and his co-plaintiffs. The ownership was directly put at issue; and, after a trial on the merits before a jury, a general verdict was found in favor of Jones; upon which the court gave judgment infayor of Jones, and also of his co-defendant Stevens, who had alleged in his answer that he was employed as a raftsman by Jones, the sole owner. This judgment remains unreversed; and, as between the parties plaintiffs and defendants in that case, is res judicata in favor of Jones' ownership, and the lawfulness of his possession, and that of his agent Stevens.
+But, it is now contended by the defendants, the sureties of Sawyer, Sfc., that the judgment does not form res judicata against them on the question of ownership, and that they were properly permitted by the judge a quo to offer evidence impeaching the ownership of Jones.
+In our opinion the court below erred. What was the condition of the bond in which the present defendants united as sureties, with the plaintiffs in the former suit? It was that, “ if the said Joseph M. Sawyer, et al. shall pay, or cause to be paid, all such damages as may accrue, in case it shall appear and be decreed that the said sequestration was wrongfully sued out, then and in that case the above obligation is to be null and void, otherwise to remain in full force and virtue. Here was a clear undertaking of the sureties that they would pay damages, if the sequestration should in that suit be decreed to have been unlawfully issued ; in other words, if it should be adjudged that the defendants in the sequestration, and not the plaintiffs, were the lawful possessors and owners of the property. Such a decree has been rendered. The lawfulness of the possession of Jones <§* Stevens, and the ownership of Jones, have been solemnly adjudged ; and, we think, it would be a violation of the terms and spirit of the bond, if the sureties were now permitted to renew the issue of ownership. That question is closed by the former judgment, and n,o evidence on the point of ownership is admissible in this cause. The issue now is, what damages has the injured owner, Jones, sustained by the wrongful sequestration.
+Under this issue, it is necessary for the plaintiffs to show the value of the property taken under the sequestration, and such other injury as was sustained. In the assessment of damages, we think, may properly be included the reasonable expense of counsel employed in the former suit; and, if the plaintiffs incurred a liability to counsel for their fees, we do not consider it material that, they should show that the fees had been yet actually paid to the counsel employed.
+It was certainly admissible for the defendants to show that Jones, or his agent Stevens, had taken away any portions of the timber during the sequestration. An attempt was made to prove that they did so. But, the testimony upon which the defendants rely on this point, is not satisfactory to us. It wants accuracy as to time, place, and'the identity of the property spoken of by the witnesses. The violent resistance, and other acts on the part of Stevens, spoken of, may have occurred before the issuing out the sequestration. The burden was upon the defendants to prove clearly, either the restoration of the property after the decree in favor of the defendants in the former cause, or that they had otherwise gained possession of it. If Jones has not got his property which was wrongfully sequestered, he must have its value. •
+It is said, however, that the sheriff was the party to whom Jones should look; that he had the property in his custody under the writ, was bound to preserve it for the successful litigant; and if, from his negligence, it floated away, or was otherwise destroyed or lost, he and his official sureties are answerable. Whatever may be the responsibility of the sheriff, we consider it clear that the plaintiffs in the sequestration were responsible for its restoration, and the sureties also by the tenor of their bond.
+Stevens, as a party obligee in ths bond and the agent of Jones, is properly joined in this suit, and may recover jointly with Jones, for his use.
+Entertaining these views we should, if the case were originally before us, have certainly given judgment for the plaintiffs, for the value of the property sequestered and for the sum expended in defending the former suit. The only doubt left upon our minds is, as to the question, whether, after the sequestration, the present plaintiffs regained possession of a portion of the property; and that doubt is induced more by the verdict of the jury, than by the evidence on the part of the defence as presented in the transcript. In deference to the opinion of the jury, we have determined to remand the cause.
+It is therefore, decreed that, the judgment of the District Court be reversed, and that this cause be remanded for a new trial, and for further proceedings according to Jaw; the defendants paying the costs of this appeal.
