@@ -1,0 +1,28 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1851-11"
+citations: ["6 La. Ann. 760"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James S. Foley v. Bell and Stebbins."]
+source_url: "https://static.case.law/la-ann/6/cases/0760-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 523832
+---
+
+# Foley v. Bell
+
+## Majority (Rost, J.)
+
+The judgment of the court was pronounced by
+Rost, J.
+Under a special agreement, and for a consideration deemed sufficient by the defendants, they purchased on account of the plaintiff, 50,000 gunny bags and 500 barrels of inspected mess pork, for which they gave their own notes, and agreed to store those articles in their warehouses, and to hold them for a stipulated time; the sales to be ultimately affected, not by the defendants themselves, but by the plaintiff, through the agency of his broker, Mr. Ellis, and the proceeds to be paid over to the defendants, to meet their outstanding notes.
+Before the expiration of tho time agreed upon, the defendants sold the pork and gunny bags without the knowledge of the plaintiff or his broker. Subsequently, when the plaintiff gave directions to Ellis to sell, .it was ascertained by them that the merchandise purchased on the plaintiff’s account was no longer in the possession of the defendants, but they offered him to replace it with gunny-bags of tho same size and number and with other inspected mess pork. The plaintiff refusod this offer, and pork having risen, while gunny bags had fallen in value at the time of the demand, he claims the amount for which his gunny bags were sold, and the price mess pork was worth when he put the defendants in default.
+The judgment of the district court is in conformity with the prayer of the petition, and allows tho plaintiff the balance coming to him after deducting the advances made by the defendants. The latter have appealed. The legal relations existing between these parties are so numerous and run into each other in such a manner, as makes it difficult to bring this case within the operation of the principles applicable to any of those relations; the defendants were creditors with an informal pledge, depositories and, in a limited sense, agents of the plaintiff. Factors, properly speaking, we do not think they were; the merchandise was not delivered to them for sale, and it does not appear that they were to receive a commission when it was sold. It may be taken for granted, however, that after the sale of the goods by them, their liability to the plaintiff is the same, whether they be considered as agents, or as depositaries, or as creditors selling the goods of their debtor in violation of thoir agreement not to do so. Unless they can show a legal justification for selling without authority, they must account to him for any profits they may have made in selling, and indemnify him for any loss he'has sustained by their failure to deliver the goods when commanded.
+The general principle is not contested by the defendant’s counsel; but he argues, that, all gunny bags of the same size and number are alike, and that all branded and inspected mess pork is of uniform value ; that it is a custom of trade in this city to deliver gunny bags and pork- from the warehouse in which they are stored, without regard to marks or ownership; and that, under that custom, the plaintiff had ho claim upon them for the specific articles they had purchased on his account, but only for the same quantity of gunny bags and mess pork of equal value which they tendered, and were at all times willing to deliver to him.
+It is true, that some of the witnesses have testified to the existence of such a usage; and the belief that it existed, may 'be sufficient to exonerate the defendants from the charge of fraud made by the plaintiff against them. But the evidence is not such as the law requires, to establish a custom of trade. The custom alleged, if it existed, would be contrary to law and good morals, and could not be recognized by a court of justice. Under it, the principal, in case of his agent’s failure, could no longer identify his property; and his right to take it back in kind would, in every case, be defeated. After the sale by the factor of the property of his principal, in' violation of orders, his interest becomes adverse to that of his employer. Having to return the property in kind, he has an interest in the fall of the market, and is subjected to the temptation of assisting to bring it about, in direct opposition of his duty to the principal who employs him.
+It is not true, in point of fact, that all gunny bags of the same size are alike. The evidence shows that there are new and second-hand gunny bags in the market; nor is it the fact, that all inspected mess pork is of uniform value. The quality varies according to the time of the year at which it is packed, the manner of putting it up, the length of time it has been packed, and the place in which it has been kept.
+It has been further urged, that the defendants were compelled to sell the pork because it was spoiling. This is not satisfactorily shown; and if it was, the defendants should have apprised the plaintiffs of the necessity to sell, that he might use his own discretion in the matter, he being in this city at the time.
+The submission to arbitration was not in a legal form, and it is not shown that the plaintiff, who now repudiates the award of the arbitrators, ever agreed with the defendants to execute it.
+We are of opinion, that there is no error in the judgment appealed from. It is therefore affirmed, with costs,
