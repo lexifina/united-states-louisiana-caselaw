@@ -1,0 +1,24 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-04"
+citations: ["3 La. Ann. 398"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State v. Lewis."]
+source_url: "https://static.case.law/la-ann/3/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4809399
+cites_cases: ["7 La. 166"]
+---
+
+# State v. Lewis
+
+## Majority (Kins, J.)
+
+The judgment of the .court was pronounced by
+Kins, J.
+The slave, Lewis, was convicted of murder by a court organized «nder the act of 1846, (Acts, p. 114,) and sentenced to imprisonment at hard labor in the penitentiary for twenty years. After an ineffectual effort to obtain .a new trial, an application was made to the district judge for a habeas corpus, on the ground that the prisoner was detained in virtue of an illegal sentence. The writ was refused, and the defendant has appealed.
+It is contended that the 7th section of the act of 1843, (Acts, p. 92,) which authorizes the jury, in cases where capital punishment or imprisonment at hard labor for life is inflicted for any crime committed by a slave, to pronounce sentence of death, imprisonment at hard labor for life, or for n shorter term in prison, <fcc., lias been repealed by the act of 1846, (Acts, p. 114,) under which the tribunal in the present instance was organized, and that the only discretion left to juries under the latter act is, upon conviction, to pronounce sentence of death, or to condemn the slave to suffer corporeal punishment. There has been no express repeal of the act of 1843. The implied repeal, it is contended, results, first, from creating a tribunal differently constituted for the trial of crimes committed by slaves ; secondly, from specifying two descriptions of punishment only, which the newly created tribunals may decree upon a conviction, to wit, death or corporeal punishment. The omission, in the act of 1846, to enumerate other punishments which juries were authorized By the first act to decree, it is said is a restriction imposed upon their powers, and- a denial to them of authority to decree other punishments than those specified in the act. As there has been no express repeal of the act of 1843, a repeal is only implied in so far as the last act contains provisions contrary to, or irreconciliable with, those of the first. C. C. art. 23. The repeal of prior laws by those subsequently enacted is nob'to be presumed, although the latter may contain provisions different from the former. To produce the effect of a repeal, in the absence of a positive enactment, the provisions of the respective laws must be clearly repugnant. The silence ef the legislature in relation to powers conferred by the first act, is-not to be construed into an intention to abrogate them. C. C. art. 23. 1 Toul. nos. 154, 155, 156. 5 Mart. N. S. 575. 7 La. 166.
+There can be no doubt that most of the provisions of the act of 1843, particularly those creating tribunals for the trial of offences committed by slaves and providing for the mode of proceeding before them, have been impliedly repealed- by subsequent laws. But as regards the 7th section of that statute, it stands in conflict with no provisions of the act of 1846. The former gives a wider discretion to the jury than the latter in relation to the punishments to be awarded, but the two may well stand together; and it is the duty of courts to give effect to both. Nor does the spirit of our recent legislation authorize the conclusion that th©1 legislature intended to deprive the jury of the right to mitigate the- punishment in capital cases, and to substitute imprisonment at hard labor, or corporeal punishment at their discretion, for death, in the event of conviction. An act of 1846, (Acts, p. 118), approved only two days previous to that under consideration, provides, “ that in all cases were the punishment denounced by law is death, it shall- be lawful for t&' jury to qualify their verdict by adding thereto, “without capital punishment;” and when verdicts so qualified are returned, the accused shall only be sentenced to hard labor for life, in the penitentiary. This legislation indicates a growing opinion opposed to capita] punishment, except in extreme cases, leaving it to the jury to determine in what cases it shall be decreed ; and repels the conclusion that there has been any intention, to deprive juries empannelled for the trial- of slaves of the power of substituting other punishment for that of death. A power, the exercise of which is so important to the accused, cannot be held to have been repealed, without an express repealing clause, or provisions in the last law, so clearly repugnant to those of the first, as to leave no reasonable doubt of the intention of the legislature. No such repugnancy presents itself.
+Judgment affirmed.
