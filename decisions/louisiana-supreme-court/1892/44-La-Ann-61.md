@@ -1,0 +1,39 @@
+---
+court: "Louisiana Supreme Court"
+docket: "10,909"
+decided: "1892-01"
+citations: ["44 La. Ann. 61"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Succession of Joseph Llula."]
+source_url: "https://static.case.law/la-ann/44/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5271242
+---
+
+# Succession of Llula
+
+## Majority (McEnbry, J.)
+
+The opinion of the court was delivered by
+McEnbry, J.
+Mary Ann Whitlow brought suit against this succession, alleging in her petition, that she is the owner of one-half of the property in the estate of the late Joseph Llula,together with other rights And claims in said succession. She alleges as the basis of her claim to the property in said succession, that when a minor, under the age of 20 years, she was induced by the representations of Llula to contract with him, and that she was made to believe and consider that she was his wife, and that she lived with him as such thereafter for twenty-eight years,, and as his wife bearing to him two children, both ■of whom died in infaney; that she maintained his household, controlled his personal affairs, and, educating herself, he being illiterate, ■she conducted his business affairs to within eighteen months prior to Ibis death; that during said time she was known, recognized and respected as his wife, and was introduced by him as his wife, and still bears his name and is looked upon as his late wife, and is regarded as his widow; that she took care of and educated certain children of' the deceased, who were illegitimate; that the entire real and personal effects now standing in the name of said Joseph Llula, was taken possession of by his daughter LQuisa, wife of Manuel Suarez Miranda, the same being the entire property acquired during the-existence of the community arising from the effects and business and marriage between the said Joseph Llula and herself. She asserts her rights as the widow in commnnity.
+In addition she avers that she,- during the existence of the marriage with Llula, bought a lottery ticket in the Havana Lottery with her paraphernal funds, which drew a prize of $10,000, which she delivered to said Llula, and which he used for his own personal advantage, and for which she also makes demand.
+There were exceptions filed which were overruled, but resulted in an order for the petitioner to amend her petition, so as to make her demands more explicit. After complying with the order of court,, and perfecting her petition, the defendant filed another exception which was also overruled, and, in our opinion, correctly. The defendant answered, pleading a general denial. The plea of prescription of three, five and ten years was filed by the defendant. There-was judgment for the defendant, and the plaintiff has appealed.
+The facts in the case are that the plaintiff was a married woman when she went to live with Llula.
+She was married to one Dunker, and three weeks thereafter took up with Llula. Her husband was living in New Orleans at the time, and only a short distance from the house where she lived with Llula.
+Her husband afterward joined the Confederate Army, and it is believed was killed or died in the service of the Confederate government. He never, after he joined the army, returned to the city of New Orleans. Llula lived with the plaintiff until three and a half' years before he died.
+After his separation from her he paid her regularly five dollars per week. This amount was paid to her regularly until provision was made for her by the universal legatee under the will.
+She lived with Llula as wife, and he provided for her as such as liberally as his means would permit. She brought no money or property to the establishment, and there is no proof that by her industry she aided and assisted in the acquisition of property. It makes no difference, however, in what light he regarded the relations between him and plaintiff. The law considers marriage in no other view than as a civil contract. Article 86, Oivil Code. 14 An. 770.
+But it is a contract which must be solemnized according to the rules which the Code prescribes.
+Like all other contracts, it may be proved by any species of evidence not prohibited by law, which does not presuppose a- higher species of evidence within the power of the party, and cohabitation and the reputation of man and wife 'are presumptive evidence of a preceding marriage. 2 An. 944; Succession of Hubee, 20 An. 97.
+But presumption arising from facts which tend to establish the solemnization of the contract of marriage is not conclusive, but is subject to be rebutted by testimony negativing the fact of marriage. 15 An. 46; 7 An. 252.
+The plaintiff and her alleged husband entered into an adulterous connection, and the relation between the parties was such that no marriage could have been contracted between them when they first assumed this relationship to each other. The fact that the husband died during this illicit connection can not give a character to it which it did not have when it was first formed. It continued as it had begun. The fact that he treated the plaintiff as his wife and introduced her as such in the community could not destroy or do away with the actual truth of their relationship, nor could it remove from the plaintiff the knowledge that she was a married woman when she deserted her husband and went to live with Llula. She was not in good faith, as she knew that her husband was living and that she could not become the wife of Llula. It was not possible for her to be imposed upon. She was his concubine and can assert her rights only in that capacity. When the relationship of concubinage is incidental, and is not the motive and cause of the parties living together, the concubine can recover from the estate of the deceased, if it has been enriched by her industry. There is a quasi contract on the part of the deceased to make compensation. Succession of Pereuilhet, 23 An. 294; Delamour vs. Roger, 7 An. 152.
+The relationship of concubinage does not prevent the concubina from demanding a settlement of the affairs during its existence, and' a participation in profits derived from capital and labor which sha contributed, although the property is immovable and stands in the name of the deceased. >
+The plaintiff did not contribute in capital and labor to the acquisition of the property left by the deceased. The adulterous connection was the motive and prime cause of the concubinage.
+She was in fact the mistress of Llula, although he seems to have provided liberally for her as wife and respected her as such.
+After the death of Llula, on July 17, 1888, an agreement was made by plaintiff and Louisa Suarez, the universal legatee and heir of Llula, by which the plaintiff received certain property of the succession for services rendered the deceased, as a gift and gratuity, in full for all claims against the succession.
+She has been placed in possession of this property, and has collected the rents. Alleging that the universal legatee and heir has failed to comply with it, she rejected it and brought this suit. The legatee has not been put in default, and no demand has been made for the execution of the deed to the property. This agreement is a complete estoppel to plaintiff’s demand.
+During the time 'plaintiff and Llula were living together, Llula purchased and gave to plaintiff a lottery ticket in the Havana Lottery which drew a prize of 810,000, upon which was realized $2500. This ticket Llula collected, and used the money. He collected the money in September, 1874. The relation between the parties was not that of husband and wife, and prescription was not therefore suspended. The prescription pleaded by defendant must therefore prevail.
+Judgment affirmed.
