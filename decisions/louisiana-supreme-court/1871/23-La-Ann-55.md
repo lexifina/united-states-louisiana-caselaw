@@ -1,0 +1,30 @@
+---
+court: "Louisiana Supreme Court"
+docket: "2955"
+decided: "1871-01"
+citations: ["23 La. Ann. 55"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Louisiana v. George Fritz, alias George Fry."]
+source_url: "https://static.case.law/la-ann/23/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5238242
+---
+
+# State v. Fritz
+
+## Majority (Wyi.y, J.)
+
+Wyi.y, J.
+The defendant having been charged with, and tried and convicted of, the crime of forgery and sentenced to imprisonment at hard labor for four years, has appealed.
+In order to prove that the order for the delivery of the goods, charged to have been forged, was in the handwriting of the defendant, the district attorney was permitted to introduce and offer to the jury another paper or writing, not on the same subject matter and irrelevant to the issue, for the purpose of instituting a comparison of handwriting, and thereby proving that the order, alleged to be forged, was in the handwriting of the defendant. With regard to said writing, so offered to the jury for the purpose of comparison, a police officer testified that on the thirtieth April, 1867, and while the defendant was in duress for some other offense, said officer handed the defendant a pencil and paper, and ordered him to write down such words as said officer should dictate; that the defendant did as ordered; that said officer kept said writing in his possession for over a year, and it was the same paper that-was offered to the jury for the purpose of instituting the comparison. The above facts are set out in the bill of exceptions which was taken by the defendant to the introduction of said paper for the purpose only of comparison of handwriting.
+We think the court erred in receiving the evidence.
+The rule is settled in England and also in many of the States of the Union, that comparisons of hands by juxtaposition of two writings in order to ascertain whether both were written by the same person, is inadmissible. Mr. Starkie, after announcing that evidence by comparison of hands is not admissible, remarks: “As to the reason of the rule which excludes evidence by actual comparison, it has been said that-jurors may not be able to read, and therefore incompetent to make the comparison. This does not appear to be satisfactory; for if the jurors cannot read, they may nevertheless receive the evidence of witnesses who are able to make the comparison. It has also been suggested, that, if such a comparison were to be allowed, an unfair selection of specimens might be made for the purpose of comparison. This, however, would be open to inquiry and observation, and scarcely seems to-be a ground for the total exclusion of such evidence; and perhaps, after all, the most satisfactory reason is, that if such a comparison were to be allowed, it would open the door to a great deal of collateral evidence, which might branch out into very inconvenient length.. Eor in every case it would be necessary to go into distinct evidence to-prove each specimen produced to be genuine, and even in support of a particular specimen (if the present rule was to be broken through), evidence of comparison would be receivable in order to establish the specimen, and so the evidence might branch out to an indefinite-extent.” 2 Starkie on Evidence, 374, 375, and authorities there cited.
+Mr. Phillips also states the existence of the general rule of excluding evidence by comparison of handwritings, and gives the same reasons, remarking, that he considers the best “reason for rejecting such a comparison is, that the writings, intended as specimens to be compared with the disputed paper, would be brought together by a party to the-suit, who is interested to select such writings only as may best serve his purpose; and they are not likely, therefore, to exhibit a fair specimen of the general character of handwriting.” He also states, that “ within a recent period, a rule has been established, which amounts to a considerable relaxation of the strictness of the law in regard to the direct comparison of handwriting. Upon a question respecting the identity of handwriting, the jury maybe allowed to take other papers which have been proved to bo the handwriting of the party whose handwriting is disputed — -provided they are part of the proofs in tho cause — and may compare them with the disputed writing for the purpose of forming their opinion whether the disputed writing is genuine. The principle on which this relaxation of the old rule has been allowed, is stated to be, that the jury, having the documents before their eyes and being obliged to look at them for another purpose, it would be impossible to prevent their forming some opinion with respect to the papers being like or unlike the disputed writing.” * * *
+“But,” he adds, “it is an established qualification of the last mentioned rule, that documents, irrelevant'to the issues on the record, are not to be received in evidence at the trial in order to enable the jury to institute such a comparison.” 2 vol. Phillips on Evidence, 255, 256. See also Cowen & Hill’s Notes to Phillips on Evidence, pages 1326, 1327 and 1328, and authorities there cited. See also G-reenleaf on Evidence, vol. 1, pages 612 and 615, section 578 and section 580.
+It is true, American decisions are not uniform on this subject; but as the rule has been so clearly settled and upon the highest authority in England, we think it best to adhere to it.
+We are not aware that the question has heretofore been presented to this court lor adjudication
+The writing, offered to the jury in this case and received by the court for the purpose of instituting a comparison of handwriting only, was not admissible; and the defendant has been convicted upon illegal evidence.
+The other points presented by the defendant are of no force.
+It is tlieroiore ordered, that the judgment appealed from be avoided and annulled, and that this cause be remanded for new trial, and to be proceeded in according to law.
