@@ -1,7 +1,8 @@
 ---
 court: "Superior Court of the Territory of Orleans"
 decided: "1810"
-citations: ["1 Mart. (o.s.) 108", "1 Mart. (o.s.) 169", "1 Mart. (o.s.) 103"]
+decided_precision: "year"
+citations: ["1 Mart. (o.s.) 108"]
 reporter: "mart-os"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
