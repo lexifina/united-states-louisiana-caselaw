@@ -1,0 +1,22 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1855-01"
+citations: ["10 La. Ann. 18"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Ogden* J., andYooRHiES, J., absent.)"]
+parties: ["Blodget, Clark & Brown v. Hogan & Guyot."]
+source_url: "https://static.case.law/la-ann/10/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11957643
+---
+
+# Blodget v. Hogan
+
+## Majority (Buchanan, J.,)
+
+Buchanan, J.,
+(Ogden* J., andYooRHiES, J., absent.)
+The petitioners allege that they are creditors of the defendant, Guyot; that Guyot being also indebted to the defendant, Hogan, made an agreement with the latter, by which the stock in trade of Quyot (the parties being all dealers in hardware,) was to be deposited with Hogan for sale, and the proceeds appropriated, pro rata, to the satisfaction of the debts due by Quyot to the plaintiffs and to Hogan respectively, those parties being the only creditors of Quyot; that Quyot'a stock in trade was delivered to Hogan; but that, afterwards, the defendants, with the view of defrauding plaintiffs, and of giving an unjust preference to Hogan, had a collusive judgment entered up by confession, under which the merchandize deposited with Hogan by Quyot, was seized and sold by the Sheriff. The petition alleges the insolvency of Quyot at the time of these transactions to the knowledge of Hogan; also, that a large portion of Quyot's stock in trade thus sold by the Sheriff, had been purchased by Quyot of the plaintiffs. Plaintiffs pray for judgment against Guyot for the amount of his debt to them; that it be decreed, that plaintiffs have a privilege on the proceeds of the property sold; that the Sheriff be enjoined from paying over the proceeds of the sale until the further order of the court; that the judgment of Hogan against Quyot be annulled, as to petitioners, and for general relief. The evidence establishes to our satisfaction the truth of the allegations of the petition. The original agreement between the defendants for the surrender of the property of Quyot to Hogan, in order to its being applied in satisfaction of the claims of plaintiffs and Hogan, pro rata, is proved by two witnesses. The deposit of Quyot’s stock in trade with Hogan, the suit and judgment of Hogan against Q'wyot, and the seizure and sale in execution of that judgment, are to be considered as one operation, having for its object the giving a preference to Hogan over the plaintiffs, in legal fraud of the rights of the latter. The insolvency of Quyot and its knowledge by Hogan, are proved by the very terms of the con- ■ tract. The state of facts is one which admits, most clearly, of the application of the revocatory action. Not only contracts which dispose of property, says the Civil Code, Article 1984, but all others which are made in fraud of creditors, and deprive them of their recourse upon the property of their debtor, come within the provisions of the section of the Code which treats of this action. In the case of Prats v. His Creditors, 5th Robinson 288, the court held “a fraud perpetrated by the machinery of a judgment, when the courts themselves are made the unconscious instruments, is as liable to be questioned and annulled, as when effected by the legal forms of a contractand in Stone v. Kidder, 6th Annual 552, the court said “ every fraudulent device, contrivance or artifice, by which a creditor may have been injured, and from which a fraud upon his rights is practiced, is reached and remedied by this action.”
+It is therefore adjudged and decreed, that the judgment of the District Court be affirmed as to defendant Guyot; that as to defendant, Hogan, the judgment be reversed; and it is further decreed, that plaintiffs, Blodyet, Glaoic & Brown, recover of L. K. Quyot, fifteen hundred and eight dollars, thirty-eight cents, with legal interest from the 3d March, 1853 ; that the injunction herein issued, be perpetuated; that the judgment in the case of J. S. Hogan v. L. E. Quyot, No. 6451 of the docket of the Fifth District Court of New Orleans> rendered on the 8th February, 1853, be avoided as to its effect upon the plaintiff; that the proceeds of Sheriff’s sale under execution in said suit be applied to the payment of the judgment rendered in favor of plaintiffs against A. E. Quyot; and that the defendants and appellees, J. S. Hogan and L. E. Quyot, be condemned, jointly and severally, to the payment of the costs of the present-suit in both courts.
