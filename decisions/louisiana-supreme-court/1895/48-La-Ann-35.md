@@ -1,0 +1,55 @@
+---
+court: "Louisiana Supreme Court"
+docket: "11,861"
+decided: "1895-11-08"
+citations: ["48 La. Ann. 35"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, J., recused."]
+parties: ["The State of Louisiana ex rel. Citizens Bank of Louisiana vs. Board of Assessors et als."]
+source_url: "https://static.case.law/la-ann/48/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8500791
+cites_cases: ["23 N. Y. 192", "30 Ark. 693"]
+---
+
+# State ex rel. Citizens Bank of Louisiana v. Board of Assessors
+
+## Majority (McEnery, J.)
+
+The opinion of the court was delivered by
+McEnery, J.
+The Citizens Bank, in pursuance of a provision in its charter, demands that certain assessments against its property be canceled.
+The defendant Board of Assessors contend that the same issue is now pending before the Circuit Court of the United States between the same parties and pleads lis pendens. The board urges also as a defence that the Act No. 40 of 1874, granting an extension to the bank of its charter, is unconstitutional, being in violation of the Constitution of 1868, and that the bank by voluntarily adopting the provisions of Act 79 of 1880 brought the charter under the provisions of the Constitution of 1879, in which case there could be-no exemption of the capital of the bank. It will be unnecessary to notice these defences, nor will it be necessary to discuss the plea of res judicata pleaded by the bank. The cases to which it refers in support of the plea involved the furniture in the banking house, the banking house property and the shares of stock of the corporation. The property upon which it was attempted to assess taxes in those suits is different from that in the instant ease, and the issues are es* sentially different. The property which it is attempting to relieve from taxation is certain real estate specially mortgaged to the bank to secure the payment of 854 shares of the capital stock of the bank. The bank foreclosed the mortgage and purchased the property in order to make the debt.
+The charter of the bank has been so often discussed and the manner of the formation of its capital by subscription to stock and its security by special mortgage so universally understood that we are relieved from the labor of a review of the charter, and again Stating the rights of the bank under its special mortgage to secure stock subscriptions.
+It is only necessary to say that under the supplemental and amendatory Act of 1836, Sec. 4, only the capital of the bank is exempt from taxation. Citizens Bank vs. Bouny, Tax Collector, 32 An. 239.
+The question for solution is: The stock for which the special mortgage was given to secure, being exempt, does the purchase of the property by the bank substitute the mortgaged property for stock, thus making it a part of the capital of the bank, exempting it from taxation?
+The statement of the proposition we think carries with it a negative answer. The shares of stock and the property mortgaged to secure it are distinct and different things. The property while in possession of the mortgagor was subject to taxation, while the shares of stock issued by the bank were exempt. The charter of the bank by its very terms and recitals never contemplated that immovable property should form any part of the banking capital.
+It never contemplated that the bank should become the owner of the property in default of paying the mortgage — otherwise there would have been .i different contract with the stock subscriber.
+The bank, like any other mortgage creditor, could only become the owner of f he property in the contingency of no one bidding more for it than the creditor. In relation to this mortgaged property it stands in no more favorable relation than if it went into the market as a speculator and purchased, property. If it should do so and become the owner of property, we do not think it would have the assurance, under its present charter, to ask relief from taxation.
+The debt of the bank, secured by special mortgage, gives it only a right to have the property judicially sold to pay the debt. It is unfortunate if the security is inadequate, and no purchaser can be found to bid the amount of the debt. The bank is thus forced to purchase the property in certain instances, but we fail to see wherein the mortgaged property, by the purchase, becomes a part of the capital of the bank. The composition of the capital of the bank is stated in its charter, and there is no reference whatever to immovable property being a part of the capital stock. Such being the case the purchase of property mortgaged to secure a part of its capital certainly can not give this specified property a new character.
+In its broadest meaning capital signifies actual estate, whether in money or property owned by an individual or corporation. 23 N. Y. 192.
+It is the fund upon which a corporation transacts business which is liable to its creditors, and in case of insolvency, passes to a receiver. 28 Barbour, 320.
+The Citizens Bank does not transact its business on an investment in the purchase of immovable property. Its capital is fixed by its charter.
+The capital of the ¿bank is composed of loans. These loans are granted and secured byjmortgages, which mortgages shall form the basis of and stand j'as full security for the loans and the interest thereon, which the directors are authorized to make as forming the capital of said bank. Sections 1 and 3 original charter, Act of 1833.
+In the charter the word capital means capital stock, the amount of capital designated by the charter, and not the value of the property of the corporation. 30 Ark. 693.
+Stock in corporations is personal property. The capital of the bank is composed exclusively of personal property. The mortgage' is only an accessory obligation to enforce the payment of the principal one, and we can not perceive in what manner, when subjected to --(KriWESKn. the ownership of the bank in the enforcement of the payment of its debt, it takes the place of and stands in lieu of the debt, free from the privileges accorded by lawlto the debt. If the mortgaged property sells for enough to pay the^debt, it is, of course, extinguished. If for less, then there is still anjobligation resting on the debtor to pay the balance not realized.
+If the mortgaged property is to stand in the stead of the principal obligation it must dogso in its entirety. What is to become of the unpaid balance as to taxation? We would in such a case be confronted with the anomaly of the mortgaged property being exempt from the whole amount of the subscription and the unpaid subscriptions also exempt.
+This case might have been disposed of by the assertion that the property, upon which the special mortgage was given to secure the payment of the stock subscription, was not and is not exempt from taxation. Can the mere act of purchasing the property by the bank give it a status, which it did not have before?
+The proposition that the mortgaged property, when subjected to the ownership of the bank, does not take the place, as capital of the bank, of the capital stock it was intended to secure, is so plain to us that we have had difficulty in framing an argument to sustain such a self-evident truth. Thi3 is the view evidently taken by defendants, as they have failed to file a brief, and we have looked in vain into relator’s brief for any substantial .reasons against the position assumed by us, unless, as we infer, the contention is that the exemption in the original charter is still in force, and that all the property of the bank is exempt from taxation. But even in this contingency, we would be inclined to the opinion that the property referred to was only that used in immediate connection with the banking business of the corporation, such as its banking building, furniture, etc., which formed the subject matter of the dispute in the cases pleaded as res judicata by relators.
+The judgment appealed from is annulled, avoided and reversed, and it is now ordered that the relief prayed for be denied, and the demand of plaintiff be rejected, and the rule granted discharged.
+Miller, J., recused.
+
+## Rehearing
+
+On Application nor a Rehearing.
+We have carefully considered the reason urged for a rehearing in this ease. On a re-examination of the questions presented we are more than confirmed in the correctness of the views expressed in the opinion.
+We refrained from stating the effects as to the taxation of the bank’s capital, in consequence of Act 79 of 1880. We now do the same because we think it unnecessary to do so. We propose to let this question, as to the exemption of the bank’s capital, rest on the decisions heretofore rendered.
+A written acceptance of the act was filed by the bank with the Secretary of State.
+Section 4 of the act reads that “this act shall not be binding, or confer any right upon the bank unless accepted within twelve months from the date of this act, and under the conditions prescribed in Arts. 234 and 237 of the Oonstitution. Such acceptance to be manifested by the bank in writing, and filed in the office of the Secretary of State.”
+That the act was for the benefit of the corporation is made certain by the acceptance of the benefit of the act and the text of the same. Art. 234 forbids the amending or the altering of the charter of an existing corporation for the benefit of such corporation, except upon’ the condition that such corporation shall thereafter hold its charter,, subject to the provisions of the Constitution of 1879.
+Article 237, which the bank accepted as governing its charter, provides that “no corporation shall engage in any business other than that expressly authorized in its charter, or incidental thereto, nor shall it take or hold any real estate for a longer period than ten years, except such as may be necessary and proper for its legitimate business or purpose.”
+The acceptance of the benefits of the act bring this corporation under the provisions of the above article.
+It is restricted to the business of banking. It can not for a longer period than ten years hold real estate not essential to the conducting of its banking operations. To hold that' the property purchased is a part of the banking capital would, in effect, be to repudiate this article of the Constitution and to nullify the bank’s acceptance of the same.
+If it be a part of the banking capital it can not be diminished in ten years; otherwise the corporation would probably go out of existence by the exhaustion of its capital. The cultivation or the leasing of the property purchased — the only way of administering it without loss, is not a part of the business operations of the bank, nor is it incidental thereto. We think the Citizens Bank has heretofore obtained all that it is entitled to, the exemption from taxation of its capital proper and the real estate necessary for the carrying on its legitimate business or purposes.
