@@ -1,0 +1,35 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1820-09"
+citations: ["9 Mart. (o.s.) 49"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BERNARD vs. SHAW & AL."]
+source_url: "https://static.case.law/mart-os/9/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12117890
+cites_cases: ["5 Mart. Rep. 658"]
+---
+
+# Bernard v. Shaw
+
+## Majority (Martin, J.)
+
+Martin, J.
+delivered the opinion of the court. The plaintiff stated that he is the owner of a tract of land of thirty-three arpens in front, on both sides of the bayou Têche with the ordinary depth—that he has peaceably and uninterruptedly possessed it for upwards of a year and a day, and ten years before the institution of this suit, with a good and just title, and always paid the taxes therefor: notwithstanding which, a few months back, the defendants have entered on the said land and disturb and molest him in his possession: and, if the court deem it necessary, in this action for possession, to exhibit titles, he purchassed the premises, in the year 1804, from the Chitimachas Indians, who, in the following year, confirmed his title—that the land was, before such a sale the property of the said Indians and so recognized by the government of the province of Louisiana. He prayed to be restored to his possession and for general relief.
+Shaw pleaded the general issue and that the possession, set up by the plaintiff, is a trespass against the Chitimachas Indians and the pretended sale is illegal and void.
+Prevost and Castillon pleaded the general issue, and that they have a good title to the premises, under a lease from the Chitimachas Indians to J. B. Bourgeois.
+At the trial the plaintiff offered in evidence a deed from the Chitimachas, dated March 1st 1804, for the premises, to the plaintiff, for the purpose of proving his possession, the land being a part of the tract mentioned in Galvez's order dated September 14, 1777. The court refusing to receive the said deed in evidence, the plaintiff’s counsel took his bill of exceptions.
+He also offered the receipts of the collectors of taxes for the United States, the state and parish, for the taxes due or the premises from 1807 to 1819, inclusive, to shew that the land had always been considered as his, and to prove possession. The court refusing to receive these receipts in evidence, he took a bill of exceptions.
+The court gave judgment that the defendant Prevost having, in open court, acknowleged the right of the plaintiff—the latter recover the land and costs against the former, and, the plaintiff having failed to establish his right of possession against the other defendants, that there be judgment for the latter. The plaintiff appealed.
+The statement of facts shews that the plaintiff gave in evidence an order of governor Galvez of September 14, 1777, forbidding the inhabitants, in any manner, to molest the Chitimachas Indians of Grand Terre, in the establishment which they occupy and ordering the commandant to see that they be not molested and maintain them in the possession of their land.
+Fusilier deposed that, two years ago, the plaintiff cut a road through the woods, opposite to the house, in which the defendant Castillon now lives and has ever since used it. That the petitioner, who now lives not far from the road, has always cut and used the wood upon the land, where he cut the road, and which is that which he always claimed as his own and was so considered: the defendant's cabin was on the bank of the bayou Têche, and the road began behind it and about ten arpents from it.
+Pellerin deposed that for many years, he believes since 1804, the plaintiff has been considered as the owner and possessor of the land in dispute. That some time in 1805, the plaintiff placed an Indian named Penigou, in a cabin to keep possession of the land for him, which cabin was not more than an arpent, from the place on which the defendant now lives. As well as he recollects, it was several years since he saw what he ever told was the defendant's cabin. He believes the defendant never finished it nor lived in it, until within a few months. Penigou died about ten months ago. The plaintiff went to France in 1806 and returned in the latter part of 1815, or the first of 1816, and has ever since lived on the land he bought from the Indians, part of which is the land in dispute.
+Verret, on the part of the defendants, deposed that in February 1818, the defendant for the first time went upon the land, made a clearing of two thirds of an arpent in front and one in depth, and began to built a cabin. He placed the posts, raised the roof and lathed it, but did not cover it, nor mud or inclose the house with any thing, nor made any door or windows. The defendant lived at the distance of about ten arpents, and to his knowlege the defendant did not live there. He went often to see them at work and never saw any kitchen or house furniture, and no inclosure or fence were put up. The defendant moved upon the land about two or three months ago, that is into the cabin, which he had began ; he finished it and now lives in it.
+Bonvillain deposed that the cabin of Penigou, the Indian, was about ten arpents from the place on which the defendant now lives—that he lives in a cabin, which he began about two years ago, and which he finished and moved into about two or three months ago. Two years ago the defendant began to build the cabin, put up the posts and rafters and then left it, until he returned about two or three months ago.
+It is admitted that the statement of facts does not relate to the defendant Shaw, as it is not subscribed by him nor his attorney, and does not appear to have been made with the consent of either of them, and the plaintiff’s counsel admits he considered the suit as dismissed, in regard to this defendant.
+The action is clearly a possessory one only, altho’ the plaintiff has made a mention of his title. In suffices, therefore, that he should shew a possession for a year and a day, as the defendant has neither any title nor possessession during that time.
+This he has done by the testimony of Fusilier and Pellerin, which shews that he took possession of a quantity of land (which includes the premises in dispute) under a deed from a chief of the Chitimachas Indians. Had the witnesses declared that the plaintiff possessed the land, under the oral permission of the owner—this would have sufficed. Now notwithstanding the deed may be void, as to the tranfer of the vendor’s right, it may be resorted to as evidence of the quantity of land to which the apparent vendee, with the consent of the owner took possession of, against a stranger, without the least color of title.
+The title of the Chitimachas Indians must be admitted, since both the plaintiff and defendants claim under it.
+It is therefore, ordered, adjudged and decreed that the judgment of the district court be annulled, avoided and reversed, and that the plaintiff do recover from the defendant the possession of the premises, with costs in both courts.
