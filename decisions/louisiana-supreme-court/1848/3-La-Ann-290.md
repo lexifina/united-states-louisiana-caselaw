@@ -1,0 +1,26 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-03"
+citations: ["3 La. Ann. 290"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Somerville v. Young."]
+source_url: "https://static.case.law/la-ann/3/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4806315
+cites_cases: ["1 Johns. 294", "11 Rob. 459", "7 La. 13"]
+---
+
+# Somerville v. Young
+
+## Majority (Slidell, J.)
+
+Th6 judgment of the court Was pronounced by
+Slidell, J.
+The defendant is sued as endorser upon a note made at Columbia, Maury county, Tennessee, in July 1839, and protested for nonpayment, in November, 1839. The defence'is want of notice. The material facts are as follows: It appears that, in December, 1838, the defendant who had been a resident of Maury county left Tennessee, and went to the south with the intention of settling somewhere in the southern country; that, in January, 1839, he selected Young’s Point, in the parish of Madison, La., and established himself there, but was in the habit of leaving that place in the summer. For the first summer or two he returned to Tennessee.
+The notary who protested the note sent a messenger with a notice for the defendant, which was delivered on the same day to the defendant’s father, at his dwelling in Maury county. He also mailed a notice addressed to the defendant, in Mississippi; but whether any place in Mississippi was designated, does not appear. The notary states that he received the note from the cashier of the bank of Columbia, the then holder, and sent the notice to the defendant’s father, as directed by the cashier; that he believed, at that time, that his father’s house was Young’s permanent home. He also states: “I did immediately make diligent enquiry,as to the residence of each of said endorsers, and sent notices to them as stated above, agreeably to the best information that I could get; but upon whose information or what information I proceeded thus to act, aside from the cashier and my own information and memory generally, I cannot now recollect, but feel certain that I made diligent search as to A, M. Young, the defendant, and addressed notice to him agreeably to the information that I had, believing it reliable.”
+It is very properly said by the counsel for defendant, that the question of diligence is a mixed question of law and fact; and the objection that the notary, instead of detailing all his acts in the matter, has undertaken to say that he exercised due diligence, would have had much force if ,a bill of exceptions had been taken to his testimony. It would then have been our duty to consider whether the circumstance, that an interval of five years had occured between the protest of the note and the examination of this notary as a witness, would authorise a relaxation of the strict rules of evidence and let in the testimony for what it might be worth, or whether it should have been excluded. But no exceptionwas taken to the introduction of the evidence, and the objection cannot now be raised. The case stands before us, therefore, as one in which diligent enquiry is sworn to have been made by a witness, a public officer, whose testimony is unimpeached ; in which the notice was given according to information obtained upon such diligent enquiry, and which the public officer believed to be reliable. There is nothing before us from which it can be inferred that more accurate information could have been obtained in the town of Columbia. And it must also be observed that, there is no evidence to show that the fact of Young’s new residence was generally known. "When he left his home, in December, 1838, it was, as proved, with the intention of looking out for p settlement somewhere in the south ; but we find him at home again in six months after this, and the very fact of his endorsing his name in Tennessee, in the summer of 1839, and of the bank being willing to take him as endorser, goes very far to dispel the idea that his new domicil could then have been generally known in Columbia. It is impossible, under the evidence and circumstances, to suppose that it could have been known to the bank. It is out of the usual course of business of banks to discount notes upon foreign endorsements.
+When a man puts his name on negotiable paper, at short date, in the county of his anciont domicil, which the holder has, under the circumstances, reason to believe is still his domicil, and then defends a suit upon such paper upon the ground that his domicil was in another country, and notice should have been sent to him there, it is just to say that he ought not merely to show that, he had abandoned his .ancient and acquired a new domicil, but he should also be held t.o show affirmatively that he had given a reasonable publicity to the fact, and had left behind him reasonable means of ascertaining his new abode.
+Upon the whole, we think the district judge was authorized to conclude that reasonable diligence had been shown, an.d that the notice was sufficient.
+Judgment affirmed, with costs, in the name and for the benefit of Allen Peirsc, in his quality of administrator of the plaintiff. John Somerville, deceased.
