@@ -1,0 +1,24 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1828-02"
+citations: ["6 Mart. (n.s.) 523"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PIERCE vs. MORGAN."]
+source_url: "https://static.case.law/mart-ns/6/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6686780
+---
+
+# Pierce v. Morgan
+
+## Majority (Matthews, J.)
+
+Matthews, J.
+delivered the opinion of the court. In this case the plaintiff obtained an . . . i-ii . . „ . injunction, by which the sale oi certain property, seized, in his possession, under an order granted at the instance of one Susanna Hepp, as hypothecary creditor, was suspended. On hearing the cause, the court below dissolved said injunetion, and from the decree of disso» lution the plaintiffs appealed, &c.
+The evidence of the case shews, that Mrs« Hepp became the proprietor of the debt on which this order of seizure was issued, by regular transfer under authentieact, and endorsement of the mortgage and' notes which had been given by one Nichols, to secure the payment of the price of three lots of ground situated on the batture in front of fauxbourg Sau-let, designated in a plan of the place by Nos. 19,20 and 21, Nichols sold these lots tp the plaintiff, who possesses them under this sale, and has commenced the erection of a steam saw-mill thereon. The two first, Nos. 19 and 20 were sold to Nienols by S. B. Bennet, and also, one-half of the lot No. 21; the other . _ half being sold and conveyed by the widow and heirs of Géorge Hunter; the act of sale was execute(j on the 25th of January, 1825, in which George H. Hunter appeared, .and sold as one of these heirs, but had previously failed» and surrendered his estate, which was held by syndics, to be disposed of for the benefit of his creditors. In consequence of this surrender and proceedings in the concurso, the interest which the insolvent had in the lot No. 21 being 1-lOth, has been sold at auction, and brought the price of $700, The injunction was obtained to prevent the in/ury which the last purchaser and third possessor of the property was liable to suffer from this claim of the creditors of George H. Hunter. Previous to the dissolution of said injunction an actual distur* bance took place, by the sale of his interest, jnade by order of the syndic, and the amount of loss to the possessor, ascertained to be 700 dollars.
+According to this statement of the case, we are of opinion, that the parish court erred in dissolving the injunction in toto. Admitting that the cause must be determined by the law on this subject, as it existed, and had been interpreted, by decisions previous to the adoption of the Louisiana code, still the plaintiffs ought to he relieved against an injury, not only probable in consequence of judicial proceedings having been commenced, calculated to affect a part of the property which he holds bonafide, but certain and fixed, as to amount, by actual sale under those proceedings.
+As there is no incumbrance or disturbance shewn in relation to the two lots Nos. 19 and 20, the sheriff should be permitted to proceed Without injunction to sell them for the purpose of effecting payment of their price. The circumstance of the present proprietor and pos* sessor having Consolidated the three lots into a single tract or space of ground, to suit his own Convenience, cannot affect the rights which the vendors retained on them separately to secure payment of the price for which they were sold. Jn the salé to be made under thé seizure of lot No. 21, the present value of George H. Hunter’s share, which appears to be lost to the plaintiff in the injunction, and is shewn by public sale to amount to *700 dollars, should be deducted from the original price for which said lot was sold to Nichols, and by him mortga* sed. &c.
+Lockett for the plaintiff, McCaleb for the defendant.
+It is therefore ordered, adjudged and de-J ° creed, that the judgment of the parish court annuue(j? avoided and reversed, by which injunction heretofore granted was entirely dissolved. And proceeding here to make such judgment and decree, as, in our opinion, ought to have been rendered in the court below, after hearing the cause on its merits; it is ordered and adjudged, that the injunction granted in the first instance by the paris bcourt be entirely dissolved,so far as itstayed thesale of lots Nos. 16 and 20, which form a part of the matters in dispute; and it is further ordered and decreed, that it be made perpetual, to the extent of seven hundred dollars, on the amount claimed by the plaintiff, in execution, as the price of lot No. 21, and that said injunction be dissolved as to the balance of the price of said last, mentioned lot, to satisfy which, the sheriff may legally proceed to sell: the appel-lees to pay costs of this appeal.
