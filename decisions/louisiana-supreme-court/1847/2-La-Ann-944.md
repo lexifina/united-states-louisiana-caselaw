@@ -1,0 +1,32 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-10"
+decided_precision: "month"
+citations: ["2 La. Ann. 944"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hobdy v. Jones."]
+source_url: "https://static.case.law/la-ann/2/cases/0944-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 335433
+cites_cases: ["1 Doug. 170", "4 Bur. 2057", "6 La. 463"]
+---
+
+# Hobdy v. Jones
+
+## Majority (Eüstis, C. J.)
+
+The judgment of the court was pronounced by
+Eüstis, C. J.
+This is an action of damages for slander. The slander pose of destroying his character and defeating his election. The defendant in liis answer alleged that, he did not utter the words as laid in the petition as facts within his own knowledge, but stated them, in the canvass for the legislature, as matters that had been currently reported in the parish for many years; that, in so stating the existence of such reports, he stated the truth; that he was not influenced by malice, but acted from a sense of duty as a good citizen, in endeavoring to procure the election of men of unspotted reputation to represent the parish in the legislature. There was a verdict for the plaintiff for $2,000. There was an unsuccessful application for a new trial, and the defendant has appealed. charged is the declaration of the defendant, in conversation with a third person, that the petitioner was never married to his wife, and was living at his present domicil in open concubinage and criminal connection with her, together with other declarations of an aggravated nature. The petitioner alleges the falsity of those charges, his good reputation and that of his wife, and the injury sustained by him by reason of the slanderous report circulated by the defendant. It is alleged, among other injurious consequences of the slander, that it was promulgated on the eve of an election for the legislature, the plaintiff being then a candidate for the place of representative from his parish,'and that several citizens, to whom his character was unknown, refused to support him inconsequence of hearing the report; that the slander was uttered maliciously ,• and for the pur-
+On the merits, We consider it our duty to affirm the verdict and judgment. It was proved by several witnesses that, for may years, the plaintiff has lived with his wife as her husband; that they were generally reputed as married persons; that they had been visited as such by the ladies of their neighborhood, and had borne a good reputation. It was proved by some witnesses for the defendant, that rumors had existed that the parties were not married ; these rumors do not appear to be general, and the evidence appears to justify their origin as traceable to an individual who was at enmity with the plaintiff, and who is characterised as a vindictive man, and disposed to indulge in the abuse of those whom he did not like. The rumors do not appear to have received much credence. It was proved that the plaintiff had been affected in the canvass by the defendant’s attack upon his character.
+It is proper to notice a bill of exceptions taken by the defendant;
+“ The judge charged the jury that, the circumstance of the plaintiff and his Wife living together as man and wife was prima facie evidence of a marriage betvveen them; to which charge of the judge the defendant by his counsel excepted, and requested the judge to charge the jury that, in an action of slander brought by a plaintiff to recover damages from defendant for having slandered-him,.by saying that he and his Wife were living together in a state of concubinage and adultery, the law would tíot presume a marriage between plaintiff and his wife from co-habitation, but it would be incumbent on plaintiff to prove an actual marriage; which Charge the judge refused to give to the jury; to which opinion of the Court refusing said charge, the defendant excepted.”
+It is not necessary to decide on the Correctness of the charge of the judge on the point stated, nor of his refusal Jo give the charge asked by the counsel for the defendant, for the law in relation to the particular point on which the decision of the court was had covers but an inconsiderable portion of the case. We will state, however, our opinion of the law on the evidence before' the jury.
+It was not incumbent on the plaintiff, under the evidence before the jury, to prove an actual marriage. The very authority quoted by the counsel for the defendant from Douglas’ Reports, is Conclusive. In an action for a criminal conversation with the plaintiff’s wife, Lord Mansfield expressly states that it is the only civil ease in which it was necessary to prove an actual marriage; in other cases, Co-habitation and reputation are equally sufficient.
+The possession of the conjugal condition in the present case was sufficient evidence of the marriage. By our laws it would be sufficient to establish the paternity of the issue, and was a question of fact for the jury to determine.
+To enable them to come to this conclusion, evidence was properly admitted of the parties living together and treating each other as man and wife; of their being received in society as such; of their being visited by the families of respectable citizens of the neighborhood; and of their demeaning themselves in public and elsewhere, as man and wife, and being so considered in the community in which they had for years resided as members of society,in the enjoyment of their respective conjugal rights. Greenleaf on Ev. § 107. Holmes v. Holmes, 6 La. 463. From the uncontradicted evidence of this character the jury were bound to consider the marriage as proved, and their verdict, so far as relates to the proof of the marriage, is in accordance to our view of the law* The other slanderous words have the support of no evidence whatever to substantiate them.
+The other bills of exceptions taken by the counsel for the defendant we do not consider it necessary to notice, otherwise than by saying that we are of opinion that the judge did not err in his decisions rendered on the matters excepted to; they rest on principles so familiar, as to require no particular explanation.
+The damages we do not consider excessive; and the judgment of the District Court is in accordance With our view of the justice of the case.
+Judgment affirmed.
