@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1851-12"
+citations: ["6 La. Ann. 795"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Succession of Felix Connolly."]
+source_url: "https://static.case.law/la-ann/6/cases/0795-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 523793
+---
+
+# Succession of Connolly
+
+## Majority (Rost, J:)
+
+The judgment of the court (Eustis , C. L, absent,) was pronounced by
+Rost, J:
+The appellants, who were not parties in the court below, set up in this court a new cause of action, and it may well be doubted whether such a proceeding is authorized by article 571, C. P. It is unnecessary, however, to determine this question as supposing the right to exist; the pretensions of the appellants are preposterous as to some of them, and without any foundation as to the others.
+Bridget. Connolly was confirmed as tutrix, by nature, of her minor children, and caused an inventory of the property of Patrick Connolly, and of the firm of Patrick Connolly and Sort to be made, and the promissory notes, bills receivable, slaves and book accounts inventoried, were left by the notary, in the possession of the tutrix. She was subsequently appointed administratrix, but she was unable to give security, and syndics were appointed by the creditors. The syndics took upon the tutrix a rule, to show cause why she should not deliver to them the evidences of debt and slaves .above mentioned. This rule was made absolute, and execution having issued thereon, the return of the sheriff was, that he had not found them, and that the defendant denied having them in her possession. No farther steps were taken to compel Bridget Connolly to obey the order of court, and the object of the appeal now taken by her and her minor children, who have since become of age, is to charge the creditors of Patrick Connolly and Son, and of Felix Connolly, the other partner who has since died, with the amount of the credits and the value of the slaves inventoried, on the ground that the slaves are not to be found, and that the credits have been either collected by the syndics or lost through their negligence. In support of this ground of action, their counsel relies on the cases of Fitzgerald v. Phillips, 4 M. R. 559. Meilleas v. His Creditors, 3 L. R. 532. Succession of Desormes, 10 R. R. 474.
+We must infer, from the return of the sheriff, upon which the appellants mainly rely, .that the slaves, notes, bills and commercial books, remained in the possession of Bridget Connolly, and there is nothing in the record to show that the syndics ever administered upon any portion of those assets, beyond that for which they have accounted. It is clear that they could not have collected the sums due the succession without the evidences of debt. It is said, that it was their duty to have resorted to compulsory measures against Bridget Connolly; such may have been their duty towards the creditors whom they represented, but what injury have the appellants sustained in consequence of their indulgence to their mother ?
+The appointment of syndic under the special provisions of the act of 1826, did hot vest the property of the succession in the creditors, as is the case in voluntary surrenders. B. and C. 497, sec.7; The succession having been accepted under benefit of inventory in behalf of the minors, the title was in them, and so ag were concerned, their tutrix had authority to administer such portions of it as the syndics left in her hands. The assets, for which the appellants now claim indemnity, remained under her administration for their benefit, instead of being applied by the syndics to the payment of the debts. She may have collected the credits, and her answer to the sheriff may have been true, in part, at least; whether it was or not, she was accountable to her children for their share of those assets, and they had a legal mortgage upon all her property, to secure their claims. The possession of their tutrix was, constructively, their possession, and it is no just ground of complaint, on[their part, that instead of being divested of that possession, other property of the succession has been taken for the payment of its debts. It would be unfair to charge the creditors with this portion of the assets, while the right of the heirs, to compel their mother to account for it, stands unimpaired, unless it should, through their neglect, have been lost by lapse of time. The claim of Bridget Connolly herself, requires, of course, no notice, and under the facts of the case, Felix Connolly must be presumed to have assented to all that was done.
+It has further been argued, that the goods inventoried had not been accounted for by the syndics. But if this was true, the balance due the creditors, after deducting the appraised value of the goods, would far exceed the fund to be distributed. We are of opinion that the appellants have not made good their claim to that fund.
+The judgment is affirmed, with costs.
