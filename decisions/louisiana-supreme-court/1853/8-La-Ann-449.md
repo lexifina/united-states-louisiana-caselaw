@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1853-09"
+citations: ["8 La. Ann. 449"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Slidell, O. J., and Buciianan, J., concurred with Ogden, J."]
+parties: ["Peck & Lyman v. Henry C. Dwight."]
+source_url: "https://static.case.law/la-ann/8/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 527979
+---
+
+# Peck v. Dwight
+
+## Majority (Ogden, J.)
+
+Ogden, J.
+I think this case should be remanded, with directions to the Court below to receive the testimony of William Sharp. The objection made to his testimony, on the ground of interest, in my opinion, cannot be sustained. He swears against his own interest by fixing upon himself the liability for the plaintiff’s claim, so that he will be bound, in any event, to pay the amount in controversy. I do not see how he could be made liable for the costs of the present suit, no matter in which way it is decided. If judgment should be rendered against Dioight, it would be impossible for Dioight to recover the costs of this suit from Sharp, on the ground that it was a debt for which Dioight was the security of Sharp, because Dwight and Sluvrp have, by their declarations, denied such a relation between them to have existed, and the plaintiff has neither alleged or offered to prove any such fact. The action is based upon an alleged advance made by them to Dwight, and the only question is whether the advance was intended to be made to Dwight or Shuep. The fact that at the time of making the advance, a special guarantee was taken by the plaintiffs from Dioight, that the sugar and molasses should be shipped to their house by Bord, and that it was expressly stipulated in the guarantee, that if the sugar and molasses should be lost or damaged on the voyage, Dioight should not be responsible, is a reason for requiring explanation of the whole transaction. The authorities cited by the plaintiffs’ counsel do not apply to tho circumstances of this case, and the case ought to be remanded for a new trial.
+It is, therefore, ordered, adjudged and decreed, that the judgment of the Court below be reversed, and the case remanded, with directions to the Judge to receive the testimony of William Sharp ; and it is further ordered that the costs of this appeal-bo paid by the defendant.
+Slidell, O. J., and Buciianan, J., concurred with Ogden, J.
+
+## Dissent (Vooiuiies, J.,)
+
+Vooiuiies, J.,
+dissenting. The plaintiffs’ demand is based on the following circumstances. In January, 1850, Thomas Hord purchased of William Sharp a sugar estate on certain terms and conditions, stipulating, among other things, to deliver, in payment of the price, to the order of his vendor, two-thirds of each crop of sugar and molasses to be made by him on said estate for six consecutive years, the balance of the price, after the expiration of that time, to bo paid in full. On the 25th of January, 1851, Hord shipped one hundred and sixteen hogsheads of sugar, eighty-four tierces of molasses, and four tierces of cistern bottom to the plaintiffs, merchants of New York, to be sold for his account, instructing them to place the net proceeds thereof to the credit of Sharp, except one-third of the molasses and cistern bottom, which ho reserved for himself. The day previous to the shipment, Hord drew the following order in favor of Sharp on Lyman, one of the plaintiffs: u Mr. H. H. Lyman will please pay Wm. Shaop, or order, the proceeds of one hundred and sixteen hogsheads of sugar and two thirds of the proceeds of eighty-four tierces molasses and four tierces of cistern bottom, and oblige, &c.” On the 2oth of January, 1851, the day after, the following endorsement was made on it: “ Pay the proceeds of the within sugar and molasses to H. G. Dwight, or order,” and signed by Shaop. On this assignment the defendant procured from the plaintiffs an advance of $6500. The proceeds of the consignment having fallen short to meet the amount of the advance, the balance resulting in favor of the plaintiffs constitutes the subject matter in dispute.
+The receipt of the defendant is in these words: “Received, Franklin, Jan’y 25th, 1851, from Peck & Lyman, H. 3. Lyman’s draft on the said Peck & Lyman, at one day’s sight, for six thousand, two hundred and fifty dollars; also H. 3. Lyman’s chock on Oanal & Bank’g Co., New Orleans, for two hundred and fifty dollars, in all six thousand and five hundred dollars, as an advance on account of a shipment made to them by Thomas Hord, and in accordance with an agreement signed by me and dated this day; the said Hord haring giren an order for aportion of the proceeds of the said shipment to Wm. Sharp and the said order being endorsed to me, the said sum has been received on said order and is to be credited on the same.” The defendant gave a guarantee to the plaintiffs that the sugar, molasses and cistern bottom should be shipped as stipulated by Hord to them ; its obligations extend no farther.
+From this state of facts it is clear that the defendant is liable to the plaintiffs for the balance resulting after allowing the proceeds of the consignment as a credit. But it is urged by the defendant that the plaintiffs must fail in this action, as they have failed to establish the correctness of the accounts of sales. From the nature of the transaction between all those parties, it is manifest that the defendant cannot question the correctness of those accounts. Hord alone can be affected by it: the net proceeds, whatever the amount may be, are to be applied in part payment of the price of his purchase. Besides, the deposi. •¿ion of Hord shows that he considered the accounts of sales correct, copies of W'hicli are filed in connection with his testimony.
+In relation to the bill of exceptions taken to the opinion of the Judge excluding the deposition of Sharp on the score of interest, it is immaterial to consider it; it cannot vary or contradict the written contract between the parties in the absence of any allegations of error, surprise, or fraud.
+I am, therefore, of opinion the plaintiffs ought to have judgment against the defendant.
