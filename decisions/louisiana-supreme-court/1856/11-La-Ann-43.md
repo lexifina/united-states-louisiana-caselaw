@@ -1,0 +1,35 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1856-01"
+citations: ["11 La. Ann. 43"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Watts & Co., for the use of, etc., v. Steamboat Saxon, Captain and Owners.—Waterman & Co. v. The Same."]
+source_url: "https://static.case.law/la-ann/11/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11262204
+---
+
+# Watts v. Steamboat Saxon
+
+## Majority (Merrick, C. J.)
+
+Merrick, C. J.
+The bills of lading on which these consolidated cases are brought are precisely similar to the one executed in favor of James Dalzel, which was recently before this court in the case of Dalzel against the same defendants. In that case the judgment of the court was in favor of the defendants. If we are led to a different conclusion in this, it is because the facts proven are different, and we are obliged to decide cases upon the pleadings and facts of each case as the parties present them to us.
+The bills of lading in this case contain an agreement on the part of the steamboat and owners to deliver the molasses (two hundred and fifty barrels in the one case, and two hundred and sixty in the other) at the port of Louisville, and “ to reship (to the consignees) at Pittsburg, on the best terms she (the boat) can, without extra charge for re-shipping.”
+The Saxon proceeded with the freight to Portland, and being too large to pass the locks, the boat deposited the freight on the landing at Portland. It is probable that the captain of the Saxon engaged the Envoy or Convoy, a boat in the Pittsburg trade, to proceed to Portland and take the molasses aboard for Pittsburg, but the Envoy did not keep its engagement. The captain of the Saxon, without waiting to see whether the Envoy actually took the freight or not, departed for New Orleans, leaving the molasses on the bank of the river. The Ohio, sometime after the departure of the Saxon, (how long is not shown,) rose somewhat suddenly, from a storm, eight or ten feet, and notwithstanding the strenuous exertions of the agent of the Saxon, after, as he says in his examination, “the danger was discovered, and as soon as it was thought necessary,” a large portion of the molasses was lost.
+It has been shown by evidence that the Ohio river, below Louisville, is subject to sudden rises, but according to defendants’ witness, the one by which the molasses was lost was unprecedented.
+It has been further shown, that although Portland is within the corporate limits of Louisville, that it is two and a half or three miles distant from Louisville proper; that freight is five cents per 100 pounds more to Louisville than Portland; that the larger amount of merchandize from New Orleans, intended for Louisville, is shipped by the Louisville boats to Portland, on account of the difficulty in passing the locks; that where freight is shipped to Louisville, it is incumbent upon the boat landing at Portland, to transport it, either by a smaller boat, which can pass the locks, or by drays, to Louisville, at its own cost.
+The defendants, in their answer, after admitting the execution of the bill of lading, aver that “they earned the molasses to Louisville, and delivered the same in good order, pursuant to the bill of lading; that they have faithfully performed all the obligations of their contract, and are in no wise indebted to the plaintiffs.”
+In one of the answers, the defendants further allege that the obligation to reship to Pittsburg was entirely gratuitous, and that they did all they could to re-ship.
+It is clear, under the answer, that the burden of proof rests upon the defendants to show that they have complied with their contract to deliver the molasses at the port of Louisville, and that they have re-shipped it to Pittsburg.
+As Portland is shown not to be the port of Louisville, we think the obligation of common carriers rested upon the defendants until the goods were delivered at Louisville, and if the Envoy, or any other boat, neglected to take the molasses on board, it was the neglect of their own agent, for so much of the voyage as remained unaccomplished between New Orleans and Louisville. Neither could the plaintiffs be charged with the cost of the transportation of their freight through the locks to Louisville. They were entitled to have it delivered at Louisville, where, it is evident from the testimony, it would have cost them five cents less per hundred for freight to Pittsburg.
+As the molasses was not delivered at Louisville, and as the obligation of defendants, as common carriers, never ceased in relation to- the goods, ft is unnecessary to determine whether their obligation to re-ship was that of a gratuitous bailee.
+The remaining question, therefore, to be considered is, have the defendants shown that ms mayor, uncoupled with any act on their part by which the property was exposed to increased danger, which relieves the common carrier from the obligation to deliver?
+The defendants have entirely failed to make this proof. The failure of the Envoy to take the molasses is defendants' fault, for the boat would have been their boat for the transportation of the freight to Louisville. The defendants were bound to know that the Ohio was subject to sudden rises, and yet the molasses was suffered to lie upon the bank of the river for days, and without a watch, so far as the testimony discloses in this case, and to be rescued, in case of danger, by an agent living in Louisville, two miles and a half from where the molasses was deposited.
+This unnecessary exposure, for the length of time, upon the bank of the river, was a risk for which defendants were bound, and the most extraordinary diligence of their agent, after he had discovered the danger, or had concluded it was necessary to act, will not relieve the defendants. The common carrier is bound to the most exact diligence as much to avoid danger, which may be reasonably apprehended in the future, as to rescue the property from present and imminent peril.
+On this point, we cannot do better than to quote the forcible language- of our learned brother of the lower court. He says;
+“ The spot on which they (the goods) were landed was a proper one if it had been intended to remove them thence in a short time, but the evidence does not show that it was a proper place of deposit for any indefinite period of time. There would have been no rise in the river without the storm, and the sum and substance of the defence is, that the defendants did not expect a storm. In trusting to the weather, they trusted to a notorious uncertainty, which they had not a right to do at the risk of anybody but themselves. I am therefore of the opinion that if the defendants had a right to re-ship at Portland, and to> detain the molasses there for that purpose for an indefinite period, the bank of the river was not a proper place of deposit.”
+The judgments, therefore, in these consolidated cases, are affirmed.
+Srofforf, J., not having been present at the argument, took no part in the decision of this case.
