@@ -1,0 +1,34 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1822-06"
+citations: ["12 Mart. (o.s.) 70"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["POWERS vs. FOUCHER."]
+source_url: "https://static.case.law/mart-os/12/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122213
+---
+
+# Powers v. Foucher
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the court. This action was commenced to obtain and secure the enjoyment of a servitude, which the petitioner avers he is entitled to, on a canal cut through land of the defendants. The title and incidents, connected with it, are minutely detailed in the petition. In the year 1750, one Claude Dubreuil, sen. was owner of a tract of land on the other side of the river, situated about three miles from the city. Desirous of procuring an easy communication with lands which he owned in the rear of this tract, he appropriated an arpent front for that purpose, and cut a canal through it, which he connected with a bayou, the waters of which fall into lake Barataria. The land he afterwards sold to his son; but, in the act of sale, he reserved the arpent front, by forty in depth. In the year 1772, we find, after several sales, Franҫois Bouligny had become the owner of the plantation which Dubreuil, sen. had formerly sold to his son, and also of the other arpent through which the canal was dug; the heirs of Dubreuil, who now owned the land in the rear, having consented he should become so, on certain conditions. These conditions not being complied with, the heirs entered into a compromise, by which they agreed to receive a certain sum in money for the relinquishment of their right to the arpent front; but, with the express reservation, that they, as well as their representatives, should be allowed a free passage through the canal, and on both its banks, whenever they might find it convenient to go to their lands of Barataria; and the servitude should likewise be enjoyed by any person or persons to whom they should happen to sell the said lands. It is this contract that has given rise to the suit now before us. The plaintiff, by various mesne conveyances, from the heirs of Dubreuil, is the owner of one of those tracts of land at Barataria, and claims the servitude. The defendant holds the plantation once owned by Bouligny, and refuses it.
+East'n District.
+June, 1822.
+The appellant has called in warranty, Antoine Fouchér, sen. who appeared and vouched the syndics of Degruys, who in turn have cited the heirs of Bouligny.
+The heirs of Bouligny appeared, and pleaded that they were called too late, as the trial had been already gone into; that Degruys had bought the land with a knowlege of the incumbrances, and under an express stipulation that he took it with its servitudes. They further denied the right set up by the plaintiff, and if it ever existed and averred it had been lost by prescription.
+We have formed an opinion on the last exception, which renders it unnecessary to examine any other point in the cause.
+Servitudes, such as that claimed here, were prescribed against, previous to the enactment of the Civil Code, by non-user, for twenty years. Part 3, 31, 16.
+In this case, the plea offered as an exception necessarily implies that the plaintiff for twenty years had not used the canal, on which he now claims the right of passage—and a question, by no means free from difficulty is presented for decision. It is to ascertain on whom the burthen of proof is thrown of the fact necessary to maintain this exception.
+The general rule is, that he who affirms should prove. Part. 3, tit. 14, lib. 1. Phillips' Evidence, ed. 1820, 149. 9 Martin, 48. Ei incumbit probatio qui dicit non qui negat. Digest, l. 22, tit. 3, l. 2. But to this there is the well known exception, that where the affirmative involves a negative, the burthen of proof is thrown on the opposite party, because a negative cannot be proved. Part. 3, tit. 14, l. 2. 2 Gallison, 500. 11 Martin, 6. 9 Martin, 48.
+In the case now before us, we find the defendant averring that the plaintiff has forfeited his right by non usage; he would therefore at first appear to come within the rule which requires the party who alleges to support his allegation by proof. But, when we attempt to apply the doctrine to a servitude such as this, we find ourselves at once within the exception just stated. The defendant cannot make the proof; it involves a complete negative.
+Hence, we are reduced to adopt one or other of the following alternatives : either we must say that the forfeiture, given by law, on neglecting to use servitudes like this, can, in no instance, be successfully urged by the party, where land is burthened with them; or we must refuse our assent to that doctrine which requires him to prove it. For, if we insist on his furnishing evidence of what his adversary did not do, it is the same thing as if we said, he shall not have the right to oppose prescription, though the law expressly confers it on him.
+We must give the law effect, if it be possible to do so, and there is no other way to accomplish this, but by requiring the plaintiff to furnish evidence of a fact, which if it did take place must be within his knowledge, and which of course he can easily prove. In the cases of Delery vs. Mornet, 11 Martin, 4, and that of Nichols vs. Roland, ibid, 190, we held that the burthen of proof lies on the party who has to support his case by proof of a fact of which be is supposed to be cognisant.
+This point of prescription was not argued by the counsel for the defendant, it has been most elaborately discussed by that of the plaintiff, and the industry and research of the gentleman, has brought before the court one case (we can find no other) in which it was held by one of the parliaments in France, that where two communities claimed a right of servitude, the party who opposed to the other the plea of non-usage, should be held to prove it. It is to be regretted that the report of the decision is not so full as could be wished.— As stated in Merlin’s repertoire de jurisprudence, vol. 12, 588, 589, it certainly supports the doctrine for which the plaintiff contends.— But it is not of binding authority here, and tho’ entitled to great respect, we cannot, where our opinion of the law is so directly opposite, yield our assent to the principles established by it.
+Moreau for the plaintiff, Grymes for the defendant.
+As the title of the plaintiff therefore commenced so far back as the year 1772. And there is no evidence before the court of his having enjoyed this servitude for twenty years after, we must hold that it is forfeited by non-usage.
+It is therefore ordered, adjudged and decreed, that the judgment of the parish court be annulled, avoided and reversed, and there be judgment for the defendant with cost in both courts.
