@@ -1,0 +1,38 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1815-05"
+citations: ["3 Mart. (o.s.) 590"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOPKINS vs. PERETZ & AL."]
+source_url: "https://static.case.law/mart-os/3/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12135758
+---
+
+# Hopkins v. Peretz
+
+## Majority (Martitt, J.)
+
+Martitt, J.
+delivered the opinion of the . . . Court. The petition states the plaintiff to be the legal curator and administrator of the estate of Jo. Mollere, dec. that there was exposed to sale, on 5th of February 1812, for and on account of the. succession, a tract of land, situated in the Parish of West-Baton Rouge, on the right bank of the Mississippi,-bounded by the land of Madam Watts below, containing 800 arpents. That the defendant Peretz, became the purchaser, for the sum of $2100, and bound himself, a principal with the other defendant as surety, in solido, for the payment of the purchase money, in three annual instalments, that the first instalment is due and unpaid.
+East. District.
+May 1815.
+The letters of curatorship and administration, and process verbal of adjudication are annexed.
+It does not appear from the letters, whether the defendant died testate or intestate, whether his heirs are present or absent, of age or minors: bpt it is stated, in the preamble, that an assembly of the family of Moliere has recommended the appointment of the plaintiff, as curator and administrator. He is accordingly appointed: but it is no said whether he be curator of the vacant estate or of some absent heir or heirs: the date is the 3d of February 1812.
+The process verbal, states the exposition to sale and adjudication of the premises to the defendant Peretz, on the terms of the petition,' and that he as principal, and the other defendant asf surety, bound themselves in solido to pay the price to and for the use of the estate. It is subscribed by the defendants, two witnesses, and the Arish Judge.
+The deposition of the Parish Judge, comes up with the record, but it does not appear by which party it was introduced. He deposes that, being Parish Judge and Auctioneer ex-officio, he exposed the premises to salo, and that several of heirs were present.
+The answer denies all allegations and states in avoidance certain facts, none of which appear to have been established.
+The District Court gave judgment for the plaintiff, and the defendants appealed.
+It has been contended in this Court, oh the part of the defendants, that the judgment must be reversed ; for, it is said, there was no sale, no vendor appearing to have intervened ; none being named in the process verbal or act of sale, and no determinate tract of land being sold: that, intended to have been the object of the sale, not being sufficiently described. -, Farther, if there was a sale, the defendants’counsel says, the plaintiff cannot recover till he has discharged the obligation resulting from the contract, on the part of the vendor, by delivering the thing sold. He relies on Civil Code 261, 345, art. 8 and 2, 1 Pothier on Oblig. no. 42, Traite de Vente 326.
+It is material to ascertain the capacity in which the officer (by whose intervention the sale was effected) acted.
+He was Parish Judge and ex-officio Auctioneer.
+If he acted as Parish Judge, for he well might if the case was that of a vacant estate, (Civil Code 174, art. 127) then his, being a judicial sale, the process verbal of adjudication is the only title the defendant could receive, accompanied perhaps with the prior proceedings. Then, the Judge was the vendor, and there has been a complete sale, evidenced by the signatures of the vendor, vendee and witnesses, officially taken and lodged among the records of the Court. In similar cases, either during the French or Spanish government, no delivery of possession seems ever to have been formally given : the process verbal being considered of the same validity as a notarial act of sale with a clause of constituí or desaisine. Thus, must we decree the sale a complete one, unless the presumption of a delivery was repelled by evidenceofthe vendor’s refusal to give it, or thewen-dee’s inability to enter . for we see nothing in the allegation of the want of certainty in the thing sold. Iris described as Moliere’s tract of land, of 800 acres, in the Parish of West-Baton Rouge, on the right side of the river, immediately above the tract of Madam Watts.
+If the officer acted as an Auctioneer only, then the sale is as yet but an inchoate one. The instrument he has drawn is only a memorandum preserving the evidence and the terms of sale, without naming the owner of the land, for we cannot consider this memorandum, which appears to be the one, which it was the duty of the Auctioneer (by the 12thsection of theact of 1805, ch. 4, "mmediately after the sale to deliver to the puf- “ chaser, of the sale and purchase, designating the “ object and day, so that such purchaser may cause the same to be recorded, according to law)” as dispensing with the designation, if it can be held to dispense with the intervention, of the vendor: it being of the essence of all contracts that there should be certain and determinate parties, as much as it is of the contract of sale, that there should be a certain and determinate thing, the object of it. The vendor must appear and execute an act of sale ; then surely, before such an act at least, no delivery of possession, even nuda volún-tate, can be presumed.
+From the record of the suit we are unable to conclude that the officer acted in \\ib judicial capacity'as a Parish Judge : for the case appears to be one, in which he Could not legally act as such. He deposes himself, that several of the heirs were present at the sale, then the estate was not vacant. If some of the heirs were absent, a curator ought to have been appointed to them, who might have proceeded with the heirs present.
+When an officer has two capacities, he cannot be presumed to have acted in that in which his acts are illegal. We are therefore to conclude that he acted as Auctioneer : then the authority and consent of the persons employing him must be shewn. Then his instrument or memorandum cannot be viewéd as completing the sale.
+But it does not appear, the plaintiff has not proved, that he has capacity to sue. He alledges himself to be the legal Curator and Administrator of the estate, but this must be made out by proof since the answer denies this allegation, with the others»
+He is not a, party by name to the sale. Tfany thing be due to the estate, the heirs must receive it.
+The office of Administrator is unknown to our law. It appears some of the heirs at least are present, he cannot therefore be Curator to the vacant estate. He does not state himself to be Curator to any absent heirs, the existence of such heirs is not even suggested, it appears he was recommended by the assembly of family, as a proper person to be appointed Curator and Administrator to the estate. Judging in this case, from what most ordinarily happens, there were minor heirs and he was recommended as the person most proper to defend them. He ought then to have been appointed their tutor or guardian then, if the minors were sole heirs, he might claim in their right, otherwise jointly with the heirs of age or the Curators of the absent ones. Then the record ought to state the names of the minors, that their right may be discussed. But nothing of this has been done, ’ and the record, on the cpn.trary,disproves the plaintiff’s capacity to sue.
+The judgment of the District Court must be reversed with costs.
