@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Supreme Court"
 decided: "1853-12"
-citations: ["8 La. Ann. 374", "8 La. Ann. 376"]
+decided_precision: "month"
+citations: ["8 La. Ann. 374"]
 reporter: "la-ann"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
