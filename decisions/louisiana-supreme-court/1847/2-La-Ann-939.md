@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-10"
+decided_precision: "month"
+citations: ["2 La. Ann. 939"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Prothro v. The Minden Seminary."]
+source_url: "https://static.case.law/la-ann/2/cases/0939-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 335489
+---
+
+# Prothro v. Minden Seminary
+
+## Majority (Slidell, J.)
+
+The judgment of the court was pronounced by
+Slidell, J.
+This action is upon two notes signed by Edward R. Olcott, president of the board of trustees of the Minden Seminary, and a mortgage of lands, executed by said president on behalf of said company, to secure their payment. The corporation answered by a general denial, and also pleaded specially that the corporation never executed the obligations, nor delegated to any one authority to bind it by, note, or mortgage. There was a judgment of non-suit, and the plaintiff has appealed.
+This corporation was created by an act of the legislature, passed on the 12th March, 1838. The title of the act is, “ An act to incorporate a Seminary in the town of Minden.” It is constituted in the usual terms a body politic, with perpetual succession, the capacity to sue and be sued, purchase, sell, hypothecate, and pledge all kinds of moveable and immovable property, See., and dispose of the same as to them may seem meet. Power is conferred to pass, and put into execution, all by-laws for the government of the corporation, and the administration of its affairs; and the corporaton is “invested with all the rights and privileges which by law are granted to bodies politic.” Provision is made for a board of directors, any four of whom shall constitute a quorum. The act declares that the said directors shall act in all matters concerning the corporation, and they are clothed with all the powers necessary for the establishment, maintenance, regulation, and administration of a seminary for the town of Minden. A provision in the act contemplates the appointment of a president of the board, who is authorised to receive from the treasurer of the State a sum of money annually appropriated, to be employed in fulfilment of the object of the corporation, under the surveillance and control of the board of directors.
+At the trial of- the cause, the plaintiff offered oral evidence, to wit, the testimony of the secretary of the corporation, to prove a resolution of the board of directors authorising Olcott, the president of the board, to execute the mortgage and notes. The secretary also deposed that the resolution was taken on a loose piece of paper by him, as secretary; that said paper was lost, and never was transcribed on the book of minutes; and that an unsuccessful search has been made for it; to this testimony, which was taken down and comes before us as proof of the statement of facts, objection was made and noted, though it does not appear whether the court sustained the objection or not. The objection was that, it was not the best evidence. This is an irregular mode of presenting an exception ; but we will proceed to consider it. Under the circumstances, we-think the evidence was admissible. The writing was lost, and an unsuccessful search had been made for it. To refuse the plaintiff, under such .circumstances, the benefit of the oral proof of the lost writing would not only violate the familiar rule of evidence, but would be particularly onerous in this case, for it would in reality be permitting a corporation to.take advantage of the carelessness of it,? own officers and servants,
+Considering the resolution as properly in evidence, it remains to examine its legal effect. The corporation, as we have seen, had a special grant of capacity to hypothecate immovable property, and dispose of its effects “ as to them may seem meet.” It was also clothed with all the rights and privileges which by the general law are granted to bodies corporate. Its board of directors was charged with the administration of its affairs, and a president is contemplated in the Statute as its active officer. This .officer, acting under a resolution of the board of directors, has executed this mortgage and the notes; and in the entire absence of any evidence that they have abused their trust,or have not received the equivalent as acknowledged in the notes and mortgage, we must presume that-the debt was contracted in the honest discharge of their duties, and that the corporation is bound.
+It is therefore decreed that the judgment of the court below be reversed, and that there be judgment in favor of the plaintiff against the said defendants, the Seminary of the Town of Minden, for the sum of 3>1,775, with interest thereon at the rate of ten per centum per annum, from the 25th day of January, 1841, until paid ; with mortgage therefor on the property described in the act of mortgage, executed by the said defendant on the 25th January, 1841, before George W. Peets, parish judge, whereof a copy is on file in this cause, find costs ii) both courts.
