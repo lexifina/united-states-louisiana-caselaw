@@ -1,0 +1,34 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1857-02"
+citations: ["12 La. Ann. 74"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Waldo & Hughes v. E. Angomar et als."]
+source_url: "https://static.case.law/la-ann/12/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 573550
+---
+
+# Waldo v. Angomar
+
+## Majority (Lea, J. Merrick, C. J.)
+
+Lea, J.
+The plaintiffs allege that, being judgment creditors of Eugene Angoma/r, they caused to be seized on execution the steamer Red River, the property of said Angoma/r.
+They further allege that certain judgment creditors of James TP! Moore have seized the said steamer, by virtue of writs of fieri facias issued in their respective suits; that said steamer is not the property of Moore, but that of their .judgment debtor, Angoma/i'; that the sale made to Moore, if any such sale was made, is simulated and made to defeat the rights of the plaintiff; they pray that the steamer Red River be decreed, contradictorily with the judgment creditors of Moore, to be the property of Angoma/r, and that they be paid the amount of their judgment out of the proceeds of the sale of the boat. They further ask that Angoman' be decreed guilty of fraud, and punished in accordance with the provisions of the Act of 1840.
+To this form of proceeding the defendants have excepted, Gooper & JJeibert, on the ground “that the allegations are too vague and general, that the judgments of the court cannot be annulled or avoided in this form, and that this is not in truth and in fact a revocatory action,” wherefore they ask that the plaintiff’s petition be dismissed.
+The other judgment creditors of Moore.)o\n in the exception. Angoma/r also excepts, on the ground “that he cannot be joined with any of the defendants in this-proceeding except Moore, and that the joining of the other parties with this defendant is contrary to the rules of pleading and inadmissible.”
+The defendant Angoma/r, as well as the other parties defendant, have a right to object to a cumulation of several distinct causes of action against several defendants, unless they have a common interest to be adjudicated upon in one judgment.
+Upon principle, there can bo no objection to the comulation of a proceeding, under the x\ct of 1840, against a defendant for fraud, with a revocatory action for the rescission of the alleged fraudulent sale; and in such proceedings it is not only the right but the duty of the plaintiff to make parties to the suit all who have an interest to be affected by the judgment. To test the validity of the exceptions filed in this case, therefore, it is proper to consider how far the defendants, who are creditors of Moore, can be legally affected by the judgment prayed for in this case.
+Though it is not distinctly averred in the petition, it has been assumed in argument, and indeed it follows necessarily from the nature of the demand, that the judgment creditors of Moore have, in virtue of their execution, seized and sold the steamer Red River as the property of their debtor. A prayer claiming the proceeds of the sale, not only presupposes a sale, but implies a ratification of it. The creditors of Moore have possession, therefore, of nothing but the proceeds of a sale made under an execution against the property of their judgment debtor.
+It is to be remarked that the proceedings in the suit of the plaintiffs against Angomct/r are entirely independent of those instituted against Moore by his creditors. Upon what principle, then, can the plaintiffs claim the proceeds realized under the execution against Moore. Not on the ground that they have any privilege upon the proceeds, for they have no claim whatever against Moore, nor indeed have they alleged any ground upon which a privilege could be recognized. Neither can they claim a participation in the proceeds, on the ground that they had a right to ratify the sale and claim the price; for, in the érst place, the steamer was not sold as the property of their judgment debtor, and secondly, no one but the real owner could ratify a sale of his property made without lawful authority.
+Again, if the steamer Red River is not the property of Moore, but is the property of Angomar, we are at a loss to perceive how any of the rights of the plaintiff have been infringed by the acts of Moore's creditors.
+The sale of the property of another is null. The plaintiffs themselves ask that we shall decree the property in this case to be the property of Angomcvr. This is substantially asking for a judgment decreeing the nullity of the sale, though, at the same time, they virtually sue in affirmance of the sale by asking for a distribution of the proceeds.
+If the steamer Red River belongs to Angomar, she is now in every respect as liable to seizure at the suit of Angoma/r’s creditors as she was before proceedings were instituted by the creditors of Moore. It is true that, in case of an eviction, the purchaser under the judicial sale at the suit of Moore's creditors would have recourse for reimbursement against both the seized debtor and the seizing creditors. But the plaintiffs stand in no such relation to the defendants; there is no privity of contract between the plaintiffs and the creditors of Moore in reference to Moore’s title to the steamer, nor can the plaintiff rely upon any implied warranty of a title which they are themselves attacking. We cannot perceive, therefore, upon what principle the judgment creditors of Moore can be made parties to this litigation, since they have no interest which can be legally affected by the proceedings.
+The District Judge, therefore, was right in refusing to allow the proceedings against Angomcvr and Moore to be cumulated with those against Moore's judgment creditors. The defendant Angoma/r has joined in the appeal taken in this case, and asks that the judgment bo amended in his favor by dismissing the plaintiffs’ suit altogether, but we think the decree of the District Court is supported by the provisions of the statute of 1840, and is sanctioned by authority and practice.
+It is ordered that the judgment be affirmed.
+Merrick, C. J.
+I do not think it necessarily appears from the petition that the steamboat was sold prior to the institution of the suit. Even if it did so appear, I am not prepared to say that the plaintiffs might not in a proper case claim the proceeds of the boat, where they might have claimed the boat itself, as the property of their debtor.
+Nevertheless I concur hi the decree in this case, on the ground that the petition is too vague to maintain the action. The plaintiffs allege no prior seizure nor superior privilege upon the boat, neither do they allege that Angomar is insolvent and has no other property to satisfy their judgment. If Angomar has other .property to meet their judgment plaintiffs are not injured.
