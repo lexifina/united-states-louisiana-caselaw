@@ -1,0 +1,24 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1851-12"
+citations: ["6 La. Ann. 766"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. H. Rhinehart, Executor. v. J. T. Doswell."]
+source_url: "https://static.case.law/la-ann/6/cases/0766-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 523506
+---
+
+# Rhinehart v. Doswell
+
+## Majority (Preston, J.)
+
+The judgment of the court (Eustis, C. J., being absent,) was pronounced by
+Preston, J.
+This suit is instituted for the recovery of a slave named Harriet, and her son. On the 6th of April, 1840, Fisher purchased her at a sale made by the Sheriff of Claiborne county, in -the State of Mississippi. Her son was born afterwards. In December, 1840, he found theinin the possession of one Deroll, in Harris county, in the Republic of Texas, and instituted a suit for them. It does not appear by the record that the suib has ever been dismissed. Fisher died, and the plaintiff has been appointed his executor. Finding the slaves in this city in 1849, this suit, as stated, has been instituted to recover them.
+The title of the plaintiff being indisputable, the defendant relies principally upon his plea of prescription. He, and those- under whom he claims, appear to have possessed the slaves more than five years, and which, if not interrupted, would support the plea of prescription under our laws. And, under the laws of Texas, it is shown that slaves are personal property, and that the title to them is prescribed by two years possession. But the plaintiff contends that the prescription, both here and there, is interrupted by the suit instituted in the Republic of Texas, for the slaves.
+The defendant contends, that the suit was abandoned by an order of court made to change the venue from Harris, to Fort Bend county, because it was never carried into effect by a transfer of the record. This does not appear to us an abandonment of the suit by the plaintiff. Indeed, the order for the change of venue was obtained by the defendant. Until the record is transferred, the suit remains pending in the court in which it was instituted, and until transferred, the clerk of that court is the proper officer to authenticate the record.
+The institution of this suit is not an abandonment of that against Deroll, but became necessary; because the slaves were found here. If the defendant had held the slaves in this State, in good faith for five years, we are not prepared to say that the suit pending in Texas, would have interrupted the prescription. But he purchased them in this city, from Theodore Wissell, a citizen of Texas, on the 14th of December, 1847. Now, it is a principle of our laws, that the thing claimed as the property of the claimant, cannot be alienated pending ■ file action, so as to prejudice his rights. C. C. 2428. If this principle prevails in Texas, and we are bound to presume it does until the contrary is shown, Wissell, at least, was bound to take notice of the suit pending in Texas for the property. It is true, it is admitted of record, that the common law prevails in Texas, but we are under the impression that in an action of detinue, to which the sequestration suit instituted in Harris county may be likened, the property is specifically recoyered into whatever hands it may pass during the pendency of the suit, otherwise, the suit would be nugatoiy. "The principle is general, and applicable to personal as well as real property. Therefore, the suit which has been so long pending in Texas, interrupts the prescription which has been plead under the possession of Wissell, who is a citizen of Texas. Still, we consider the defendant a -purchaser and possessor in good faith, notwithstanding the pendency of a suit for the property in another State, it would be extending the constructive notice of suits too far, to oblige our citizens to take notice of suits, pending in other States, to be possessors in good faith in the purchase of slaves. Therefore, the allowance of hire for the slaves, from the time of the defendant’s purchase, instead of from the time he was put in default by a suit, was an error.
+The judgment of the district court is affirmed, so far as the defendant is condemned to deliver the slaves, Harriet and Newton to'the plaintiff, with costs in the district court. It is reversed, as to the amount of hire decreed to him before the institution of this suit. He is adjudged to pay the plaintiff twelve dollars a month for the hire of the slaves, from the 25th of July, 1849, until they are delived to the plaintiff, who is condemned to pay the costs of the appeal. It is further decreed, that the defendant recover from his warrantor, Theodore Wissell, the sum of seven hundred and fifty dollars, with interest from the 2d day of July, 1849, until paid, and the costs in the district court.
