@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Supreme Court"
 decided: "1854-06"
-citations: ["9 La. Ann. 360", "9 La. Ann. 361"]
+decided_precision: "month"
+citations: ["9 La. Ann. 360"]
 reporter: "la-ann"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,6 @@ parties: ["McRae, Coffman & Co. v. N. Austin.—S. W. Taylor, Intervenor."]
 source_url: "https://static.case.law/la-ann/9/cases/0360-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11973223
-cites_cases: ["1 Rob. 277", "18 La. 57", "2 R. 510", "7 Rob. 849"]
 ---
 
 # McRae v. Austin
