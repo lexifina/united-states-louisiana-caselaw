@@ -1,0 +1,44 @@
+---
+court: "Louisiana Supreme Court"
+docket: "8051"
+decided: "1883-01"
+citations: ["35 La. Ann. 15"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jules Tardos vs. Chicago, St. Louis and New Orleans R. R. Co."]
+source_url: "https://static.case.law/la-ann/35/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 318121
+cites_cases: ["1 Rob. 58", "1 Woods, 100", "104 Mass. 122", "16 Wall. 329", "17 Pick. 282", "19 L. 542", "21 Wis. 582", "28 Ind. 253", "28 Ohio. 418", "49 Vt. 255"]
+---
+
+# Tardos v. Chicago, St. Louis & New Orleans R. R. Co.
+
+## Majority (Fennee, J.)
+
+The opinion of the Court was delivered by
+Fennee, J.
+Plaintiff delivered to the defendant Company a quantity of freight to be carried by the said Company and its railroad connections to San Francisco, Cal., under a written contract which is entitled, on its face, a “ contract for a through rate, via Chicago, St. Louis & New Orleans Railroad connections.”
+The contract embodies the ordinary receipt for the packages, which are described and stated as consigned to Jules Tardos, San Francisco, Cal. It stipulates the rate of freight to he $2.50 per hundred lbs. for some packages, and $3 per hundred for others, and contains the special clause: “Through rate guaranteed from New Orleans, La., to San Francisco, Cal.”
+It also contains numerous conditions and stipulations placed in the body of the contract and covered by the signature, amongst which we note the following: “if the freight, after transportation on this road, is designed to be forwarded by some other road, carrier or company to its place of destination, the packages must be marked accordingly and the receipts so specify •, it being expressly stipulated that the responsibility of this Company ceases when freight is delivei’ed to the connecting carrier. If the forwarding carrier or route, is not designated, the Company’s agent may select the carrier or route he deems advisable and deliver the freight accordingly, wheu all responsibility of this Company in any and every form shall cease.”
+We find also the following: “ Should this bill of lading not be recognized in settlement of over charges, when occurring on freight.herein receipted for, the consignee is requested to forward the hill of Jading without alteration or erasure, together with all the. freight hills paid the delivery road therefor, to the general freight agent at New Orleans, for adjustment.”
+The freight was safely conveyed to San Francisco by defendant and its connecting carriers, and was there met by the plaintiff, wiio demanded delivery thereof under his hill of lading. The delivering carrier refused to recognize the through rate of $2.50 per hundred stipulated in the bill on a portion of the freight, and demanded $3 per hundred on that portion and refused delivery without such payment. The plaintiff declined to pay the excess, but tendered the amount duo under the contract, and offered to deposit the excess to abide settlement, all of which offers were declined.
+Plaintiff, thereupon, simply abandoned his goods. He gave no notice to the defendant Company of the difficulty that had occurred, made no demand upon it for execution of its contract; and about one year afterwards brought the present suit, in which he claims, as damages, nine hundred dollars, the value of the goods, and a further sum of $1,000 as special damages, claiming that he had.gone to California for the purpose of engaging in the business of wine-making, that his goods consisted of machinery and appliances for such business, and that, by reason of their detention, he was compelled to abandon his purpose and suffered the loss alleged.
+The petition specially alleged that the contract sued upon was the one embodied in the bill of lading which we have referred to and described and annexed the same and made it part thereof.
+The defendant pleaded a general denial. Subsequently it filed a supplemental answer, in which it averred, substantially, that plaintiff had held negotiations with its contracting freight agent, in which he tried to secure the through rate afterwards embodied in the bill, which the latter had declined to agree to ; and that, afterwards, plaintiff called at the office in the absence of the principal agent, and falsely representing to a subordinate agent that the principal had agreed to the rate, obtained from him the bill sued on, through error and misrepresentation.
+' When, on the trial, defendant offered evidence in support of his amended answer, plaintiff objected to the same on the ground that said answer was inconsistent with the general denial, which put at issue the fact as to whether the contract sued on was ever made, but did not admit of proof that, though actually made, it was so made through fraud or error; and the Judge sustained the objection.
+■ It is admitted that the difference between the through rate stipulated in the bill and that charged by the connecting carrier was fifty-eight dollars. The assent of the defendant, that if we should find this amount to be the measure of damages, we should dispose of the case, dispenses with the necessity of reviewing the above ruling of the Judge, on the correctness of which we express no opinion.
+The bill of lading with ail its provisions, conditions and stipulations having been set forth in extenso and without qualification, as the contract between him and defendant, and having been made part of his petition, and. having been made the basis of his objections to evidence, the plaintiff is conclusively bound thereby, and cannot dispute any part thereof. All its provisions and limitations are thus embodied in an express and special contract, and the carrier is entitled to the full benefit thereof. For it is now the universal law in this country, that carriers may, by express and special contract, limit their responsibility. Hutchinson on Carriers, Sec. 237, and numerous authorities quoted.
+Turning then to the contract, the provisions of which have already been stated by us, it is clear that the only obligations assumed by the defendant are:
+1. To carry the goods safely and seasonably over its own road and to deliver them to a proper connecting carrier.
+2. To guarantee the through rate of freight stipulated.
+The first obligation was fully performed, and no complaint is made touching the same. As to the second, its effect was to make the defendant a guarantor that the delivering carrier would accept the agreed through rate and deliver on payment thereof.
+Under the general law notice of breach by the person whose act is guaranteed is essential to the guarantor’s liability. 1 Parsons on Cont., pp. 28 et seq.
+But, in this case, the contract itself expressly contemplates the possibility of overcharges by the delivery road and refusal to recognize the bill, and distinctly indicates the course to be pursued by the consignee in that event, viz: “to forward the bill of lading, together with all freight bills paid the delivery road, to the general freight agent in New Orleans for adjustment.”
+Had the plaintiff paid the overcharges, it would have been the duty of defendant, on notice, to refund the same. Had the plaintiff declined to pay, but simply notified defendant of the overcharge, it would have been the latter’s duty proinptly to pay the same, or otherwise to effect the delivery to plaintiff on payment by him of the agreed rate.
+Nothing in the record indicates that had plaintiff pursued either course, the matter would not have been promptly adjusted, and a.ll damage prevented.
+Equity, as well as law, abhors the idea that a man who, by the payment of $58, could escape all injury, may quietly sit down and suffer damage to the extent of $1900, and then claim this enormous sum from a third person without even notifying him of the injury or giving him the opportunity to avert the damage.
+. The law is thus laid down by Mr. Field : “ It is the duty of a party to protect himself from the injurious consequences of the wrongful act of another, if he can do so by ordinary effort and care or at a moderate expense, for which effort and expense he may charge the wrongdoer. And where, by the use of such means, he may prevent loss, he could only recover for such loss as could not thus be prevented.” Field on Damages, §§ 21, 32, No. 8, 126 et seq.; Loker vs. Damon, 17 Pick. 282; Mather vs. Butler, 28 Ind. 253.
+Under the contract herein and the principles stated, we think the amount of the overcharge is the limit of damages for which defendant is responsible.
+It is, therefore, ordered, adjudged and decreed, that the judgment appealed from be amended by reducing the same to the sum of fifty-eight dollars, with interest from judicial demand, defendant to pay costs in the lower court and plaintiff to pay costs of this appeal.
