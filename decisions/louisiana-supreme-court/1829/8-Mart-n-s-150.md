@@ -1,0 +1,30 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1829-06"
+citations: ["8 Mart. (n.s.) 150"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KENNEDY & DUCHAMP vs. DEVELIN."]
+source_url: "https://static.case.law/mart-ns/8/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12124564
+---
+
+# Kennedy v. Develin
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the court. Under the act of assembly, of the 29th of March, 1826, authorising creditors of an absconding debtor, to sequestrate his property, and proceed against him as in case of a forced surrender, the plaintiffs made oath, that the defendant had absconded, and obtained an order of sequestration against his goods and effects. The judge further directed a meeting of the creditors of the defendant, and appointed counsel to defend the rights of the absent creditor. This order is dated on the 18th of March, 1829.
+Previous to the time fixed for the meeting of the creditors, the defendant returned to the state, and took a rule on the plaintiffs to shew cause why the order of sequestration should not be set aside, on the ground, that the allegations in the petition, on which it issued, were untrue. This rule is dated on the 3d of April, 1829.
+It came on, and was tried on the 18th of the same month. Three days after, a meeting of the creditors was had, who voted for an acceptance of the surrender of his property, and the appointment of syndics.
+On the trial of the cause, the plaintiffs objected to any evidence being introduced by the defendant, on the ground, that no proof was admissible to disprove the allegations contained in the petition. The judge admitted the evidence, and a bill of execution was taken to his opinion.
+The court committed no error in admitting the proof. It may be safely stated as a general rule, that all allegations in a petition, which are set forth as the ground on which a judgment is asked, are subject to be disproved by the party against whom they are made. The contrary doctrine would place every man in society at the mercy of those who thought proper to allege what was not true against him. The act of the legislature which furnishes the remedy, resorted to by the creditors in this instance, has made no exception to the principle just stated. If it had, its constitutionality might well be doubted. Acts of 1826, page 140, art 6.
+In this court it has been contended, that the case was improperly tried in the court below, on a rule to shew cause, why the sequestration should not be set aside. That an answer should have been put in, and the case tried in the ordinary way, after issue joined.
+Admitting the position to he correct, the plaintiffs are too late in making the objection. They should have made opposition on this ground, to an enquiry in the merits, in the court of the first instance, after taking the chance of and obtaining a judgment in their favor in the tribunal below, they cannot be permitted to send the cause back and have it tried a second time. The issue though not formally made upon the rule, was sufficiently so, in substance, to authorise a judgment on the merits.
+It is alleged, that a proceeding so informal as this was, cannot bind the other creditors. This again might be true, if those creditors, at the time the rule was taken and heard, had joined in the petition. But the case was tried on the 18th, and the meeting before the notary, at which they voted for accepting the surrender, did not take place until the 21st. Until they gave their assent, the case was alone between the petitioners and the defendant.
+On the merits, the opinion of the judge below was in favor of the plaintiffs, and against the defendant.
+We are in the habit of paying considerable respect to the conclusion of the courts in the first instance, on questions of fact; but, in this case, the evidence has produced a totally different impression on our minds, and we yield the more readily to our conclusion; because the judge seems to have decided against the defendant, not on the fact of his having absconded but of the plaintiffs having good cause to suppose he had.
+The view, which the court below took of the case, has been much pressed on our consideration. A great deal has been said of the circumstances, under which the defendant left the city, on his voyage to New-York, and that they furnished just cause for the belief entertained by the petitioners, that he had absconded. The fallacy of this reasoning, in relation to the enquiry we have now to make, appears to us obvious. All the causes of suspicion which the plaintiffs allege, may have existed at the time the writ of sequestration was taken out. But the case has to be tried by us, not only on the grounds of belief which the petitioners had at the time they sued out the writ of sequestration; but on all the facts which have been developed since the defendant’s return. That return, the circumstances which occurred during his absence, the course of conduct pursued by him in New-York, the fact of his having purchased goods and shipped them for this port, with many other articles which need not be stated in detail, must all be examined, as well as those in which the plaintiffs took out a writ of sequestration. The fact that we have to try is whether the defendant was an absconding debtor at the time the proceedings commenced against him. On the proof now adduced, not a doubt exists on our minds, that he was not. The argument, used by the petitioners, might be entitled to great weight, if they were sued for damages for taking out the writ; but the belief of a fact, and its existence are different things.
+It is therefore ordered, adjudged and decreed, that the judgment of the parish court be annulled, avoided and reversed, and it is further ordered, adjudged and decreed, that the writ of sequestration granted in this case be set aside, that the cause he remanded, to be proceeded in according to law, and that the appellee pay the costs of this appeal.
