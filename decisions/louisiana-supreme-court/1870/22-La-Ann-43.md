@@ -1,0 +1,32 @@
+---
+court: "Louisiana Supreme Court"
+docket: "2307"
+decided: "1870-01"
+citations: ["22 La. Ann. 43"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State of Louisiana v. John Schnapper and E. B. Malone."]
+source_url: "https://static.case.law/la-ann/22/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5228472
+---
+
+# State v. Schnapper
+
+## Majority (Tariaperko, J.)
+
+Tariaperko, J.
+The defendants appeal from the judgment of the lower court sentencing them to imprisonment — the one for a term of eighteen months in the Parish Prison, the other for two years at hard labor in the State Penitentiary. The sentence was rendered on the verdict of a jury convicting them of larceny.
+The grounds on which the appeal was taken are embodied in two exceptions taken to tbe ruling of tbe court on the trial of the case.
+The first is, in the refusal of the court to sustain a challenge for cause made by defendants to the competency of a juror. The second, relates to the charge of the judge to the jury.
+First — A juryman being sworn on his voir dire, answered to an interrogatory put to him on the part of the defendants, that he “ had read different accounts in the newspapers in reference to John Schnapper, one of the accused, and that he was prejudiced and biased as to his character, hut not as lo his guilt or innocence in the case on trial.” The defendant, Sclinapper, avers that, from this ruling of the court that the juror was competent, he was compelled to use one of his peremptory challenges to exclude him, when he should have been set aside on the challenge for cause.
+We see iio error in the ruling of the court. The juror was not disqualified. He, doubtless, had formed an unfavorable opinion of one of the accused from what he had read of him in the irablie prints. It is natural that he should. He could not have done otherwise. Every person who read the same accounts, doubtless, formed the same opinion. But the juror disclaimed any prejudice or bias against the accused in regard to the case before the court. It is argued, however, that the juror could not divest himself of the influence of the prejudice and bias which he expressed as to the general character of the accused, and that this influence would, imperceptibly to himself, operate upon his mind to the disadvantage of the party of whose guilt or innocence he was to judge. The reasoning by which this conclusion is reached is speculative and unreliable. How are we to determine this imperceptible influence ? By a decision of the juror against the party? How, if he render a verdict of acquittal ? Shall we lose sight of all other influences that might possibly operate upon the mind of the juror? Would the accused have nothing to hope from his sense of justice and duty ? Nothing from his manliness and independence ? We apprehend that it is going too far to suppose it impossible for a juror to act impartially under such circumstances. We may underrate the motives of human action, as well as ascribe greater merit to them than they deserve. We consider the rule settled that, where there is no bias or prejudice existing in the mind of the juror in relation to the matter at issue, affecting his opinion adversely to the accused, touching the accusation against him, he is not disqualified, whatever may be his estimate of the general character of the accused party. See State v. Brette, 6 An. 653; State v. Ward, 14 An. 673; State v. Bringer, 11 An. 607, and 14 An. 461; 3 Denio’s New York Reports, 121; 18 Connecticut Reports, 166.
+Second — The second exception is in relation to the charge of the judge to the jury.
+It is alleged that in charging the jury the judge used expressions tending to influence the jury against the defendants, and in violation of the sixteenth section of the act of 1855, numbered 121; and we are referred to 10 An. 271 and 799 and to 11 An. G33. The defendants, by their counsel, requested the court to charge the jury that “if they find that burglary has not been committed, the accused can not be found guilty of the larceny of property not described in the count of the indictment for larceny.”
+It is admitted that this charge was given in substance. The court, however, aded: “ But, gentlemen of the jury, in cases of larceny, the property is not always found, a large part of it being squandered or disposed of by tlie thieves before their arrest;” and afterwards, upon 'objection by counsel, the court said that its remarks were not intended to be ajiplied to this caso. It was again objected that the effect of the language first used by the court, and excepted to, would not be.removed by the subsequent qualification. Tlie court'instructed the jury that they must ho satisfied that the prisoners stole the property mentioned in the indictment, but that it was not essential that the property stolen be produced or were found; as in a large portion of larcenies committed tlie property is never found, or if found, not susceptible of identification, such as money, etc.”
+Wc do not conceive that tlie judge traveled out of his province in what he gave in charge to the .jury, or that the remarks made were out of the way. They wore not in any manner calulated to direct thfe minds of tlie jurymen in settling on their verdict. The sixteenth section of the act of .1855, page 152, requires the judge to limit himself to giving to tlie jury a knowledge of the law applicable to the case. He shall abstain from stating or recapitulating the evidence so as to influence their decision on tlie facts. He shall not state or repeat to the jury the testimony of any witness; and shall give no opinion as to what facts have been proved or disproved.
+An explanatory remark by the judge, or an occasional observation intended only as information to aid the jury in their inquiries, abstaining from such comments on the testimony as would tend to influence their minds in deciding upon the facts, is no infringement of the law cited by counsel-in this case. The authorities referred to in 10 and 11 An. do not sustain the ground taken in this exception.
+See State v. Roger, 7 An. 382; State v. Johnson, 10 An. 456; State v. Green, 7 An. 518.
+We think the motion for a new trial was properly overruled.
+It is therefore ordered, adjudged and decreed that the judgment of the District Court be affirmed, the defendants and appellants paying-costs of this appeal.
