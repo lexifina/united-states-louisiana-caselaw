@@ -1,0 +1,29 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1849-04"
+decided_precision: "month"
+citations: ["4 La. Ann. 297"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walker v. Caldwell."]
+source_url: "https://static.case.law/la-ann/4/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4887888
+---
+
+# Walker v. Caldwell
+
+## Majority (Eustis', C. J.)
+
+The' judgment of the court (King, J. absent,) was pronounced by !
+Eustis', C. J.
+This suit was originally instituted by Alexander. Walker, liquidator of the Atchafalaya Railroad and Banking Company, against the defendant, who was a stockholder of said company, ,to recover the sum of $SOOj being the amount of certain instalments which, it was alleged,, was due by the defendant on his stock. The office of liquidator having expired under the law of 1847, M. ,M. Reynolds was appointed to succeed Walker, under the act.of 1848, amending that of 1847, and, having resigned the office pending this suit, the present plaintiff, Theodore O. Stark', was appointed in his place. On Reykolds’ ’becoming a party to the suit an exception was taken to the validity of his appointment, on the ground of the unconstitutionality of the act of 1848," under which he was appointed, and the ’ District court sustained’ the exception.’ ’"The same exception was taken, to the appointment of .Stark with the same result and, the suit having been dismissed, the plaintiff has appealed.
+Walker was appointed under an act entitled “ An'act to provide for the liquidation of the affairs .and payment of the debts of insolvent corporations,” approved on the 4th of May, 1847, and his term of service of one year, to which the duration of his appointment was limited by said act, had expired. His successor was appointed under an act approved the 16th March’," 1848, entitled “An act to amend the act entitled, an act ’to provide for the liquidation of the affair’s and payments of the debts of insolvent corporations, approved the 4th of May“ 1847.” The first section provides that, after the expiration of the term of office of the liquidators appointed under the act of 1847, the governor shall appoint the liquidators, who shall continue in office until the affairs of the respective insolvent corporations shall be liquidated and settled, provided the term shall not exceed two years ; and the’ liquidators shall give' bond and security, and conform to the provisions of the act hereby amended. ■ .
+i-- Article 119 of the constitution provides that no law shall be-reVived dr'am'énded by reference to its title, but in such case the act revived or section amended shal? be re-enacted and published at length.
+The act of 1848 purports expressly to amend the act of 1847, by reference to its title, and,without reference to the act of 1847, its provisions would be inoperative. It purports to do that which the constitution declares shall not be done, and the act must yield to the operation of the constitution, or the articles of that instrument providing for the forms of legislation be held to be of no effect. Those forms have been placed under the guarantee of the constitution, as a safeguard against errors and abuses in the legislative power. It has become the fundamental law of the State, that every law enacted by the legislature shall embrace but one obj ect, and that that obj ect shall be expressed in the title of the law; that the legislatuture shall never adopt any system or code of laws by general reference, but in all cases shall specify the several provisions of the laws it enacts ; and that no law shall be amended or revived by reference to its title.
+The condition of our statute law was such, at the time of the formation of the constitution, as to impose on the convention the necessity of providing in the constitution itself for the forms of legislation.
+The title of an act often afforded no clue to its contents; important general provisions were found placed in acts private or local in their operation; provisions concerning matters of practice or judicial proceedings were sometimes in the-same statute with matters entirely foreign to them; the result of which was that, on many important subjects, the statute law had become almost unintelligible, as they whose duty it has been to examine, or to act under, it, can well testify. To prevent any further accumulation to this chaotic mass was the object of the constitutional provisions under consideration. The legislature having provided for a revision of the former statutes, if those provisions are observed by future legislatures, this body of our law will be preserved in an intelligible form; otherwise, the confusion which prevails will be continued and increased.
+The argument of the counsel for the plaintiff is, that the act of 1848 is constitutional, because it provides for the appointment of the officer after the term under the former act had expired, and therefore did not revive or amend that act in the intendment of the constitution. Notwithstanding this formal provision in the act of 1848, the objections to its form still remain. The object of the law is not stated in the title, except by reference to the title of the act it purports to amend.
+The object and purpose of the constitutional provision being evident and unquestionable, and its language free from ambiguity, the duty is imposed on the judiciary of giving it effect.
+Considering, therefore, that the first section of the act of the 16th of March, 1848, is indirect conflict with the 118th and 119th arts, of the constitution, the appointment of the plaintiff under it as liquidator of the Atchafalaya Railroad and Banking Company, confers on him no capacity to maintain the present action against the defendant. Judgment affirmed.
