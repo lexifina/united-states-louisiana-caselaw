@@ -1,0 +1,32 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1852-03"
+citations: ["7 La. Ann. 145"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stephen F. Smith v. Moses McWaters."]
+source_url: "https://static.case.law/la-ann/7/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 331735
+---
+
+# Smith v. McWaters
+
+## Majority (Preston, J.)
+
+By the court:
+Preston, J.
+This is a petitory action for a slave named Soney, alias Charles. There was a judgment and verdict for the plaintiff, and the defendant has appealed.
+The petition was served upon the defendant on the 15th of October, 1850, unaccompanied by the title upon which the suit was based. On the 5th of December, a judgment, by default, was entered. On the 9th of December the defendant appeared, had it set aside, and craved oyer of the plaintiff’s title. On the 12th it was filed, and notice thereof given to the defendant. The same day the defendant filed his answer, denying the plaintiffs’ title, and setting forth his own. .He alleged, further, that he purchased the slave from Abraham Jones, residing in'Franklin cpunty, State of Mississippi, and called him in warranty, and prayed that a curator ad hoc might be appointed to represent him, which was done,. On the"31st of December, the plaintiff moved the court to strike out that part of the answer calling Jones in warranty, which motion was ordered to be heard. It .was based on the grounds, that the call in warranty came too late, it being in fact and effect, as well as in law, a dilatory exception, and should have been plead in limine litis, and cannot be legally allowed in an answer after a default has been taken.
+We do not find in the record a formal order striking out the call in warranty in the answer, but suppose it must have beed made, as a bill of exceptions was taken on the 3d of January, 1851, to the opinion of the court sustaining the motion to strike out that part of the answer.
+The call in warranty was not a dilatory exception, but an incidental demand in the answer to enforce a legal right of the defendant. C, P. 362, 363, 378 to 388. C. C. art. 2476 to 2495. But we do not think that substantial justice requires that this cause should be remanded, on account of the error of the court in striking out the call in warranty.
+The warrantor resided in another State, and it is not shown, or to be presumed, that he had property in this State. The only substantial effect, therefore, of calling him in warranty, through a curator ad hoc, would have been to give him judicial notice of the suit, that he might defend it if he chose, and if not, to obtain from him all the means of defence in his power. The plaintiff could effect what was equivalent, by giving the warrantor notice of the suit himself, Code 2493, 2494, and thereby accomplish all that could be done, so as to produce legal effects, through a curator ad hoc ; for the judgment against the curator ad hoc would not be absolulely binding upon the warrantor in another State, unless he authorized the curator to defend the suit. As the warrantor lived in a neighboring county of the State of Mississippi, the defendant might have given the notice contemplated by our code, and, also, obtained from him all the means of defence in his power, before he filed his answer in December, 1850, or, at all events, before the trial of the suit in June, 1851.
+Our Code of Practice provides for the call in warranty, by service of the petition and citation, on the warrantor, which seems to be the only mode contemplated as to this incidental demand. But we would not be understood as disapproving of the practice of appointing a curator ad hoc to absent warrantors ; the power may be fairly inferred from the articles of the Civil Code and Code of Practice, providing for the prosecutipn of suits against absentees. And we would remand the cause for the purpose of reinstating the call in warranty, if it appeared that the defendant had lost any substantial advantage, which he might have enjoyed, if the call had been sustained. An error of the Court, the effects of which might and probably was remedied by other means, is not a sufficient reason for remanding a cause, after all the delays, expense and trouble of a trial.
+The plaintiff relies upon a deed of gift from his uncle, John Cade. He produced a duly certified copy of the record of the deed in Franklin county, in the State of Mississippi. The record was made the 3d of December, 1828. The counsel of the defendant objected, that it was a copy of a copy, and therefore inadmissible in evidence, and took a bill of exceptions to its admission.
+A statute of the State of Mississippi, approved the 13th of May, 1837, provides, that copies of all recorded deeds, conveyances, bond^ ments of writing, which are now, or may hereafter, by the be required or permitted to be recorded, shall, when certq whose office the record is kept, be received in evidence in equity in this State, and be as available, without accounting the original, as if the original were there and then prodi Miss. Code, sec. 1, p. 869. We think the copy from the by this act, and not, as contended by the defendant’s counsel deed recorded, when the original has not been lost; ’and, if so, tlif' act of Congress providing for the authentication of records, makes the copy evidence in our courts.
+The plaintiff shows possession of the slave by his father for him, while a minor, under this deed; and by testimony identifies the slave sued for, with the one conveyed to him by the deed of gift from his uncle.
+The defendant shows a sale of the slave, made to his mother by Abraham Jones, dated the 4th of March, 1836, and possession from that time until the commencement of this suit in December, 1850, and pleads the prescription of five, ten and fifteen years.
+The plaintiff, until within the last year or two, was a minor. The code expressly suspends prescription during minority. Article 3488 does not except from the suspension, the long prescription of fifteen years.
+The point presented by the counsel of defendant, that our laws suspending prescription in favor of minority, can only avail resident and not non-resident minors, is not sustained by reason or authority, and cannot, therefore, be sanctioned.
+The judgment of the district court is affirmed, with costs.
