@@ -1,0 +1,33 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1826-04"
+citations: ["4 Mart. (n.s.) 411"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARK’S HEIRS vs. BARHAM’S HEIRS."]
+source_url: "https://static.case.law/mart-ns/4/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6685249
+---
+
+# Clark's Heirs v. Barham's Heirs
+
+## Majority (PoF.'lER. J., /)
+
+PoF.'lER. J., /
+delivered the opinion of the ⅛ court. Th e plaintiffs claim from the defendants " dants the undivided half of an estate which thev allege belonged to their common an-v ° ° cestor, Henry Clark, senior. J
+This claim is resisted on several grounds. ° First. That the estate demanded in the peti-,⅜ 1 tion never did belong to Henry Clark; that it was the property of his son, Isham Clark, who» dying, bequeathed the same by will to his sister, Frances Barbara, the mother of the defendants. Second, That Henry Clark renounced all right to the estate of his son Isham Clark; and, Third, That the prescription of five and ten years prevents the plaintiffs from recovering.
+This action was originally instituted in the court of probates, and from thence by appeal taken to the district court: in both tribunals there w'as judgment for the plaintiffs.
+We think the objection offered to the petitioners’ right of recovering, on the ground of prescription, has beet sustained.
+The will was presented to the parish judge in the year 1818. Two of the witnesses who were present at its execution proved it. The judge made the following order: u The above will being proven to the satisfaction of the court, it is ordered to record.”
+It is objected, that this will cannot form the basis of prescription, because by a provision of our Code, it is declared ki that no testament or codicil can have effect until it has been presented to the judge of the parish in which the testator died,.....The said judge shall order the execution of the said testament or codicil after its being opened and proved in the cases prescribed by law.” Civil Code. 242, art. 153.
+It is the opinion of the court, that the order to record the will, was sufficient to enable the party holding under it, to plead prescription. That order is certainly not so formal,as it might have been; but, no doubt exists with us, that it was the intention of the judge the will should be executed. He declares it was proved to his satisfaction, and directs it to be recorded; which order, taken most sinctly. was at least commencing the execution of the will. The parties claiming under it, were justified, after this judicial sanction, in be-lieviug their title to be valid, and that they rightfully held the property. Informality in a title does not prevent him who claims under it. from pleading prescription; it is only the | informality which renders it nuil, which produces that effect. The great number of our probate judges, and the smallness of the eom- | pensation which their fees of office afford in I many parishes, render it impossible to obtain legal characters to fill them. We cannot if therefore expect, that all their judicial decrees s will be expressed with that clearness and pre-st cisión, which distinguish the judgments of •(! courts, where men learned in the law, preside: .-j ami w e apprehend, it would lead to great eon-0 fu-iou to apply so severe a test to them. At Ialt events, we are satisfied, that the order rendered here was sufficient to enable the ⅛ party to plead prescription: whether it was f, technical enough [brother purposes, need not »j now be inquired into.
+It is next objected, that the wall was de-festive, because more witnesses could have been bad at its execution: and that the court irregularly admitted it, .to probate without evidence, establishing that the facts existed which render the number called in here, sufficient: for the validity of a nuncupative testament when made in the country.
+As far as our knowledge of the practice of the courts of probates extends, we do not believe they are in the habit of going into an inquiry of this kind when a will is presented to them. The articles of the Code, which point out the proof necessary to be made, before the execution of the testament can be ordered, do not seem to contemplate arn such investigation in the first instance; bat admitting that they did, what would be the conclusion? Why, that the court of probates decided erroneously on insufficient evidence. But that would not be sufficient to render the judgment null, or prevent it, until appealed from and reversed, from having the same effect as if rendered on the most full ami complete proof. Civil Code, 242, art. 157,
+It is still objected, that the legatees knew their father was alive at the time the will was made, or at least when it was ordered to be recorded, and that consequently they were possessors in bad faith; as the law has positively provided', the parent cannot be dkio-herited unless he is named in the will, and . , the causes of disinherison expressly mentioned. Civil Code, 236, art. 128.
+There is no proof in the record of the fact ori which this bad faith could be established. The evidence shows, that the father resided iu South Carolina up to the year 1817, or 1818. Whether his children knew that he was still living, at the time the will was made or proved, is not shown : the presumption is, that they were informed of it. But we cannot take that presumption in place of proof, and on it alone «say, this property was held in bad faith. Bad faith, as it is well known, cannot be presumed, and there is no difference between presuming it, and presuming the fact which would .■«establish it. .
+Lastly,dt-was. contended, there was no possession. because the father of the present defendants was the husband of their mother, the legatee, and that the property came into his hands as executor, and was held by him in that capacity.
+The testimony establishes, that the slaves have remained with the husband and wife, since the death oflsham Clark, the.testator, up to the institution of this suit. When property ⅛ held by husband .and wife, to which one has a right, the legal possession follows the title : the husband, as executor, had no right to ..retain them for ten years; his possession, after the .time prescribed by law for executors to perform the duties imposed on themd>y the will, was the possession of the legatees.
+Woodruff for the plaintiffs, Watts S* Lobdelt for the defendants.
+It is therefore ordered, adjudged, and decreed, that the judgment of the district court be annulled, avoided and reversed, and that there be judgment for the defendants, with costs in both courts.
