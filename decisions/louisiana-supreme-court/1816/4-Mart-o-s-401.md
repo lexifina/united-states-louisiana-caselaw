@@ -1,0 +1,28 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1816-06"
+citations: ["4 Mart. (o.s.) 401"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ENET vs. HIS CREDITORS."]
+source_url: "https://static.case.law/mart-os/4/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12131333
+---
+
+# Enet v. His Creditors
+
+## Majority (Derbigny, J.)
+
+Derbigny, J.
+delivered the opinion of court. By a decree of this court, of the 7th of May last, ante 307, this case was sent back to the court of the fourth district, with instructions to the judge to cause another meeting of the creditors of Joseph Enet, to be held for the purpose of proceeding to the nomination of another syndic or syndics, the first appointment having appeared to this court to be illegal. The meeting place took place, and the present appellants were elected: but the district judge refused to confirm their election, on the ground that part of the creditors, viz. those who had mortgages, had been denied the right of voting.
+East'n. District.
+June 1816.
+The question then, whether privileged and hypothecary creditors are or not to participate in the election of syndics, is the principal, if not the only, subject of investigation here.
+The parish judge, acting as a notary on the occasion, thought that creditors of that description are excluded from voting by the 20th article of the 17th chapter of the ordinance of Bilbao, which says that, in case there should arise any difficulty in the settlement of accounts and other incidents or acts, until the close of the proceedings, the minority shall abide by the will of the majority : but that creditors, having privileges by deed or otherwise above the simple creditors shall not be admitted to vote. This article, however, does not seem to embrace the election of the persons, who are to be entrusted with the management of the bankrupt’s estate, and with the settlement of his affairs: provision being made for their nomination, in the 12th and 13th articles of the same chapter. Administrators of the estate, under the name of depositaires, are to be chosen by the majority of the creditors, (speaking generally and without exceptions) then syndics commissioners are to be appointed to take charge of the books and papers, to ascertain the number and claims of the creditors, with the active debts of the bankrupt and liquidate the whole. Those are distinct trusts, unless it please the creditors to place them both in the same hands. After these nominations are provided for, we find in the 20th article, the disposition which gives to the simple creditors the exclusive right of debating among themselves, such difficulties as may occur in the settlement of accounts, and other incidents and acts. The reason of this is obvious : the privileged creditors, whose credits are liquidated, and who are to be paid at all events in full, have no interest in the adjustment of the other claims, nor in any measure which may be taken for the advantage of the ordinary creditors. But, it would have been strange indeed, had they been deprived of a participation in the choice of the persons, in whose hands that property is to be placed, out of which proceeds they expect to be paid. Be that as it may be, the ordinance of Bilbao, supposing it to have any binding force here in certain cases, is not the law which is to be consulted in matter of cession of goods. It is a part of the Spanish law-merchant, and is only to traders. This is the case of a cessio bonorum by an individual not engaged in trade : it must be governed by the general rules provided for such cases.
+Febrero, in the article quoted, when this cause first came before us, says that all the creditors or a majority of them in amount, not in number, are to make choice of the person to whom the adminisration of the estate is to be entrusted. The article of our code, quoted on the same occasion, gives to the creditors the right of naming syndics to have the management of the estate surrendered. The exclusion of the privileged creditors from a participation in that choice, is not so much as hinted at.
+Another allegation of the appellants is, that one of the mortgage creditors, who complains that their votes were refused, did not tender his, until after all the votes had been taken : but there is no evidence that the election was then closed. Besides, it appears that the determination of the notary, not to admit the votes of the hypothecary creditors had been made known, and that would be sufficient to excuse the creditor, even if he had admitted altogether the useless ceremony of tendering his vote.
+The appellants have also made an attempt to shew to this court, that since the judgment complained of, some of the creditors, in whose favour it was rendered, have thought fit to change sides, and are now willing to acquiesce in nomination of the appellants as syndics. They even went so far as to establish, by calculation, what difference this would make in the result of all the votes. But this court could not, without assuming original jurisdiction, enquire into other circumstances than those which were laid before the judge, from whose decision an appeal was claimed. We must decide, and decide only, whether his judgment was or was not correct, at the time he pronounced it, not what it might have been, had the situation of the parties been different.
+Moreau for the appellants; Hiriart for the appellees.
+It is ordered, adjudged and decreed, that the judgment of the district court be affirmed with costs.
