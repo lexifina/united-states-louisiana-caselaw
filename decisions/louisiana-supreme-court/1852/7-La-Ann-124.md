@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1852-03"
+citations: ["7 La. Ann. 124"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Beck & Co. v. Thomas Brady et al."]
+source_url: "https://static.case.law/la-ann/7/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 331965
+---
+
+# Beck v. Brady
+
+## Majority (Pkeston, J.)
+
+The judgment of the court was pronounced by
+Pkeston, J.
+This is a suit to annul the sale of a stock of dry goods made by Thomas Brady to H. E. Brown, on the ground that it was simulated and made to defraud the plaintiffs and other creditors of Brady, and to subject the goods to the payment of the plaintiffs’ claim for upwards of nine thousand dollars, for which they have obtained judgment. The case presents questions of fact alone, and the simulation and fraud was made out so fully to the mind of the district judge, that he felt himself justified in denouncing it in the strongest possible terms.
+Simulation and fraud, unfortunately for soeieíy, are so common and have become so frequently the subjects of investigation in our courts, and are so difficult of discovery, that when ferreted out by the district courts with great care and labor, .w0 we unwilling to interfere with their judgments, unless there be manifest want of evidence. So far from that being the fact in the present case, the evidence leads us to the same conclusions with the district court.
+We have examined the voluminous record minutely, but will only state the results of that examination.
+The defendant, Brady, was a resident of the city of New York, but for two years carried on a dry goods store in this city, and also the business of selling goods by the package at auction. On the 31st of January, 1851, he purports, by a notarial act, to have sold out his whole stock to the defendant, Ii. JS. Brown, for about $45,000, payable $2000 in cash, and the balance at six, twelve, eighteen, twenty-four, thirty and thirty-six months’ credit, in notes of the purchaser, bearing six per cent interest.
+The next day he gave a statement of his affairs to an attorney at law, showing liabilities to the amount of near two hundred thousand dollars, and assets, including the unendorsed notes for the stock of goods, amounting to less in value than $50,000, with which to pay his debts, or about twenty-five per cent of their amount. He gave a power of attorney to the attorney, to tender these assets to the creditors, evidently with a view to induce the creditors to take these assets in discharge of his liabilities. He left the city, and it does not appear that he has ever returned. The plaintiffs, regarding the sale as a fraudulent simulation, disregarded it, and attached the stock of goods in the possession of Brown.
+The evidence leaves no doubt that this was a fraudulent transaction on the part of Brady. He was insolvent to an immense amount, being unable, according to his own showing, to pay more than one-fourth of his vast debt. It was his duty, under the circumstances, to have surrendered his little property, which was the common pledge of his creditors, to them, to be administered and distributed among them according to law; and further, to have remained personally and given them a satisfactory account of the loss of a hundred and fifty thousand dollars of their property, in the short space of two years. Even a month before the sale, the stock of merchandise exceeded the price for which it was sold, by upwards of thirty thousand dollars, of which diminution no satisfactory account is given.
+It was the duty of Brady to have enabled his creditors, after causing them such enormous losses, to have realized the remaining assets, as soon as possible, in cash, and not to have forced upon them, instead of a remnant of property, a new debtor at long terms of credit, and which debtor, it seems from the evidence, had no means to purchase. For it appears from the answers of the attorney who was to make the arrangements with the creditors, most of whom were in New York and Boston, that within twenty days after he received the power of attorney, he had no part of either the money or notes given for the stock of goods, and it does not appear in evidence, that he ever had them in possession.
+"We believe that Brown knew at the time of the purchase of the stock of goods, that the vendor was totally insolvent. Through his agency, the store had been established, and he had been his confidential clerk and manager of the business in this city; and, as such, we have no doubt, knew Brady’s situation.. As such he knew, or was bound to have known, the duties of the insolvent by the laws of Louisiana, as already stated, and to have aided him' in performing them. On the contrary, he cooperated with him in violating those duties, by pretending to purchase his stock of goods and giving him the money and notes which he might, and probably has, disposed of to the further and total loss of the creditors.
+It was out of the usual course of business, and unlawful, for an insolvent to sell his whole stock of goods on long credits, and without any security from the purchaser; and Brown aided in this unlawful conduct.
+Brown was insolvent himself, and even the cash payment for the stock of goods was borrowed from the auctioneer of Brady, and returned in a few days, no doubt out of the proceeds of the forced sale and sacrifice of that very stock which should have been most carefully husbanded for the creditors, to whom it in reality belonged. He purchased the stock with no intention of carrying on business as a dry goods merchant, but immediately commenced the sacrifice of the property at such prices for cash, as produced such a rush on the store as compelled him and his clerks, at one time, to barricade the doors.
+The whole affair was as unusual, anti-commercial and fraudulent on the part of Brown as of Brady. The district judge regarded the whole as a mere simulation to cover a division of the spoils, and maintained the attachment; and we see no reason to pronounce that he erred.
+The judgment of the district court is affirmed, with costs.
