@@ -1,0 +1,24 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1826-10"
+citations: ["5 Mart. (n.s.) 139"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COX vs. WILLIAMS."]
+source_url: "https://static.case.law/mart-ns/5/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12129477
+---
+
+# Cox v. Williams
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the court. The defendant is sued on his promissory note, which has been endorsed by the payee, to the plaintiff. The answer contains an averment, that the note was given on a consideration which has failed: and that this defence may be well set up against the petitioner, because the payee was his agent, and took the note for his use and benefit.
+In support of these allegations, the defendant offered at the trial, the payee, as a witness. He was objected to on two grounds; first, because he had been employed by the plaintiff as his attorney in this suit; and second, because he was endorser. The judge held the first objection to be a good one, and rejected him, to which opinion the defendant excepted.
+I. The contemporaneous construction of the statute, which directs that attorneys shall not give evidence in any case in which they have been employed, was, that attorneys were placed under the same disabilities as parties. The motives which induced the legislature to pass such a law were supposed to be, that attorneys could not be safely intrusted to testify for their clients: that under the influence of professional zeal, they became in feeling, if not in interest, completely identified with those who employed them. It is not within our experience, that this law has ever been considered, to prevent one of the parties from calling for the testimony of his adversary’s attorney. There can be no reason supposed why it should. On the contrary there are powerful considerations, flowing from a regard to an efficient administration of justice, why it should not. For in this way, the witness on whose knowledge the whole fortune of one of our citizens depended, might be disqualified by the act of the person against whom he was to testify. This is permitted by no system of laws that we have any acquaintance with. Nor can we believe, the legislature contemplated conferring, any such power. When the terms in which a law is drawn up, lead us by a strict interpretation, to consequences contrary to common sense, and destructive of private right, it is our duty to construe them in such a way as will avoid these consequences. The will of the legislature is certainly to be obeyed, but the literal meaning of the words used, is only one way of ascertaining it. It must be sought also in the whole context, in the object of the law, in the evil to be remedied, and above all in the conviction sincerely entertained by this court, that the representatives of the people do not intend to violate first principles. If a party to a suit, could by any act deprive his adversary of his witness, he could on the same principle seize on his documentary evidence and retain it; and if the legislature could be supposed to have the intention to authorise such things, they might be supposed capable of enacting that the debtor should be discharged from his obligation; for we cannot see the difference between depriving a man of his property and depriving him of the evidence which establishes his right to it.
+II. Nor do we think the circumstance of the witness being an endorser on the note, deprived the maker of his testimony. The rule relied on in support of the objection, is of modern date and not yet perfectly settled. Admitting it however in its whole extent, it does not reach this case, for the defendant did not introduce the witness to prove any thing by which an innocent endorsee could be injured, but to establish that the person by whom the suit is brought was in truth the payee, and the witness his agent. If such were the facts of the case, these could be no question about what an endorser could prove, for the suit, though in the same of the endorsee, would really be one between the maker and pavee, and as between them the consideration might be enquired into.
+Baldwin for the plaintiff, Wilson, Scott, Bullard & Oakley for the defendant.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court be annulled, avoided and reversed; and it is further ordered, adjudged and decreed, that this case be remanded to the district court, with direction to the judge not to reject the payee and endorser of the note as a witness to prove that he acted as agent of the plaintiff, and that the note was given to him in that capacity. It is further ordered that the appellee pay the costs of this appeal.
