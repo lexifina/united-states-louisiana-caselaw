@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1813-12"
+citations: ["3 Mart. (o.s.) 209"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KENNER & AL. vs. MORGAN."]
+source_url: "https://static.case.law/mart-os/3/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12124079
+---
+
+# Kenner v. Morgan
+
+## Majority (By the Court.)
+
+By the Court.
+This was a suit brought by the appellees auainst the appellant, Sheriff of New-11 ^ » V- t e Orleans, to recover from him the amount ot certain advances made by the plaintiffs, for the count of the owner of certain goods, which had been consigned to them, but were seized, in their hands by the defendant, on a writ of attachment, issued by the cpurt of the first district, at the suit of the supposed owner of said goods,
+The Plaintiffs have obtained a judgment against the said Sheriff personnally, for the amount bv them claimed, and from that judgment the defendant has appealed to this court, alledging that he cannot be liable personnally, for the sum due to the plaintiffs, but ought to have been directed only to pay it to them, out of the proceeds of the goods, when sold,
+T h i s suit is not one of those which are brought against a Sheriff, for having seized property not belonging to the person sued. In such Gases, the real owner, or some person in his name, comes forward and claims restitution of the specific property, or if it cannot be had, then of its fyll value, with such damages as may have accrued to him, in consequence of such wrong seizure, Here, no owner claims restitution. The property seized seems to have been poncéded to. belong t0 PerSQn against whom the attachment was issued : for the consignees, instead of praying restitution, come forward, in their own name, not to recover the goods, nor their value, but the amount of their own account, against the owner of those goods.
+How such a suit could be called a suit for a trespass, and be considered as sounding in damages, is not to be conceived. The petition does not support such an assertion. The consignees, indeed, were so far mistaken as to consider the Sheriff as personnally liable for the amount of their advances : but, at the same time, they shew that they have no pretentions to receive any thing else than that precise amount.. The truth is that the plaintiffs ought not to have sued the Sheriff at all: but, simply to have intervened in the suit brought by the attaching creditor and there have asserted their privilege against him. The ranks of both debts would have been then fixed between the proper parties : the money for the satisfaction of both would have been made by the Sheriff: and the proceedings would have been regular.
+The form of the present action is certainly vicious, and should we be bound by strict rules of practice, the- whole suit ought to be annulled ; but, believing that the provisions of the law'’, which permit this court to attend only to the rights of the cause, may be extended to a case of this nature," and unwilling to put the parties to the trouble and expense of another suit, whenever it can be avoided, we will take into consideration the merits of the cause, and endeavor to render such a decree as may render justice to all persons in-térested in it.
+The admission of the parties and the‘statement of facts establish sufficiently that the plaintiffs were advised by Moses Austin, that his son, Stephen A. Austin, was coming on with an adventure of shot to New-Orleans, and were requested by him to give to his said son any pecuniary assistance he, should stand in need of. It further appears that the said shot was consigned to them, and that they did really advance to Stephen A. Austin, under the responsability of his father, the sum by them claimed. It is not disputed that' they had a right to be reimbursed by privilege, put of the proceeds of the shot consigned to them, whether it belonged to Moses, or to Stephen A. Austin, for all monies advanced for the expenses of said adventure, and. the finding of the jury, against the holder of the shot, amounts to an acknowledgment that the advances mentioned in the account of the appellees were all of that nature. ,
+It is, therefore, decreed that the judgment of the co&rt of the first district, making the- Sheriff of the Parish of New-Orleans personally liable to payment of the sum, awarded in favor of the appellees, be reversed : and this court, proceeding to* render such a decree as the said court ought to have rendered, does order and adjudge, that the sapj sum i-,e pai(j the appellees, by die said Sherilf out of the proceeds of the shot by him Seiaed in their hands : to which effect the said Sheriff shall sell so much of the said shot, as may satisfy the said claim. And inasmuch as the said appellees have mistaken their legal remedy, for obtaining the payment of their account, it is further ordered that they do pay the costs of this Suit, as well in the inferior Gourt as in this.
