@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+docket: "6650"
+decided: "1878-01"
+citations: ["30 La. Ann. 72"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Anderson vs. John J. Arnette et al."]
+source_url: "https://static.case.law/la-ann/30/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2456882
+---
+
+# Anderson v. Arnette
+
+## Majority (Egan, J.)
+
+The opinion of the court was delivered by
+Egan, J.
+Suit was instituted by the present plaintiff against Alexander Wheeless and Daniel Pratt for debt of the commercial firm of Wheeless & Pratt, then in liquidation, of which firm they were the members. The petition prayed for citation, not to the firm, but to Alexander Wheeless and D. Pratt, and for judgment against them in solido, which was accordingly so rendered in the court below, but reversed, on appeal, as to Pratt, and affirmed as to Wheeless. There was no judgment in either court against the firm, and, as we have seen, none was prayed for; nor was any attempt made to cite or sue the firm, but only the individual members by reason of their obligation to pay a debt contracted by the firm, which was expressly alleged by the plaintiff to be then “ in liquidation.” The appeal bond was signed “Wheeless & Pratt, A. Wheeless, John Kouns, and purports to be given by “Wheeless & Pratt” as principals and John Kouns as surety. It recites the rendition of the judgment in the case No. 7832 of the Seventh District Court of Orleans, the same case, and is the bond by virtue of the giving of which the appeal was prosecuted from the only judgment rendered in it, which, as we have seen, was against the individual members and not the firm. The appeal was considered to be that of Alexander Wheeless and Daniel Pratt, and was so passed upon and adjudged. It is now urged by Kouns, the surety, defendant in the rule, that the appeal was taken by the commercial firm, whose surety alone he was, and that the firm was “ not cast in the appeal,” nor was any judgment rendered against it on appeal, and hence, that the condition upon which he bound himself in the appeal bond has not happened, and the court below erred in holding him liable.
+It is well settled that judicial bonds must be interpreted as to their obligations by the record of the cases in which they are given, and that the law will supply what is wanting or will correct clerical errors where there is enough to identify the bond with the case. Erom the facts stated already, the pleadings, the judgment, the recitals of the bond, and the title and number of the case, all of which are given in the bond, as well as the court and the date of rendition, and signing of the judgment, it is manifest that the bond in question was given in the case, and to effect an appeal from the judgment rendered in the case in which the individual members of the firm and not the firm itself were sued and condemned.
+Nothing can be inferred in favor of the surety from the fact that the name of “Wheeless & Pratt” instead of “Daniel Pratt” is signed to the bond. The individual name of “ A. Wheeless” is also signed, and that of the surety “ John Kouns.” It does not need now to cite authorities to show that the appeal would have been effective and the surety bound had the principals not signed the bond at all. Here, however, A. Wheeless, as whose surety Kouns is sought to be condemned in this proceeding did sign it, and the name of the firm at the foot of the bond was surplusage in a case to which it was not a party, and in which no judgment was or could be rendered against it .or in its favor either below or on appeal. Evidently the Supreme Court considered and gave effect to the bond and the appeal as that of the individuals, and not of the partnership,-and considered the appeal effective in favor of Daniel Pratt who had not signed the bond at all upon the mere signature of his surety. This the court was warranted in doing under our settled rule of decision. Kouns however was at the same time the surety of both “ Daniel Pratt” and “ Alexander Wheeless” or at all events of the-latter, who signed the bond as principal, and who upon the faith of Kouns’ suretyship prosecuted his appeal. He did so unsuccessfully. He was “ cast in the appeal,” and the condition upon which Kouns bound himself in solido to be liable in his place has happened. The distinction between the legal entity, the ideal thing, a firm and the individual members composing it,-is well recognized by all courts as it has been by us in the discussion of the present case; but as there was no firm and no other than the individual members involved in or party to the case in which the defendant’s obligation was given, and as we have held that he was the surety not of the firm but of the individual members, and especially of Alexander Wheeless, who was condemned upon appeal, the cases of Grieff vs. Kirk, 17 An. 25, and of McCloskey, Bigley & Co. vs. Wingfield & Bridges, decided ■ by us in March last on a rule on C. S. Bush, surety, do not apply in the present case. Those decisions are, in effect, that one who is surety for a partnership does not thereby become surety for the individual members.
+It is further objected by the counsel for the defendant in the rule that both Wheeless and Pratt were dead before the rendition of judgment upon appeal, which was therefore an absolute nullity. The record discloses the fact that the death of Wheeless was suggested and his administrator made a party to the appeal before the rendition of judgment. It further appears that & fieri facias was regularly issued against the principal and returned by the sheriff “ nulla bona,” after an unsuccessful demand upon the administrator of the principal, Wheeless.
+It is therefore ordered, adjudged, and decreed that the judgment of the district court be and it is affirmed, with costs of both courts to be paid by the appellant.
+
+## Rehearing (Manning, C. J.)
+
+On Application for Rehearing.
+Manning, C. J.
+The application for rehearing not being accompanied by a printed statement of the points and authorities on which the party founds his application, as required by Rule IX of this court, and time to file the same not having been applied for, the rehearing is refused.
