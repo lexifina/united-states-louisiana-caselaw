@@ -1,0 +1,77 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1825-06"
+citations: ["3 Mart. (n.s.) 707"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAFON'S HEIRS vs. HIS EXECUTORS."]
+source_url: "https://static.case.law/mart-ns/3/cases/0707-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12146383
+---
+
+# Lafon's Heirs v. His Executors
+
+## Majority (Martin, J.)
+
+Martin, J.
+delivered the opinion of the court. In pursuance of the decree of this court, in March, 1823, vol. 1, 243, the plaintiffs moved the court of probates to order the defendants to file their accounts as executors of the testator.
+They accordingly filed the said accounts, whereby they appeared to remain debtors of the estate for $6,451.
+They filed, at the same time, a petition, praying that Jane P. Lafon, one of the heirs, might be directed to return to them certain papers, (which they thought necessary to establish the payments they had made) and which, they alleged John P. Lafon, her father, had taken from them, praying that, on refusal, they might be permitted to prove these payments by witnesses. On Jane P. Lafon's producing the inventory, made by her father, of these papers, the defendants desired a deposit of them, which was accordingly effected, and the defendants produced another account, in which the balance due by them is reduced to $5930 87, and Jane P. Lafon filed her exceptions to the a-account produced.
+East’n. District.
+June 1825.
+Millaudon, a creditor, and Nayes, a legatee, were admitted to intervene and contest the defendants' accounts, and prayed a provisional distribution of the balance struck out, among such creditors as remained unpaid and the legatees. The court admitted these two intervening parties, and directed the previous distribution of the acknowledged balance, as prayed for.
+The court then proceeded to hear the parties on the several items of the executors’ accounts, and finally struck a balance against them of $22,709 18.
+The judgment declares the defendants strictly debtors of a balance of $29,792 16 but allowed momentarily credit for $7,702, 98, the amount of several debts due to the estate, which they declared they had been unable to collect, but the vouchers of which were not produced, on condition that they should hand over the vouchers or evidences of these claims, whereby the balance found was reduced to the said sum of $22,709, 18.
+The defendants are decreed to bring this last sum into court, that the creditors being first paid, the legacies may be discharged, and the balance divided amongst the plaintiffs. The defendants appealed.
+The counsel for the appellants complains that,
+1. The court erred in directing them to bring the balance due by them, into court, but ought to have left it in their hands, to be by them applied to the payment of the debts of the estate, the discharge of the legacies and the residue paid to the heirs, according to the will of their testator, and that a number of items were struck out from their account, which ought to be reinstated.
+The will grants to the defendants one year to liquidate the estate, and more if necessary; and they, refer us to out former judgment between the parties, in which we held that when the will contains such a clause, heirs claiming under it, cannot demand that the executors should be removed from their trust, till they have entirely liquidated the estate; and it is argued that the plaintiffs, being beneficiary heirs, have no interest in what concerns the creditors and legatees.
+The testator died in September, 1820, and the defendants were called on for their accounts in May, 1822, twenty-one months after. The record shews that between the months of December, 1820, and May, 1821, the defendants sold all the property of the estate, except a tract of land at Lafourche, and a lot in New-Orleans, and they have in no manner attempted to account for the delay brought in the disposal of this property.
+All the debts due to the estate were recovered, except those, the amount of which was deducted from the balance, and the defendants have not shewn that suit was instituted for the recovery of any of them.
+Ample time has been given to the creditors of the estate to produce their claims. All these claims, which according to the accounts exhibited, remain unpaid, do not reach the sum of $12000, including that of Lefevre, for $10,000, and that of Millaudon, an intervening party. The other debts cannot therefore be either very numerous or consequent, as the defendants have not stated any obstacle to their liquidation or payment.
+The defendants allege they have been prevented from liquidating the estate, by being deprived of the papers of the estate, of which John P. Lafon possessed himself and by the injunction which he obtained to prevent the sale of the property.
+The papers have been produced, and none of them are alleged to have been according to the allegations of the defendants, the receipts which constituted the bulk of them, might be wanted to support the account rendered, but could be no obstacle to the payment of the debts remaining due.
+The injunction was not obtained till about eight months after the testator’s death, and was dissolved about seven months before the date of the judgment appealed from, so that the defendant had sufficient time to liquidate the estate.
+We conclude the defendants had ample time to liquidate the estate, and that the court correctly exercised its power to coerce them; but their counsel urges the court of probates had no authority to direct the payment of the balance into court.
+Although executors derive their powers immediately under the will of their testator, these powers are to be exercised under the control of the courts of probates, without whose fiat they cannot act. The code assimilates them in this respect to curators of vacant estates and beneficiary heirs.
+The court of probates has, by an interlocutory decree, directed the defendants to distribute among the creditors of the estate, provisionally the balance they had themselves admitted to be in their hands. This decree, although interlocutory, might have been appealed from, if erroneous, as it directed an absolute disposition of the funds, yet the defendants, so far acquiesced in it, as to refrain from appealing, but they nevertheless, in violation of it, withheld the funds and neglected to empty their hands.
+The record shows that the executors, so far misused their powers, as to retain moneys in their hands, which they were decreed to pay to the creditors, that they misapplied a considerable part of the funds, by applying it to the discharge of legacies, before the creditors were satisfied.
+Notwithstanding this, we think the court of probates erred in directing the money appearing due by the defendants into court. The sum was a large one, and every thing showed it was not in their hands; the complaint was that a great part of it, had been prematurely paid to legatees.
+The order to pay money into court is only to be enforced by the attachment of the person of the party; our jurisprudence requires that this violent measure should not be resorted to, till the party’s visible property be exhausted.
+If the surviving defendant, Gravier, be imprisoned, the sale of his property will be very, much impeded ; the plaintiffs may record the judgment, and the lien which may thereby be acquired, will become an insurmountable difficulty to a private sale, and we are ignorant, of the right of the court to detain a defendant in jail, because he is unwilling or unable to discharge its judgment, and at the same time send process against his property.
+The law has pointed out the manner in which courts of justice, in this state, are to execute their judgments; it does not allow of the seizure of the person of the debtor, till it appear no property of his is to be found. The order to bring money into court, may perhaps issue against a sheriff or other officer, who actually has a sum in his hands; but, we think it is irregular in ordinary cases.
+We are now to examine how far the court of probate was correct in rejecting certain charges made by the defendants.
+1. A sum of $1678, charged as paid to Poumeirat, one of the defendants, was disallowed; $850, for wages as overseer of the testator's plantation, from the 1st of April, 1804, to the 1st of September, 1805, and $828, for the hire of three negroes of his, employed on said plantation, from May 1st, 1804, till February 28th, 1806.
+2. A sum of $10,482 22 1-2 cents, paid to several legatees.
+3. Sundry sums, the payment of which was not proved, amounting together, to $3201 18 cents.
+4. Some items rejected for particular reasons, amounting to $6800.
+1. The appellees demanded that the item relating to Poumeirat’s wages should not be allowed, the claim being prescribed by the lapse of five years from the promulgation of the Civ. Code, 488, art. 77. So, that, at the the testator’s death, ten years had elapsed since the claim was prescribed.
+The claim for negro hire, was also opposed as destroyed by prescriptiod, id. 488, art 78. Such a hire being assimilated to the rent of houses and farms.
+The defendants opposed this plea of prescription by a tender of parol proof of the testator’s acknowledgment of the claim,in 1819,the year preceding his death. The plaintiffs opposed the introduction of the testimony, on the ground of the code having provided that the prescription shall take place, unless there be a settlement, note given, or an action pending.
+The appellants urge that the code speaks only of a settlement taking place, without requiring that it should be written, and therefore the acknowledgment of the testator, which they offered to establish by witnesses, being that of a fixed sum, was equivalent to a settlement.
+The judge of probates refused to receive parol proof, and a bill of exceptions was taken.
+We think he did not err; the French text of the code, in the part which is translated by the expression settlement taking place, uses the words compte arreté, equivalent to settled or accepted account, which taken in conjunction with what follows billets ou action non parimée note or action not barred or deserted, excludes the idea of an oral acknowledgment.
+As executors need the assent of the court of probates to pay any claim, it follows that they cannot, by an unauthorised payment, deprive creditors, legatees, or heirs of the protection which the plea of prescription gives against unliquidated claims.
+As in the present case the debtor was an executor, the objection of the heirs acquires from this circumstance increased force.
+We think the court of probates, if applied to for leave to pay the claim, ought to have withholden its assent, at least till all holders of unprescribed claims were satisfied.
+II. While there were unsatisfied creditors the executors paid legacies in their own wrong and the court acted correctly in striking out every item of payment to legatees.
+III. The items rejected for lack of proof are six in number.
+I. One of $1,340 50, “for sundry payments to several persons, whose names are not present to our memories,” The executors attribute their lack of reminiscence to the possession taken by John P. Lafon of some of their papers. If it support this charge, it might have supported any to the amount of the whole estate.
+2. $300, to the defendant, Poumeirat. in reimbursement of a draft of his on the testator, who died before it reached New-Orleans. The draft was produced, with the receipt of Millaudon, the holder, for its amount. But nothing shews that any claim of Poumeirat on Lafon's authorised this draft, nor that the latter had directed it to be drawn.
+3. An item for $533 68, paid to Boisdore for collection. This man is stated to be dead, and this is supposed to account for the absence of his receipt.
+4. $568, stated as paid to Marson, now also dead, " for two accounts against the estate.” None were produced.
+5. A charge of $399 50, to A. Boisdore, deceased, a free man of color, for salaries due him by the deceased. The nature of the services for which the salaries were rendered is not stated; no voucher, no proof of payment.
+6. $4 50, for taxes, a receipt for $30 was produced, $54 50 were therefore correctly struck from this item.
+IV. Four articles were rejected for particular reasons.
+1. The first is an item of $4000, which the defendant Gravier seeks to retain for the payment of two notes of Livingston of $2000 each, payable to his testator, which he received from the latter, who at the maturity of them directed him not to protest them and promised to pay them.
+Gravier applied to these objects the first funds of the estate that came into his hands, but neither he nor his co-executor took any step to procure payment from Livingston, till about four years after the testator’s death, when the time of their executorship had expired, and as the debtor, by his departure for congress, as a representative of this state, was protected from arrest; the court of probates decided the executors, by their unaccountable and protracted neglect, made the notes their own and struck out the item.
+J. P. Lafon, a brother of the testator, purchased, at the auction of the estate, several lots of ground for $950, at one and two years’ credit. The executors utterly neglected to demand his notes, according to the terms of the sale, or to take any step to coerce a payment or obtain the rescission of the sale. They have made a charge for this loss; but the judge of probates correctly concluded that, as it occurred through their neglect; it should fall on them.
+3. Poumeirat, oné of the executors, charges $100 for the expenses of his passage to New-Orleans from Philadelphia, in order, as he says, to come and take on himself his part of the execution of the will.
+The statute details the charges which the executor may make for costs incurred. Civil Code, 248, art. 178.
+Poumeirat, besides his commission, as an executor, had a legacy, and he found his interest in coming over to entitle himself to it, by his attention to the execution of the will.
+We think this item was also properly stricken out.
+4. Lastly, an item of $1750 was struck out, composed of sundry sums of money, advanced to John P. Lafon, an heir of the testator, for his passage, house rent and the payment of some of his debts. The judge of probates was correct in saying that this sum should not be allowed, till the creditors and legatees were paid, and provisionally rejected it.
+Moreau for the plaintiffs. Young for the defendants.
+It is therefore ordered, adjudged and decreed, that the judgment of the court of probates, so far as it ascertains the balance in the defendants’ hands, be affirmed; but that the part of it, which orders that balance to be paid into court, be annulled, avoided and reversed, and it is ordered, adjudged and decreed, that the case be remanded with directions to the judge to ascertain the sum due to the intervening creditor or creditors, give judgment accordingly in their favor; and for the balance in the hands of the defendants, in favor of the heirs; with directions that the sheriff may bring the money made into court, to satisfy these parties, unless any creditor oppose the payment of the intervening creditor, or any creditor or legatee the payment of the heirs; and it is ordered the appellees pay costs in this court.
