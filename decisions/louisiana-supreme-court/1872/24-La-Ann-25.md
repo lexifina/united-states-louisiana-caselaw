@@ -1,0 +1,32 @@
+---
+court: "Louisiana Supreme Court"
+docket: "3386"
+decided: "1872-01"
+citations: ["24 La. Ann. 25"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Succession of John M. Nelson.—Opposition of Jane Haygood to Tableau of Administrator."]
+source_url: "https://static.case.law/la-ann/24/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2540633
+cites_cases: ["3 Pet. 290"]
+---
+
+# Succession of Nelson
+
+## Majority (Wtlt, J.)
+
+Wtlt, J.
+Mrs. Eliza J. Nelson, widow of John M. Nelson and administratrix of his succession, filed her account and placed herself as a creditor for the amount of $4402 50 for paraphernal funds received by her husband, claiming the rank of a mortgage creditor for said amount.
+Mrs. Jane Haygood, an ordinary creditor, opposed this item of the account, alleging that “it is not a debt due by the succession of John M. Nelson which can be recovered as an ordinary or privilege claim,, and the succession of Nelson owes no such amount.”
+The court recognized Mrs. Nelson as a mortgage creditor for the amount claimed by her, and dismissed the opposition. The opponent has appealed.
+The facts that establish the claim of Mrs. Nelson are admitted. The only issue is whether or not Mrs. Nelson is entitled to the rank of a mortgage creditor, having failed to record her tacit mortgage prior to the first of January, 1870.
+Article 123 of the Constitution of 1863 declares that “the General Assembly shall provide for the protection of the rights of married, women to their dotal and paraphernal property, and for the registration of the same; but no mortgage or privilege shall hereafter effect-third parties unless recorded in the parish where the property to be effected is situated. The tacit mortgages and privileges now existing in this State shall cease to have effect against third persons after the first day of January, eighteen hundred and seventy unless recorded. The General Assembly shall provide by law for the registration of all mortgages and privileges.”
+On the eighth of March, 1869, an act was passed to carry into effect this article and to provide for recording mortgages and privileges, being act No. 95 of the acts of 1869.
+In Taylor et al. v. Ealer, 22 An. 278, a case directly in point, this court said: “By operation of the Constitution and the act of 1869,, the tacit mortgage may be preserved if recorded before the first of January, 1870, in the manner directed by law. A failure to inscribe it is fatal. The inscription was within the power of the plaintiff, whose interest it was to make it, and she has no just ground of complaint if, through negligence or ignorance, she has failed to preserve a preference conferred on her by law, in derogation of common right.”
+But it is contended that if the tacit mortgage of the surviving widow is lost by reason of article 123 of the Constitution of 1868 and act No. 95 of the acts of 1869, the obligation of a contract has been violated by the State, in contravention of section ten of article one of the Constitution of the United States. To this proposition we can not assent. The obligation of the husband to restore the paraphernal funds he has received from his wife, based upon a quasi contract, is in no manner impaired by article 123 of the Constitution and act No. 95 of the acts of 1869. The law requiring the registry of the tacit mortgages accorded by the civil law, appertains to the remedy.
+“Although there is a distinction,” says Justice Story, “between the obligation of a contract and a remedy upon it, yet if there are certain remedies existing at the time when it is made, all of which are after-wards wholly extinguished by new laws, so that there remain no means of enforcing its obligation, and no redress, such an abolition of all remedies, operating in presentí, is also an impairing of the obligation of such contract. But every change and modification of the remedy does not involve such a consequence. No one will doubt that the Legislature may vary the nature and extent of remedies, so always that some substantive remedy be in fact left. Nor can it be doubted that the Legislature may prescribe the times and modes in which remedies may be pursued, and bar suits not brought within such periods and not pursued in such modes. Statutes of limitation are of this nature, and have never been supposed to destroy the obligation of contracts, but to prescribe the times within which that obligation may be enforced by a suit, and in default to deem it either satisfied or abandoned. The obligation to perform a contract is coeval with the undertaking to perform it. It originates with the contract itself, and operates anterior to the time of perforipance. The remedy acts upon the broken contract, and enforces a pre-existing obligation.” Story on the Constitution, 236, section 1385.
+The law requiring the registration of tacit mortgages within the time limited, is but a modification of the remedy, and does not impair the obligations of contracts. The State had the right to require all existing mortgages and privileges to be recorded, and to fix the period in which '< the registry shall be made. In doing this the law in no manner assails the inviolability of contracts protected by the Constitution of the United States.
+In Jackson v. Lampkire, 3 Pet. 290, the Supreme Court of the United States said: “It is -witliin the undoubted power of State Legislatures to pass recording acts, by which the elder grantee shall be postponed to a younger if the prior deed is not recorded within the limited time; and the power is the same whether the deed is dated before or after the recording act. Though the effect of such a law is to render the prior deed fraudulent and void against a subsequent purchaser, it is not a law impairing the obligations of contracts. Such too is the power to pass acts of limitation, and their effect. Reason and sound policy have led to the general adoption of laws of both descriptions, and their validity can not be questioned.”
+It is therefore ordered that the judgment appealed from be amended by striking out that part allowing Mrs. Eliza J. Nelson the rank of a mortgage creditor. As thus amended, let it be affirmed, allowing her claim as an ordinary debt on the tableau. It is further ordered that appellee pay costs of appeal.
