@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1823-05"
+citations: ["1 Mart. (n.s.) 284"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GANSEFORD vs. DUTILLET & AL."]
+source_url: "https://static.case.law/mart-ns/1/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12129483
+---
+
+# Ganseford v. Dutillet
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the court. The petitioner states that a quantity of hardware and ship-chandlery belonging to him, was sold by Dutillet & Sagory, auctioneers, for the sum of $1338 18 cents, and that though often requested, they have refused to pay over the proceeds of the sale. Judgment is asked against them and their surety, Joseph Tricou, for this amount, and a prayer that their claims being founded on a deposit, may be decreed to be paid as a priviledged debt.
+The defendants, Dutillet & Sagory, having become insolvent after the inception of the suit, their syndic, N. Cox, was made a party. He appeared and answered that no effects of any kind whatever had come into his hands jusqu'à parfait payment, pour frais et deboursés y relatif.
+East'n District.
+May, 1823.
+Dreux, the individual mentioned in the letter, deposes that Latapie,on leaving this country for France, left with him a power of attorney; that among other matters that he was charged with, was that relative to the hardware, which Latapie told him he had left with Dutillet & Sagory to be sold for him, and in respect to which he had left with the witness several papers. Some time after Latapie wrote the deponent to hand them over to Rouquette, whom he had constituted his attorney in fact. This was done, and Dutillet & Sagory informed of the change in the agency, and directed by the witness to proceed in the sale of the property and pay over the amount to Rouquette. It was about a year after the departure of Latapie, that Dreux gave up the papers to Rouquette, and about one month and a half after that time the latter acknowledged he had received the proceeds of the sale of hardware. Nicholas, formerly a clerk of Rouquette, deposes that it is to his knowledge the amount for which the property sold, was paid to his then employer.
+If these facts stood alone, they would perhaps support the defendants plea, but the transaction has a quite different aspect when we examine the plaintiff’s evidence.
+On the 21st April, 1817, as we have already seen, Latapie put the goods into Dutillet & Sagory’s hands. Between that time and the 24th Sept. 1817, they must have received some communication respecting the property from the plaintiff for on the day last mentioned they write: “ We have received the letter with which you have honored us, 30th June. M. Latapie has in fact left with us four barrels and one case of hardware, which he told us belonged to you, and to hold subject to your order.”
+After stating the difficulties that must attend disposing of them as the plaintiff wishes, they add, en conséquence nous garderons votre qnincaillerie à votre disposition, jusqu'à ce que vous donniez l'ordre positif d'en finir, à moins que nous ne trouverions à le placer à dix pour cent bénéfice: therefore we shall keep your hardware at your disposition, until you give us a positive order to close sales, unless we find the means of selling it at ten per cent, profit. On the 18th January, of the following year, they again wrote the petitioner, stating that they had not been able to make sales of the hardware left by Mr. Lapatie, and that the only way to close was to put the property up at auction.
+The question therefore for decision is, whether on the evidence just stated, the payment to Rouquette was good. For a correct solution of it, it is necessary to ascertain whether Dutillet & Sagory were, after the writing of the letters from which we have made extracts, the agents of Ganseford; if they were, there can be no doubt the payment to Latapie’s attorney in fact, cannot be pleaded to the present action.
+We think it does clearly result from the testimony, that Dutillet & Sagory were the plaintiff’s agents. In their letter to him, they avow in the most explicit manner, that Latapie left the goods with them, stating that they were Ganseford’s property, and to hold them subject to his order. They engaged in this letter to do so, and promised in it not to sell them until they received his instructions, unless they were able to procure ten per cent. profit. After entering into this contract, which they were justly authorized to do, for Latapie had delivered them the goods as the plaintiffs, we cannot discover why they paid Rouquette.—Latapie’s authority over the property ceased from the moment the principal ratified his act of putting the merchandise into the hands of his attorney. Civil Code, 37, 36. A fact which is clearly shown him by the letter of the defendants, acknowledging the receipt of the plaintiff’s instructions. If after all this, they thought that Rouquette had authority to receive the "proceeds, it was crassa negligentia in them not to have taken better information, and it was in the very teeth of their promise, that they would hold the property subject to the directions of the plaintiff.
+The right of the defendants to retain the amount which Latapie informed them he had a lien for, when he placed the goods in their hands, leaves another question to be examined. We think they have the right. The goods passed into their hands with this lien; a payment made by them at that time would have been good. Nothing is shown which renders, it improper since. The owners of the goods availing themselves of the delivery of their agent, must submit to the qualification, under which he made it. The contract, under which the auctioneers sold the goods, was not gratuitous: it was not therefore one of deposit, and cannot be paid as a debt privileged over other creditors.
+Denis for the plaintiff, De Armas for the defendants.
+It is therefore ordered, adjudged and decreed, that the judgment of the parish court be annulled, avoided and reversed; and it is further ordered, adjudged and decreed, that the plaintiff do recover of the defendants the sum of seven hundred and ninety-nine dollars, 68 cents, with costs in both courts.
