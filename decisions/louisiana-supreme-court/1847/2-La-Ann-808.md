@@ -1,0 +1,26 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-09"
+decided_precision: "month"
+citations: ["2 La. Ann. 808"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roubieu v. Michel."]
+source_url: "https://static.case.law/la-ann/2/cases/0808-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 335338
+---
+
+# Roubieu v. Michel
+
+## Majority (EusTrs, C. J.)
+
+The judgment of the court was pronounced by
+EusTrs, C. J.
+This action was commenced in 1833. It is based on the warranty contained in three several acts of salo, which embraced an entire tract which the plaintiff bought from the defendant. The first was dated- in August, 1825, and the last in April, 1831; the intermediate act was passed in 1827. The first sale was for one-half the tract of land or plantation, and was made per aversionem,- and the land was thus described: “ The half of his plantation situate on the right bank of Red River at a place called Les Ecords, in the parish of Natchitoches, bounded above by the crevasse Dorsineau, and below by the bayou which discharges from lake Monet.” The subsequent acts do not vary the character of this sale. It was the plantation of the defendant which he had purchased from Cloutier, and which formerly belonged to Landreaux, known as such, which was sold for an aggregate sum, composed of the different prices of each sale, of §3,900.
+The petition' alleges that since the purchase the plaintiff has discovered, that the defendant had no title to a considerable portion of the land ; that the title to a part of it was vested in the United States, as belonging to the public domain ; that other persons, particularly one Nicolas Garcia, pretend to have a title to part of it; by reason of all which he, the plaintiff, is liable to bo evicted and exposed to great damage, having made great and extensive improvements on the land. The pruyor of the petition is, that the defendant be decreed to-pay to him the sum of §20,000 damages, or that he give security against any eviction, or that the sales be rescinded for such portion of the tract for which a complete title may not be established.
+The defendant, Pierre Michel, pleaded the general issue, and cited his vendor, Alexis Cloutier, to defend the suit. By an entry on the minutes it appears that the proceedings against the warrantor were dismissed, on the 8th of May, 1835. In this situation the suit remained, without any action whatever, until-April, 1843, when the representatives of the vendor, who had died in the interim, were made parties to the suit under the warranty by the- defendant, and judgment prayed for over against them. The case was tried in 1847, and judgment was rendered against the defendant for the sum of §779 76, without interest, and in favor of the defendant, against the representatives of Cloutier, for the same sum, each for their virile portion. The defendant has not appealed. The parties cited in warranty have taken this appeal; and the pla-intiffhas appeared, and asks that the judgment may be affirmed. As the case is before us, the action, though it had other alleged objects at its institution, resolves itself into one, for a reduction of the price in consequence of a deficiency in the quantity of land which was the subject of the sale. The Code, article 2471, refuses this action to the purchaser per aversionem.
+It is contended that a portion of the land appertains to the public domain, and that the title to it is in the United States; and a copy of a township map, which purports to have been examined and compared with the field notes on file in the surveyor general’s office, and approved by the surveyor general on the 30th of October, 1835, is the only evidence offered in support of that position. It is true that on this map a part of the tract is designated as public land; but this, of itself, is no evidence of such a disturbance of the plaintiff’s long and uninterrupted possession as will authorize his suit in warranty. The frequent errors in the surveys of lands in Louisiana made by the United States surveyors are matters of history; and, without some other action of the government beside the mere approval of a survey by the surveyor general, it cannot be considered as the disturbance of the title of a proprietor, still less as evidence that the land belongs to the public domain.
+The small portion of land which the plkintiff himself purchased from the United Staies-under a>pre-emption claim-, which is adjacent to the upper boundary of tlie’traeti, gives Kim-no claim against the defendant under the evidence and'the allegations of his petition. He does not ask for a rescission of the sales,, and has no* claim whatever against the defendant. His possession has Been uninterrupted except by his acquisition above mentioned, by which his own title is sought unsuccessfully to be impugned ; nor is there any evidence of the extent or value of this portion which would serve as a basis for any recourse in indemnity against the parties cited in warranty, or of any damage suffered from any cause for which they are responsible;.
+The judgment appealed from in therefore reversed,, and judgment rendered, in. favor of the warrantorsj-with costs in both courts..
