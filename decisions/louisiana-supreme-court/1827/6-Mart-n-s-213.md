@@ -1,0 +1,26 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1827-09"
+citations: ["6 Mart. (n.s.) 213"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LATIOLAIS vs. RICHARD."]
+source_url: "https://static.case.law/mart-ns/6/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6683033
+---
+
+# Latiolais v. Richard
+
+## Majority (_ _ Matthews, J.)
+
+_ _ Matthews, J.
+. . delivered the opinion of the 1 court. The present case presents a dispute concerning four aipents of land fronting on i tj- .... , , bayou Vermillion, with the ordinary depth forty, situated in a place called the Mauvaise prairie. The plaintiff obtained judgment in the court below, from which the defendant au- ’ pealed.
+tion» of°sur-" claims to I<;nd recognised by the proper of' ⅛the
+qqie cvi(]ences Gf ¿tie adduced on the part Qf t}ie former, shew that he had acquired a r>g^lt to eighteen arpents front on the bayou stated, with the ordinary depth. The defendant shews a title to twenty arpents front, J 1 &c. on the said bayou.
+Surveys of the claims of both parties are exhibited, purporting to have been made by a surveyor of the United States, in pursuance of certificates of confirmation issued by the land commissioners, and under orders of the principal deputy surveyor for the western district of the state of Louisiana, &c. Some time after the return of the survey made for the plaintiff, to the office of the principal deputy surveyor, and subsequent to his approval of the same, he (the plaintiff) disapproved of the manner in which his land had been located, as not being in conformity with his original titles.— These titles are supported by two requetes and orders of survey, one in favor of a person named Zerringue, and the other of Provost, who acquired the right of the former and transfer, red both it and his own to the appellee —The title or rather claim of Zerringue, (fells for the land of Fusillier, above on the bayou, and vacant or unappropriated land low. The requete of Provost requires as limits of the land petitioned for, the boundary of one Carrier below, and that of Zerringue above. The surveys of these claims were made for the benefit of the plaintiff under the inspection and instructions of his agent Francois Carmouche, (who figures as a principal witness in the cause) and were executed in such a manner as to unite them by limiting the lower on the line of Carrier, and running up the bayou for the quantity of eighteen ar-pents, the whole amount required to fill their measure. Thus executed, the extent of both |be surveys (as it appears by the evidence the cause) did not reach the limit of Fusillier’s land, nor did that made under Zerringue’s claim, include a field which he had cultivated, although it seems to have included the sight his building at no great distance from the cen-tre of the eight arpents as surveyed. Some time after the plats of survey, made in the manner and under the circumstances above stated, the defendant caused his claim to be located adjoining the upper limit of the plain-fifPs land. These are the most important facts, necessary to be noticed in the decision of the cause; and from which a sole question arises, whether the plaintiff can legally be permitted so to alter the location of his claims in such a manner as to recover from the defendant the land in dispute.
+According to the whole evidence of the case no doubt can be entertained of the preference to which Zerringue’s claim was entitled over that of the defendant, in its location, and that consequently the plaintiff who is now the proprietor thereof, might have caused it to be placed in such a manner as to have embraced the land claimed in the present suit.
+It is believed that the alteration required by him ought to be permitted unless it has a direct tendency to invade the rights of the defendant legally acquired and vested. We must therefore inquire into the title set up in his de-fence. This is similar to that of the plaintiff, except that it is a later date and did not call for the place in which it has been located. The bare construction of its location can give it no new or additional force in opposition to a claim stronger originally by its greater age and definite locality. The operations of the surveyors ought not to be allowed to add to or derogate from rights and claims of individuals, to land ° ■’ as recognised by the proper officers of the ernment of the United States. The order of the principal deputy surveyor, in pursuance of which the claims'of the defendant seems to have been located, cannot impair the right of the plaintiff The surveys made and returned by Johnston, the deputy surveyor, apparently executed under the directions of an agent au-thorised by the appellee and acquiesed in by the latter for some time, may be considered as having been made in error, and ignorance of facts, which would have justified him in requiring a different location of the claim derived from Zerringue, and such as he now insists on-
+Brownson for the plaintiff, SimonMarl-ham for the defendants.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court, be affirmed with costs.
