@@ -1,7 +1,8 @@
 ---
 court: "Superior Court of Louisiana"
 decided: "1812"
-citations: ["2 Mart. (o.s.) 277", "2 Mart. (o.s.) 279"]
+decided_precision: "year"
+citations: ["2 Mart. (o.s.) 277"]
 reporter: "mart-os"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
