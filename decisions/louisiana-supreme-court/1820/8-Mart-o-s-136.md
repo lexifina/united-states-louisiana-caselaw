@@ -1,0 +1,32 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1820-05"
+citations: ["8 Mart. (o.s.) 136"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SEGHERS vs. HIS CREDITORS."]
+source_url: "https://static.case.law/mart-os/8/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12122700
+---
+
+# Seghers v. His Creditors
+
+## Majority
+
+Seghers made oath, that proceedings were had, in this case, before a notary, by which Labatut and Sainet appeared to have been appointed syndics of his creditors, and the proceedings being brought for homologation, in the district court, an opposition was made by Desbois, one of the creditors, and the proceedings being perceived by the deponent to be irregular and null and void, he filed likewise his exceptions thereto, in writing, stating the several grounds of nullity on which he relied, and prayed that another meeting might be had, with directions to the notary to proceed thereon according to law.
+That afterwards, on the 21st of August, 1819, a final judgment, was rendered by the district court, overruling the deponent's application, as well as Desbois, and approving the appointment of the syndics.
+East’n District.
+May, 1820.
+That Desbois having appealed from the decision of the district court, it was affirmed by the supreme court, and the deponent firmly believing that, as a party to the judgment of the district court, he was likewise entitled to an appeal, he presented his petition therefore to the district judge, who rejected his application.
+Whereupon, he moved for a writ of mandamus.
+Seghers, in support of the motion. An insolvent has a right to resist an illegal appointment of syndics, and is not bound by a decision, even of this court, confirming the appointment of persons illegally chosen as such, when he was not a party in the suit, in which this decision was given.
+I will endeavour to shew what syndics are, and in what relation they stand to the insolvent.
+Syndics are the mandataries of the creditors of an insolvent. Theirs differ from other mandates, in not being susceptible of substitution.
+As the assent of all the creditors cannot conveniently be procured in the appointment of syndics, the law has established certain formalities, on the fulfilment of which, the assent of a majority suffices; but these formalities must be strictly fulfilled, as the minority are bound by the choice, in their absence, and even notwithstanding their opposition.
+Syndics, as mandataries of the creditors, possess themselves of the goods ceded by the insolvent, administer them, sell them without his concurrence ; although he is at last the victim of an ill administration, since the property, which he may afterwards acquire, is bound for any deficiency. He has, therefore, a strong interest that intruders should not possess themselves of the property which he has ceded, in other words, to contest the legality of the mandate.
+In ordinary cases, those who have to deal with a person, who causes himself to be represented by a mandatary, may inquire into the validity of the mandate. The curator of a vacant estate, where an account is asked by the heirs, through the intervention of a mandatary, is not bound to render it till the legality of the mandate be established. Is the unfortunate debtor in a different situation ? Is he bound to surrender his goods to the first that come, to allow them to administer and dispose of them, without being permitted to inquire into the legality of a mandate, which is so powerfully to affect his interests ? This cannot be supposed. The law has made no such exception, to the injury and detriment of the insolvent. It is true that the act of 1817, which regulates the manner in which creditors may oppose the appointment of syndics, does not speak of the insolvent. But are we not to conclude that the legislator did not make any innovation on his rights? This act, which is stricti juris, imposes reciprocal duties on the creditors and debtors, and prescribes certain formalities. These are strictly to be observed, and though the statute does not declare any omission therein fatal, if the insolvent was to fail in one single iota, the least of his creditors might prevent his obtaining relief. Ought he not then to be permitted to inquire whether his creditors proceed legally ? Can it be supposed that the legislature, subjecting the insolvent to surrender any property he may hereafter acquire, to make up any deficiency that may happen, intended to leave him a passive victim, not allowed to raise his voice to avert his destruction, and leave him only a tardy and precarious remedy, in an action for damages, for an injury which a timely application might guard against.
+The applicant was compelled last year, notwithstanding his utmost efforts to call his creditors together and surrender his property to them. Three or four of them, on false or spurious allegations had obtained a writ of sequestration. He sought for a respite and had sufficient property to meet every demand, had he been allowed a short time to dispose of it. A very small majority compelled him to a surrender. He has rigorously done every thing which the law requires from unfortunate persons, in his situation. Has he not the right to demand that his creditors should in their turn do what it requires of them ?
+The proceedings of the meeting of the creditors were so conducted, as to exclude the certainty of the appointment of syndics, being the act of the majority. Nothing, in the conduct of the person appointed, tends to compensate the insolvent or his creditors for the irregularity of the choice. Precautions the most puerile and expensive, inattention and carelessness, have occasioned considerable disbursements and losses. Sales of property repeatedly advertised and postponed ; forced ones made by the sheriff, which might have been prevented, and which have been attended with direful sacrifices ; meetings of creditors frequently held ; the departure of one of the syndics for Europe ; the useless detention of many slaves surrendered, while they might be advantageously hired, are considerations which impel the applicant to insist on his right to the protection of this court, so far as to be permitted to shew that the appointment of the syndics of his creditors is as illegal as their administration is destructive of the interest of the creditors and debtor.
+Nothing was taken by the motion. Ante, 67.
