@@ -1,0 +1,28 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1855-01"
+citations: ["10 La. Ann. 47"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mercer, Administrator, v. Lobit & Charpantier."]
+source_url: "https://static.case.law/la-ann/10/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11958164
+---
+
+# Mercer v. Lobit
+
+## Majority (Voorhies, J.)
+
+Voorhies, J.
+This is an action brought by the administrator of the estate of the late Alexander Jarvis, to recover of the defendants the sum of $1,650 08, alleged to be the net proceeds of the sale of a lot of sugar and molasses, consigned to the defendants, as factors, in New Orleans, to be sold for the account of the estate.
+The defendants in their answer plead compensation, averring that they acted as the factors of the deceased Jarvis, and of his administrator, and as such they made advances to the amount of $1,346 83, exclusive of interest, which by law they have the right to deduct out of the proceeds of the sale of the crop consigned to them.
+The account of sales rendered by the defendants' on the 24th of March, 1852, shows that the amount claimed by the plaintiff as the proceeds of the crop, is correctly stated.
+The District Court allowed the amount claimed in compensation, and gave judgment in favor of the plaintiff against'the defendants in solido, for the sum of $203 25, with legal interest from the 24th of March, 1852, until paid, as the balance of the proceeds of said sale. From this judgment the plaintiff has appealed.
+It is admitted in the record, that the advances referred to in the answer were made to the deceased in his lifetime ; that the sugar and molasses specified in the account of sales annexed to the petition, were consigned by the plaintiff, as administrator, to the defendants’ predecessors in business, P. J. Pavy, Lobit & Oo. ; and that the defendants are responsible for this debt in the same manner as the said P. J. Pavy, Lobit S Oo. would have been.
+A letter addressed by the plaintiff to the defendants on the 20th of May, 1852, was introduced in evidence by the latter, in which the plaintiff informed the defendants that he had examined their accounts against the estate of Ja/r-vis, in connection with their attorneys, and had agreed in finding- that $421 85, of their account of $1,346 83, was privileged upon the crop, leaving a balance not privileged of $924 98, which was, however, secured by mortgage upon the property of the succession, a part of which had been sold. He further stated, that the amount of sales showed the net proceeds of the sale of the sugar and molasses to be $1,550 08, and that he wished to draw on them for the balance thereof, after deducting said sum of $421 85, and whatever additional amount might be coming to them on the tableau of distribution.
+The only question which arises out of this state of facts, is, whether the plaintiff’s claim may be considered as extinguished pro tanto by the debtpleaded in compensation by the defendants.
+We think the answer to this question is clearly given by the Article 1056 of the Civil Code, which has already been the subject of judicial interpretation. Under that article, it is clear that an administrator cannot pay the debts and legacies, even when there are sufficient funds, without the authority of the Judge to that effect. When the funds in hands are insufficient for the payment of the debts, he is then required to make a tableau of distribution among the privileged and mortgage creditors. In Brooks v. Walker, administrator, 3 Ann. 150, it was expressly decided not only that the purchaser of the property of a succession could not plead a debt due to him by the deceased, in compensation, but that the administrator was without authority to give his assent to such an extinguishment of the debt. See 2 Ann. 412. Ibid, 459. C. P. 1053, 1054, 1055.
+Whether the crop of a succession in course of administration be sold through the agency of an auctioneer or of a factor, it seems to us there can be no difference in principle as to the disposition of the proceeds arising from such sale; and that neither the auctioneer nor the factor can exercise the right of retaining such proceeds in compensation of a debt due to him by the deceased. From this, it is clear that a factor would be entitled to. deduct from the proceeds of sales of crops thus consigned to him, only the amount of his advances to the administrator necessary for the making of the crop, and the amount expended for its preservation and for the purpose of effecting its sale. In the present case, we think „the amount thus advanced by the defendants to the administrator of the estate of Jarvis may be fairly assumed to be $421 85, as stated in the plaintiff’s letter. After allowing it in compensation, we are of opinion»the plaintiff is entitled to recover the residue from the defendants, with legal interest from the day they become defaulters by delaying the payment thereof, as shown by the plaintiffs’ letter. O. O. 2984. 8 R. R. 13. It may be proper for us to add, that we do not consider our judgment in this case as affecting in the slightest degree, whatever right or privilege the defendants may think proper to assert to said proceeds, whenever placed on a tableau of distribution of said estate.
+It is therefore ordered and decreed, that the judgment of the District Court be avoided and reversed ; and that the plaintiff recover of the defendants in solido, the sum of eleven hundred and twenty-eight dollars and twenty-three cents, with legal interest from the 22d of May, 1852, until paid, and the costs of both courts.
