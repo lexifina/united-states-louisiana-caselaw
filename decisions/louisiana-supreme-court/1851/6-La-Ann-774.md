@@ -1,0 +1,27 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1851-12"
+citations: ["6 La. Ann. 774"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Turner, Wilson & Co. v. John L. Lewis, et al."]
+source_url: "https://static.case.law/la-ann/6/cases/0774-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 523527
+---
+
+# Turner v. Lewis
+
+## Majority (Preston, J.)
+
+The judgment ofthecourt (Eustis, C. J., being absent) was pronounced by
+Preston, J.
+J. C. Smith caused to be sold by an order of seizure and sale, on the oldest mortgage, a house and lot in the parish of Jefferson, belonging to Warren L. Burgess, and became the purchaser. There was a balance of $731 over and above the claim of Smith, and which he paid into court. Turner, Wilson Sf Co. held a note of W. L. Burgess, for $4500, secured by special mortgage upon the same property. The mortgage was executed and recorded on the 16th of January, 1849. Join L. Lewis obtained a judgment against Burgess, for $3,254, and recorded it in the parish of Jefferson, on the 8th of March,-1850, to operate as a judicial mortgage upon the same property.
+Turner, Wilson Sy Co. have taken a rule against Lewis, to show cause why the money deposited in court, the balance of the proceeds of the mortgaged property, should not be paid over to them, as holders of an older mortgage than the judicial mortgage in his favor, by virtue of the registry of his judgment.
+Lewis answers, that the debt of Burgess to the plaintiffs in the rule, has been compensated and extinguished, and claims the money in court. It was incumbent on him, under these circumstances, to show the payment of the mortgage note by testimony. For that purpose, he called for the production by the plaintiffs in the rule, of an account current between them and Burgess of extensive mercantile transactions. They produced the account called for, but it contains no mention of the mortgage note. It is evident, therefore, that to be of any avail in the defence, the account current must be connected by parol evidence or otherwise, with the mortgage note. The plaintiffs admit that they charged Burgess with two acceptances, of his drafts, in favor of Pickett, Perkins Sy Co. given for the note, amounting to $1,599,37. The presumption is, that they paid their acceptances, but it is obvious, that they did not intend to charge Burgess more than the amount of their acceptances for the note, because they carried the acceptances into the account current with him., In other words, they purchased the note on his account, and held it as security for the price paid by them. If, therefore, the acceptances had ever been repaid by Burgess, they, and the note for which they were given, would have been extinguished.
+But the account current shows that the balance against Burgess was never reduced below the amount now in court, and which is claimed by the plaintiffs. The question arises, then, whether payments made subsequently to the acceptances must be imputed to them, or to the mercantile business of the parties. The account shows no imputation, nor were any receipts taken. The question must, therefore, be determined by evidence.
+The plaintiffs kept the mortgage note, and probably the acceptances, as the contrary is not shown. This indicated the intention of the parties, that the payments should not extinguish them. The plaintiff stated, in furnishing the account, that the charges against Burgess consisted of moneys advanced to him, from time to time, to purchase produce in their name, and therefore to be sold on their account; and the general tenor of the account corresponds with this statement. Burgess admits, in an -affidavit offered in evidence, that the advances were to be reimbursed by the sales of the produce, and that the profits made out of the purchases were alone to be applied to the payment of his note; and this is proved by a witness to have been the nature of the business between the parties.
+The testimony of Burgess cannot be rejected on the ground that he was interested in the cause, because it is immaterial to him which of his two creditors receives the money in court; nor can the testimony of himself and the other witnesses be rejected as contradicting the account current. It merely explains it, ■and shows that the moneys received- by the plaintiffs were for their advances, to cany on a mercantile business, and not on account of the mortgage note or the acceptances given for it; or, in other words, that the nature of the mercantile business between the parties, was inconsistent with the imputation of payments to the mortgage debt until the mercantile advances were reimbursed; and indeed the imputation of the payments to those advances was for the interest of Burgess, as he could not otherwise have carried on the mercantile business out of which he hoped to make a profit to extinguish the mortgage.
+There is no proof that the acceptances were given up by Turner, Wilson Sf Co., much less the mortgage note; therefore, there was not as contended, a novation or the substitution of a mercantile balance for these higher and better evidences of indebtedness. The case does not, therfore, fall within the principle established in Bell v. Murphy, 2d Ann. 765; also, 1 L. R. 527, and 2 R. R. 59, that on giving up a mortgage for a new note, the debt is novated and the mortgage extinguished.
+The judgment of the district court is affirmed, with costs.
