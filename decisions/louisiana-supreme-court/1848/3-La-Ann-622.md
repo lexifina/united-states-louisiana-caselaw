@@ -1,0 +1,27 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-10"
+citations: ["3 La. Ann. 622"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lay v. Boyce, Sheriff."]
+source_url: "https://static.case.law/la-ann/3/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4803826
+cites_cases: ["4 La. 301", "4 Rob. 40"]
+---
+
+# Lay v. Boyce
+
+## Majority (Kino, J.)
+
+The judgment of the court was pronounced by
+Kino, J.
+This proceeding lias been instituted againstthe defendant to render him liable, as sheriff, under the act of 1826 (B. and tí. Dig. p. 435), for the amount specified in an execution placed in his hands, on the ground that he made no effort to execute it, and that he failed to retara the writ on or before the return day. There is a further averment, that the defendant in execution had in his possession, as owner, at the time the writ was in the sheriff’s hands, property sufficient to satisfy it, which the officer failed to seize. The defendant Admits that lie received the writ, and avers that he used due diligence to execute it; that he called on the plaintiff’s attorney to point out property, which the latter neglected todo; and that, being unable to find property of the defendant in execution, the writ was returned. The district judge rendered a judgment in favor of the plaintiff ior the amount of the writ, and the defendant has appealed.
+The fieri facias bears date the 11th July, 1845, and was made returnable in seventy days. It was not placed in the sheriff’s hands until the 27th of August, following. The sheriff, in his return, states that, “on the 3d of September, of the same year, he demanded payment of the within execution, of the within named William W. Mitchell, Syc., and he refused to pay the debt or surrender property. I know of no property of said Mitchell. I then called upon plaintiff’s counsel, A. Bonner, to show property, which he failed to do. This execution being out of date, I, therefore, return the execution not satisfied, this 30th day of November, 1845.”
+The writ and the return were offered in evidence by the plaintiff. There is no averment in the pleadings that the statements in the return are not in accordance with the facts, and they must be considered as true for the purposes of this investigation. The plaintiff was not a resident of the parish to which the writ was directed, and it is shown that Bonner had the control of its execution.
+The claim of the plaintiff reduces itself to an attempt to hold the sheriff liable, for his neglect to make a return within the legal delay. It is true that it is avered in the motion that, the defendant in execution owned property while the writ was in the hands of the officer, which the latter neglected to seize. But the judge refused to admit testimony on this point, on the ground that the plaintiff was availing himself of a summary proceeding, given by the act of 1826, in which the evidence must be confined to the particular violation of the statute complained of. We think that the judge did not err. The evidence sought to be introduced would have been applicable to an action for damages, but not in a proceeding like the present, in which the- inquiry is, whether the officer has incurred the penalties of the act, by violating one of the duties which it imposes, and for which the remedy by motion is provided. • - ■
+We have, heretofore, held that, the act of 1826, does not impose upon the sheriff the payment of the amount specified in a writ offieri facias, as a penalty for his mere failure to make a return within the legal delay ;■ that, when he is sought to be réudered liable under that act, he may show any circumstance which would excuse him from a failure to return or execute the writ. Gasquet v. Robins, 2 An. R. 409. Webb, administrator v. Kemp, Ibid. 370.
+The sheriff, in the present instance, appears to have acted promptly and with diligence, when the writ first went into his hands, by calling on the debtor to satisfy the demand or surrender property for seizure, and by notifying the plaintiff of his failure of success, and requiring him to point out property. The plaintiff was as fully notified by this call of the officer’s inability to execute the writ, and that it would not be executed unless property was indicated by the plaintiff himself, as though the return of the fact had been made within the delay specified in the writ. With this knowledge, can he, with reason, now complain that the information was notconveyed to him by a return. The statute presupposes that the acts or omissions for which the officer is held liable, have been prejudicial to the plaintiff in execution. It is not to be presumed that, the latter was prejudiced by the failure of the sheriff to advise him in the particular form of a return, of a fact which that officer had previously communicated in another form, in which he is equally required by law to convey it. The policy of the law being, not to punish the officer, but to afford a prompt remedy to the creditor for an injury which he is supposed to have'sustained, the facts of this case, do not, in our opinion, authorize an affirmance of the judgment appealed from.
+The judgment of the District Court is, therefore,- reversed, and judgment rendered in favor of the defendant; the plaintiff paying the costs of both courts.
