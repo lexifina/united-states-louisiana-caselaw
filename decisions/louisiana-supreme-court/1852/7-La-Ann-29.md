@@ -1,0 +1,27 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1852-01"
+citations: ["7 La. Ann. 29"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kellar v. Merchants’ Insurance Company."]
+source_url: "https://static.case.law/la-ann/7/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 331694
+---
+
+# Kellar v. Merchants' Insurance
+
+## Majority (Slidell, J.)
+
+The judgment of the court (Preston, J., absent,) was pronounced by
+Slidell, J.
+This is an action upon a policy of insurance, by which the defendant did “ insure John Kellar against loss or damage by fire, to the amount of fifteen hundred dollars, on a two story frame house, situate on lot No. 138, fronting on Pensacola landing, New Basin, amount of nine hundred dollars— on a two story old house in the rear thereof, and on a stable and shed on lots Nos. 137 and 138, amount of six hundred dollars and the company did thereby “promise and agree to make good unto the said insured, his executors, administrators and assigns, all such loss or damage not exceeding in amount the sums hereby insured as shall happen by fire to the property as above specified, during six months, to wit, from the 15th November, 1849, at 12 o’clock at noon, unto the 15th May, 1850, at 12 o’clock at noon, the said loss or damage to be estimated according to the true and, actual value of the said property at the time the same shall happen,” &c. The buildings were destroyed by fire within the time covered by the renewal of the policy.
+It appears from the evidence, that the plaintiff was not the owner of the property. His interest, if any, was that of a mortgagee, by virtue of a conventional mortgage, and a judicial mortgage which he alleges he held upon the property assured. That a mortgagee of a house has an insurable interest in the property mortgaged, is unquestionable. Whether such interest is covered by the naked terms of the policy in question, is a question not raised in argument here, and as it seems to be waived by the defendants, we express no opinion upon it. We shall coniine our inquiries to the points presented by the counsel for the defendants.
+The district judge gave the plaintiff judgment for a total sum of $1400, based upon two items, to wit: one-half of a judicial mortgage claimed in favor of the succession of Sarah Baum v. Martin, the owner of the property insured, which claim was aftei’wards secured by a conventional mortgage — $493 65; one-half of a judicial mortgage claim in favor of the succession of Mann v. Martin, $903 50 — $1407 15. He considered the value of the buildings insured, as proved, to be $1400.
+The defendants do not contest here the right of the plaintiff to recover under the policy, so far as the one-half of the Baum’s j udgment is concerned. But they oppose the allowance of the second item as unsupported by sufficient evidence. This item rests principally upon the testimony of a witness whose credibility is disputed. The district judge believed him, and there is no evidence before us which would authorize us to say that the witness was unworthy of belief. We are not able to say upon the evidence, that the interest acquired by Kellar in the Mann judgment, was even so divested as to affect his insurable interest. The last point made by the defendant’s counsel is thus presented in the written argument : “ But supposing he has legal mortgages on the two lots and the buildings to the amount of $1400, shall he be allowed the whole $1400 because the buildings are destroyed, and shall the two lots be freed from contribution and the mortgages on them be raised, or should there not be a fair division, or, at least a transfer of Kellar’s interest in these two mortgages be required to be made to the company, before they are compelled to pay anything at all.”
+If this point had been properly presented in the court below, and it had appeared by evidence that Kellar had collected anything from the debtor who owed the mortgage debt, or from the ground mortgaged, or if the company had tendered payment of the $1400 and demanded a transfer or subrogation pro tanto, it would have been proper for the court below to consider the question now raised here. But as the case stands, we do not think the question should be raised here for the purpose of a reversal or amendment of the judgment.
+If there is, in a ease of this sort, a right of subrogation, or, if not a right of subrogation technically speaking, an equitable right to have Kcllar's interest in the claims enforced against the debtor and against the land mortgaged for the benefit of the Insurance Company, that right is not impaired by the present decree. Take the case of an underwriter on a missing ship, who is sued for a total loss and has judgment against him accordingly, enpays. If the ship reappears, he gets the benefit of it, although the decree gave no express subrogation to the rights of the assured.
+Whether there is any such subrogation or equity as is claimed in this case, we do not consider ourselves now called upon to decide. But it is not improper to remark, that the pretensions of the defendants are by no means unworthy of consideration. We have not met with any decided case expressly in point, but there are decisions which, by analogy, give countenance to those pretensions. See Randal v. Cochran, 1 Vesey, 98, cited. Park, 190. Babes v. White, 4 Bingham, N. C. 272. Goodsal v. Baldero, 9 East, 71.
+Judgment affirmed, with costs.
