@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1818-04"
+citations: ["5 Mart. (o.s.) 477"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOUBLANC'S EX. vs. DELACROIX."]
+source_url: "https://static.case.law/mart-os/5/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6686185
+---
+
+# Joublanc's Ex. v. Delacroix
+
+## Majority (DELIBIGNY, J.)
+
+DELIBIGNY, J.
+delivered the opinion of the court. The defendant and appellant employed J. B. Joublanc in the direction of certain works, by him contracted for with the Orleans Navigation Company. Joublanc died, and the ap-pellee, his executor, having found among his papers, an unsettled account, according to which a balance appeared to be due from the appellant, instituted the present suit to recover that balance. The accounts between the parties were submitted to arbitrators, and their final adjustment of them appears to this court correct and unexceptionable in every point but one. The
+arbitrators have refused to allow to the appellant credit for some checks drawn by him on the Planters' Bank, and bearing Joublanc's receipt on the back. The motive, on which that refusal was grounded, was a consideration of the danger of admitting such documents as evidence of payment in countries, where men who have any intercourse of business or even of common triendship, are in the daily habit of lending to to one another checks on the banks, or of giving them out upon any occasion where they want something to be done, paid or bought for theim.
+That there exists such practice among men of business may well he the case; and yet it by no means follows that those, who receive money from them in that way, are in no case obliged to give some account of it.-A. distinction must first. be drawn between checks payable to bearer, and checks payable to a certain person or his order; the firs t surely are no evidence that any particular individual has received the amount; but toe second, on which stands the signature of the payee, is, no doubt, sufficient proof of his have g received the money. Yet, as it does not appear for what particular purpose that money was delivered, the mere~ evidence of its having been paid, could not, if alone., support an action for the reimbursement of the amount, for the presumption then would be that the money was paid because it was due. But in an action where the receiver of the check sues the drawer of it to obtain payment of an alledged debt., the drawer may surely exhibit the receipt of the plaintiff to prove that he has paid him so much. But again, as the receipt. does not e.x~ press the cause for which the money was given, this can be no more than prima facie evidence of payment, which the plaintiff may contradict by shewing that the check was delivered on account of some other transaction.
+It is said, however, on the authority of Hayne vs. Barnett, 3 Espinasse 196, Peake 256, 257, 370, that the receiver of the money is not bound to produce any proof that it was paid on some other account, but only some evidence that other transactions did take place between the parties. We do not think that the authorities cited support this position. When the plaintiff is proved to have received money from the de~ fondant, if he wishes to exonerate himself from the presumption that it was given him in pay~ mont of the debt which he claims, he certaihly ought to be able to ascribe the delivery of that money to some other transaction. But even supposing that he would prove enough by show-fog that other transactions took place between him and the defendant, ought he not at least to aatidy the court that for those transactions the defendant used to deliver money in this manner? Nothing of this has been shewn in this case, Even the mere existence of other transactions between the parties is far from being satisfacto~ rily proved.
+Upon the whole, we are of opinion, that the three checks, which bear the signature and acquittance of Joublanc, must be considered as so much paid him on the unsettled account, which is the object of the present suit. These checks amount together to eight hundred and twenty-three dollars, from which must be deducted the four hundred dollars acknowledged by the tie-ceased to have been paid him, and for which the defendant has been already credited. Thus, the further sum for which he ought to have credit, will be four hundred and twenty-three dollars, which taken from the final balance found against him by the arbitrators, to wit, nine hundred and ninety-one dollars and thirty-six cents, will reduce that balance to the sum of five hundred and eighteen dollars anti thirty-six cents.
+Moreau for the plaintiff, Seghers for the defendant.
+it is ordered, adjudged and decreed, that the judgment of the parish court be reversed; and that judgment be entered for the plaintiff for five hundred and eighteen dollars and thirty-six cents, with costs, save those of this appeal which will be paid by him.
