@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-04"
+citations: ["3 La. Ann. 365"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Foxworth et al., Executors v. Burckhalter."]
+source_url: "https://static.case.law/la-ann/3/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4813061
+cites_cases: ["1 Rob. 45", "5 La. 440"]
+---
+
+# Foxworth v. Burckhalter
+
+## Majority (Kihg, J.)
+
+The judgment of the court was pronounced by
+Kihg, J.
+The plaintiffs have appealed from a judgment dissolving a sequestration, on exceptions pleaded by the defendant that the writimprovidently issued, the court being without jurisdiction of the cause, and that the surety on the bond was not such as the law requires. The facts are that, in July, 1845, Alexander Graham and Samuel Foxworth instituted a suit by attachment against Daniel Burckhalter, a non-resident, and caused several slaves in the possession of the present defendant, Henry T. Burckhalter, to be seized under the writ which issued in that proceeding. They alleged that they were creditors of the absentee by a judgment rendered against him in the State of Mississippi, in favor of Stephen M. Foxworth, of which they were the owners. The attachment was dissolved, on the 19th of November, 1845; on the same day an appeal was taken, and the judgment of the District Court was affirmed by us in April last. 2 Ann. Rep., p. 415. In June, 1846, while the appeal in the attachment suit was pending, Elizabeth, Foxworth and Samuel Y. Foxworth, in their capacity of executors of Stephen M. Foxworth deceased, instituted the present action against the defendant, Henry T. Burckhalter. Their claim is founded upon the same judgment claimed by Graham, and one of the present plaintiffs, in the attachment suit. They allege that, they have caused the judgment to be duly registered, and tobe declared executory in this State; that the defendant has in his possession several slaves belonging to the judgment debtor, Daniel Burckhalter, which he holds under a sale which they allege to be simulated and fraudulent. They pray that the sale be annulled, and that the slaves be subjected to the judgment obtained by the deceased, whose estate they represent, and for a sequestration of the slaves pending the suit. To this action the defendant pleaded as exceptions: 1st. That the court was without jurisdiction, and could grant no sequestration or further order in the cause, because an appeal had been taken from a judgment previously rendered upon the same matters involved in this controversy, which appeal was still pending when this action was commenced. 2d. That there was no legal surety on the hond, the surety haying left the jurisdiction of the court,
+The judge considered that the law required in such cases a judicial bond to Refurnished, executed before the clerk or other competent authority; and the bond furnished by the plaintifls, being under private signature, the sequestration was dissolved. '
+The judge, in our opinion, erred, in sustaining the exceptions filed by the defendant. We are aware of no law which requires sequestration bbnds to be executed before the clerk, or other public officer. The objection presented in the exception that the surety on the bond first furnished had left the jurisdiction of the court, was removed by the plaintiffs’ furnishing an additional bond, with a surety residing within the jurisdiction of the court, whose solvency is not questioned. C. C. art. 3012. v
+Although the plaintiffs in both suits maybe considered to be the same, still the plea of the pendency of another action cannot, in our opinion, be maintained. The plaintiffs had two rights of action which were not exclusive of each other, and which they could maintain at the same time. Ia the one, they sought a judgment against the absent defendant, and to reach his property by an attachment; in the other, they seek to annul a sale of the same property, for the purpose of subjecting it to their claim. But if it be conceded that the two demands were inconsistent, the defendant could at most have claimed that the plaintiffs’ should elect which action they would pursue. C. P. art. 152. 7 Mart. N. S. 404. 5 La. 440. Prior to the filing of the exception, the first suit had been finally dismissed, and but one demand was pending. There was, therefore, no longer an existing ground for the plea of the pendency of another suit, and the alternative of a choice of the action to be pursued could not be presented. The plaintiffs are in no, worse position in consequence of the unfavorable termination ®f their first suit, than if that suit were still pending ; and, in the latter event, it is clear that they could elect which of the actions to proceed with, if the two were deemed inconsistent.
+It is, therefore, ordered that the judgment of the District Court be reversed, that the exceptions pleaded by the defendant be overruled, and that the cause be remanded to be proceeded with according to law ; the appellee paying the costs of this appeal.
