@@ -1,0 +1,39 @@
+---
+court: "Louisiana Supreme Court"
+docket: "2422"
+decided: "1872-02"
+citations: ["24 La. Ann. 90"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ober, Nanson & Co. v. William Matthews—George R. Robinson, Intervenor."]
+source_url: "https://static.case.law/la-ann/24/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2538196
+cites_cases: ["17 La. 589", "8 R. 262"]
+---
+
+# Ober, Nanson & Co. v. Matthews
+
+## Majority (Ludeling, C. J.)
+
+Ludeling, C. J.
+The plaintiffs brought suit by attachment against William Matthews, on the thirteenth of February, 1867, to recover a balance of $50,000, due on account, and on the same day Garrard & Craig were cited to answer interrogatories as garnishees. On the twenty-third day of February a supplemental petition was filed, and the Southern Bank was garnisheed.
+On the second of March, 1867, tlie Southern Bank answered that it held for collection, for account of the Exchange Bank of St. Louis, a bill of exchange, drawn by Matthews on Garrard & Craig, and accepted by them, dated fourth February, 1807, at sixty days, for $13,000. On •the day on which the answers of the Southern Bank were made, the plaintiffs filed a supplemental petition, alleging substantially that the bank had inadvertently fallen into án error in saying that the bill was •held for account of tlie. Exchange Bank of St. Louis, and wishing to .give the bank an opportunity to correct the error, rather than to •formally traverse the answers (reserving, however, the right to do so should it "become necessary), and they propounded additional interrogatories to said bank. On the ninth of March, 1867, the Southern Bank answered again, saying that since the first answers were made, the bank had received letters from the Exchange Bank, which showed that said bank had no further interest in the bill. The letters are made part of the answers, and they are as follows:
+“St. Louis, February 22, 1867.
+Thomas Layton, Esq., President:
+Bear Sir — On the twentieth instant I gave Mr. Matthews an order for Garrard & Craig’s acceptance, $13,000, due eighth April, but omitted to request the erasure of our indorsement. Please have it erased, and oblige.
+Yours, very respectfully, H. H. VERUSE, Cashier.”
+“ St. Louis, February 27,1867.
+* ■* * I am in receipt of your telegram of twenty-sixth, giving notice of attachment of Matthews’ drafts.
+Messrs. Ober, Atwater & Co. have been to-day ordered to release all but one, ($13,000) thirteen thousand dollars, maturing April 8, and I presume they will have done so ere this reaches you. That draft, I presume, is under attachment; at all events this bank has no interest in it, we having received payment of it on the twentieth instant, and given an order for it.
+Yours, truly, ROBERT E. CARR, President.”
+On the first of May, 1867, George R. Robinson intervened in the suit, claiming to be the owner of the bill of exchange.
+There was judgment in favor of the plaintiffs, and the intervenor has appealed.
+The facts disclosed by the record are that William Matthews drew the bill in question to his own order, and indorsed it in blank, on fourth February, 1867. On the same day the Exchange Bank discounted the bill and gave Matthews the proceeds. The Exchange-Bank indorsed it to T. Layton, who was the president of the Southern Bank, and remitted it to the said bank for collection. On the twentieth of February, 1867, an arrangement was made between Matthews and the Exchange Bank, by which Matthews became the owner of the bill, and he obtained an order on the Southern Bank to deliver the bill to his order. On the twenty-third day of February, Matthews applied to the Excbango Bank to discount the bill a second time, which the bank refused to do. Matthews then induced the bank to give him another order, in lieu of the one first given, on the Southern Bank for the bill. This second order differed from the first in leaving a blank for the name of the person to whom the Southern Bank was to deliver the bill, and in being signed by the president instead of the cashier. After this, and on the same day, the negotiations which had been going on between Matthews and Robinson about the bill were closed, and Matthews gave him the order of the Exchange Bank on the Southern Bank for the delivery of the bill.
+The intervenor insists that the attachment in the hands of the bank, made on the twenty-third day of February, fell, inasmuch as the bank, in its answers to interrogatories, negatived the idea that it held any property belonging to the defendant on the day the interrogatories were served, and the plaintiffs had not traversed the answers, and that the plaintiffs could not amend their proceedings by propounding more searching questions and drawing out information which had subsequently reached the garnishee. The additional interrogatories propounded to the bank were, in effect, a mode of traversing the first answers, made in ignorance of the real facts.
+Whether or not the plaintiffs attached any property of the defendant, must depend upon the fact whether the bank had or had not property belonging to him at the date of the service of the interrogatories. And we can conceive of no good reason why the inaccuracies and errors in the answers of the garnishee may not be shown by additional interrogatories put to himself, as well as by the testimony of other witnesses or by written evidence. C. P. 262; 17 An. 258, Relf & Co. v. Boro.
+The intervenor contends also that the attachment must be sot aside, ds the evidence shows that on the twenty-third of February, the day on which the attachment was levied, he had acquired the rights of Mr. Matthews in and to the bill of exchange, and the evidence does not show that the attachment was levied before the transfer to him. We think the onus of proof is on the intervenor, who asserts his ownership. It is not sufficient for him to show that Mr. Matthews transferred to him the bill, but he must show that his ownership was complete before the attachment. This he has not done, even if it be conceded that the agreement between himself and Matthews, and the delivery of the order for the bill in Missouri, where they both resided, divested the title of Matthews, as to creditors of Matthews. But the agreement between Matthews and Robinson, and the delivery of the order for the bill, which was in the possession of the Southern Bank in Louisiana, did not divest the title of Matthews to said bill, as to the creditors of Matthews.
+By our laws the sale of personal property is perfected by the mere consent of the parties, as between themselves, but it is not perfected as to third parties until delivery. C. C., art. 1922, 1923. And it has been held by this court that “a promissory note, not transferred by indorsement and delivery in the usual mercantile mode, but by a collateral agreement, is subject to the same rule.” Lassiter v. Bussey, 14 An. 699, and Hill, v. Hanney & Co., 15 An. 654. An order for a note is not a delivery thereof, and the creditor of the transferrer may attach the thing sold before delivery. 4 M. 20, Norris v. Mumford; 3 M. 222, Durnford v. Brooks’ Syndics.
+But it is contended that the effect of the contract between Matthews and Robinson, made in Missouri, where both parties resided, must be controlled by the laws of Missouri, as personal property has no situs, except that of the owner. As to the attaching creditors, the contrary seems to be the well settled jurisprudence of this State, as well as of the Supreme Court of the United States. 2 N. S. 93, Olivier v. Townes ; 7 M. 318, Thuret et al. v. Jenkins ; 17 La. 589, Burne v. Patton ; 8 R. 262 ; United States v. U. S. Bank ; 5 Wallace 510 ; 7 Wal. 145.
+It is therefore ordered and adjudged that the judgment of the district court be affirmed, with costs of appeal;
