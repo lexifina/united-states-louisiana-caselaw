@@ -1,0 +1,49 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1827-01"
+citations: ["5 Mart. (n.s.) 310"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["U. S. BANK vs. JOHNSON."]
+source_url: "https://static.case.law/mart-ns/5/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12138214
+---
+
+# U. S. Bank v. Johnson
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the court. The only question which this case presents, arises out of a bill of exceptions taken on the trial in the court of the first instance.
+The plaintiffs offered one of their clerks as a witness to prove that a check which was drawn for $876 29 cents, had been overpaid $1000, to consequence of the amount in figures being $1876 29 cents, instead of $876 29 cents, the sum in which it was filled up in the body of the check.
+The competency of this witness has been contested in the argument, and though the question has been considered as settled by several decisions in this court, which cannot in principle be distinguished from that now before us, we have been induced to review them, in consequence of an authority produced by the defendant’s counsel from a late work on evidence by Starkie, which enjoys, as it merits, a high reputation with the profession.
+In the case of Butler vs. De Hart, this court was of opinion, that in an action for the non delivery of cotton, the consignee was a good witness, Vol. 1, 185.
+In that of Robertson vs. Nott, we decided that an agent through whom a negotiation had been carried on between the plaintiff and defendant, was competent to testify for the former. Vol. 2, 122.
+The same question arose in the case of Pratt vs. Flower and als. A witness who had been intrusted with a note, and had received instructions to hand it over, was admitted to prove that he had complied with these instructions. Ibid 334.
+So in the case of Jordan vs. White, it was held, that the mate of a vessel was a good witness in an action against the owners by the master, to prove or disprove negligence imputed to the latter. Vol. 4, 335.
+The decisions were all made on a principle understood to be clearly settled in that jurisprudence from which we have taken our rules of evidence, that agents and servants were competent witnesses, altho’ the regularity and correctness of their conduct were involved in the transaction on which they were called to give their testimony.
+Phillips, in his treatise on evidence, states, “it may be laid down as a general rule, that executors in trust, trustees and agents, are not incompetent merely on the ground of their liability to action.” Phillips on Ev. ed. 1820, 42.
+Again. “On the same principle of convenience, it is the common practice to admit servants and agents without a release, to prove the payment or receipt of money, or the delivery of goods on behalf of their masters or principal, though their evidence tends to discharge themselves.” Ibid, 100.
+For this doctrine a great variety of authorities are cited, drawn from as high a source, as any known to the laws of the country on which he writes.
+To the same effect is Starkie, whose work is relied on to show the incompetency of the witness.
+He states "upon the ground that (of necessity and public convenience) it is the constant course to admit the servant of a tradesman to prove the delivery of goods, and the payment of money, without any release from the master.”
+“So it has been held that an apprentice is a competent witness to prove that money has been overpaid by his master.” So in an action against a carrier for not delivering a parcel, his servant was held to be competent to prove the delivery. And in an action by the party robbed against the hundred, he is a competent witness as to the fact of the robbery, although he is not only interested, but the plaintiff in the suit.” Starkie on evidence, part 4, 754.
+In a subsequent part of his work, he lays down the same rule in treating of agents, and cites as an example the case which is now before the court, namely, that of a servant paying money for his master. Ibid 768.
+These doctrines have been received and acted on to their fullest extent, in those states of the union, where it is understood the science of jurisprudence has been cultivated with the most success; namely, in Massachusetts, Pennsylvania, & New York. 11 Massachusetts, 242; 2 Johnson, 189; 5 ibid, 256; 1 Dallas, 241; 3 Sergeant and Rawle, 20.
+Had this court been called to establish the rule instead of applying it, we should have hesitated much in adopting that which we have found in the books. The reasons of necessity and public convenience, which are stated as the grounds for it, do not seem to us to have that weight, which other attach to them. For we cannot see what difficulty there would have been in all cases for the master or principal to have given a release, and thus have placed the witness without any interest in the cause. But we did not feel that, on that consideration alone, we would have been justified in setting aside a rule so long settled, and so generally adopted.
+We now proceed to notice that part of the work of Starkie on which the appellant relies. In the text, after stating the rule that agents are admissable on the score of necessity, he adds, "but although an agent who actually executed the business of his principal is, it seems, in all cases, competent to prove that he acted according to the directions of his principal, on the ground of necessity, and because the principal can never maintain an action against his agent, for acting according to his own directions whatever may be the result of the cause. Yet, if the case depends on the question, whether the agent has been guilty of some tortuous act, or negligence, in the course of executing the orders of his principal, and in respect to which he would be liable even to the principal if he failed, the agent is not competent without a release.” 3 Starkie, 1731.
+If the grounds on which this author states the exception rests be correct, the rule itself is destroyed—they cannot stand together.
+The rule is, that agents and servants, tho’ interested, are admitted as witnesses ex necessitate, and from motives of public convenience.
+The exception is, that they are not so when interested, in consequence of their being liable over to the party who calls them, in case he fails in the action.
+If the reason given by the author for the rule, was correct, the distinction which he takes might be admitted.
+That reason is stated to be, that where the agent or servant, acts according to the directions of his principal, the former can never be responsible to the latter in an action.
+But this reason is most clearly not that on which the rule rests. In the case of an agent called on to prove that he acted according to the instructions he received, the argument assumes every thing that is disputed; the compliance with instructions being the very fact which the witness is called on to establish, and the non-establishing of which would most clearly render him liable over to those who employed him.
+The cases most frequently given in support of the general rule, are, money intrusted to an agent or servant to be paid to another, or goods delivered to a carrier to be handed over to a third person. Now we cannot distinguish these cases on the score of liability of the witness, from that before the court. In them, the fact at issue being the delivery of the goods or the money, it is clear, that if the agents or carriers failed to establish that the thing confided to them had been delivered, they would be responsible to the principal, and that in proving they did they destroyed the responsibility. So here the witness, in proving that the money was paid to the defendant, may throw the liability off himself. The cases cannot be distinguished, except that in the latter his interest is not so great, as will be hereafter shewn.
+If the witness in the instance before us, had been sent by the bank with a sum of money to make a payment, and the fact of his having done so was afterwards contested, he would present the very case which is invariably given as an illustration of the rule, and he would be competent to prove that he had delivered it; and yet in that case, he would be as responsible to the bank in case he failed to show that he had discharged faithfully the trust committed to him, as he would in the action before us, if he failed to prove that he had committed an error, and paid through mistake, a part of the funds with which he was intrusted, to the defendant.
+Nay, he would be more so; for, in proving that he committed an error, he would establish his liability to the bank, in case of the insolvency of the defendant.
+The distinction, then, which this author makes on the ground of liability, is on principle, entirely without foundation—it is equally unsupported by authority. It has been expressly decided, that where a carrier who was directed to deliver money to A, delivered it by mistake to B, that in an action by the owner against B, the carrier is a competent witness without a release. 3 Campbell, 144—Butler's n. p. 289.
+Livermore for the plaintiff, Carleton & Lockett for the defendant.
+The authorities quoted in support of the doctrine which we have just examined, do not support the writer. They are all cases which arose on the negligence or tortuous acts of servants in driving carriages, and they turn on a principle already recognised by this court, that where the act of the servant has been out of the ordinary course of his employment or a mere breach of duty, he is not a competent witness without a release. Phillips on Ev. 100. 4 Term. Rep. 590, Vol. 4, N. S. 340.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court be affirmed, with costs.
