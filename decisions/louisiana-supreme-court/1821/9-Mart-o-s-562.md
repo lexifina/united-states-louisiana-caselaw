@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Supreme Court"
 decided: "1821-04"
-citations: ["9 Mart. (o.s.) 562", "9 Mart. (o.s.) 517"]
+decided_precision: "month"
+citations: ["9 Mart. (o.s.) 562"]
 reporter: "mart-os"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["TURPIN vs. HIS CREDITORS."]
 source_url: "https://static.case.law/mart-os/9/cases/0562-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12119118
-cites_cases: ["1 Mart. 438"]
 ---
 
 # Turpin v. His Creditors
