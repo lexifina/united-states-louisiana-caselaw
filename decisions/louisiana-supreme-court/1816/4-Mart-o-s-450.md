@@ -1,0 +1,26 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1816-06"
+citations: ["4 Mart. (o.s.) 450"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DUSSUAU’S SYNDICS vs. BREDEAUX."]
+source_url: "https://static.case.law/mart-os/4/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12132039
+---
+
+# Dussuau's Syndics v. Bredeaux
+
+## Majority (Derbigny, J.)
+
+Derbigny, J.
+delivered the opinion of the the court. The plaintiffs and appellees, as syndics of L. Dussuau, a free man of color, claim as part of the estate surrendered, a female slave, whom they alledge is unjustly and without right by the defendant.
+It is in proof that she was the property of their insolvent, at his surrender, but the defendant alleges on the one hand that the plaintiffs have no right to sue, because they are not the syndics of the creditors: their appointment as such appearing by proceedings, which are recorded in the French language and consequently null. On the other hand, he avers that he bought this slave at public auction, and has a legal title thereto. In support of this allegation he produces in evidence, the record of a former suit brought against him by the appellees, in which they set forth that he purchased from them, at public auction, in their capacity of syndics of Dussuau’s creditors, the slave now in dispute, for the sum of $885, payable in March 1815, for which he was to give his note of hand, endorsed to the satisfaction of the vendors; but that he took and retained possession of the slave without having complied with the conditions of the adjudication. His answer to this claim was a special disavowal that any such purchase had been made by him, and he appears to have obtained thereon a dismissal of the suit.
+Being now called upon to surrender the slave he turns round and alleges that he is owner of her by virtue of a sale, made to him by the plaintiffs in their capacity of syndics, but being aware that such a claim would be disregarded, he previously pleads to the persons of the plaintiffs, alleging that they are not duly qualified to act as syndics of the creditors of the insolvent, because their appointment as such is recorded in the French language.
+We incline, indeed to think that the acts of creditors convened by a court of justice are part of the judicial proceedings, the whole course of which forms what is known to the Spanish laws by the name of Juicio de Concurso, and as our constitution directs that all judicial proceedings should be recorded and conducted in English, we are disposed to believe that if the objection raised had come from a person who had no concern in, nor adhered to, the proceedings complained of, it would be our duty to declare they are not legal. But we do not find it necessary to decide the question absolutely in the present case. These proceedings, regular or not, have been approved by the judge, and are binding at least upon those who were parties to them and did not oppose their homologation, nor appeal from the decree pronouncing it. The defendant is a creditor of Louis Dussuau, as appears from his answer to the first demand brought against him by the plaintiffs. Nothing shews whether or not he was personally called to the meeting of the creditors, but he certainly had notice, through the publication made thro’ the newspapers, and considering that he lived out of the jurisdiction of the court, before whom the proceedings of bankruptcy were pending, that ought to be deemed sufficient. Febrero de Juicios, lib. 3, ch. 3, sect. 1, no. 15 at the end. Besides his own conduct shews his acquiesence in the proceedings of the creditors. For in his answer to the first suit, far from contesting the plaintiff’s right to sue, he pleads to the merits, and claims from them, in their capacity, the sum due him by the estate of the insolvent. The homologation of this nomination ought certainly tube considered as res judicata between him and the plaintiffs.
+As to the nature of the title of the appellant, it consists in an adjudication to him made of the slave in dispute by the judge of the parish of St. John the Baptist, acting as auctioneer. By the process verbal of that adjudication, which the defendant has offered in evidence and which we think ought to have been received, it appears that he did not sign that adjudication, and it further appears that it was a condition of the adjudication, that the purchasers should give their notes of hand, duly endorsed, and execute deeds of mortgage of the property sold; none of which requisites appear to have been complied with by the defendant.
+Paillette for the plaintiffs, Hennen for the defendant.
+The adjudication then standing alone, being the act of only one of the parties, no contract of sale can be said to have been completed between them. Hence the defendant being called upon to pay the price of this adjudication, denied having made the purchase, and succeeded in having the suit dismissed. His present attempt to keep possession of the slave, by virtue of the same title, which he then disclaimed cannot avail him.
+It is ordered, adjudged and decreed that the judgment of the district court be affirmed with costs.
