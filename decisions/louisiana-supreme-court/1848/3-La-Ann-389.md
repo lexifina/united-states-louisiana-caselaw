@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Supreme Court"
 decided: "1848-04"
-citations: ["3 La. Ann. 389", "3 La. Ann. 376"]
+decided_precision: "month"
+citations: ["3 La. Ann. 389"]
 reporter: "la-ann"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Greiner v. Prendergast."]
 source_url: "https://static.case.law/la-ann/3/cases/0389-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4811142
-cites_cases: ["2 Rob. 235"]
 ---
 
 # Greiner v. Prendergast
