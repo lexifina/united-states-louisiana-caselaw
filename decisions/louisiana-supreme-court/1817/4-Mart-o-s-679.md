@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1817-04"
+citations: ["4 Mart. (o.s.) 679"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FLECKNER vs. GRIEVE’S SYNDICS & AL."]
+source_url: "https://static.case.law/mart-os/4/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12139864
+---
+
+# Fleckner v. Grieve's Syndics
+
+## Majority (Derbigny, J.)
+
+Derbigny, J.
+delivered the opinion of the court. Against the validity of these alienations a variety of objections have been raised.
+The first in order is that the sale, by Corp to Durand, had not been completed and the property not yet transferred, when the appellants seized the lot as the property of Corp.
+The next is, that supposing the sale to have been complete, in point of form, it is void, 1.
+as covering an usurious contract of loan: 2. as intended to defraud the vendor’s creditors.
+The last is that should the sale be decreed valid, in form and substance, the plaintiff ought not to have possession of the premises, because the property is held under a lease.
+I. The first, and by far the most important, objection presents the following difficulty. The contract of sale, entered into at London, between Corp and Durand, being for real estate situated in this country, could not affect the rights of third persons here, unless recorded in some notary’s office, as required by our laws.—Until then, it must have been considered as having no more force, in this state, than a private bill of sale. The instrument, executed in London, was never recorded here, and therefore never acquired any binding force against the citizen of this state. One of the contracting parties, however, wishing to remove any difficulty, which might occur on that account, caused another instrument of sale of the premises to be executed in this country. But, that sale is objected to as incomplete, because the purchaser who was represented therein solely by a person, who volunteered his services, on that occasion, did not ratify and approve the acceptance made in his name, until the vendor had become insolvent, and also because he never was put in possession.
+Before we examine what must have have been the effect of this second bill of sale, we must refer back the first, and see what was the situation of the parties. An act, which we shall consider as a private one, had been passed between them, by which the property had been conveyed to Durand. He had accepted it and was bound. The contract, as between vendor and vendee, was complete: but, in order to make it binding on other persons, something more was necessary. The instrument was to be recorded, or some public act was to be passed here. Now, such a public act has been passed, by which the public has been notified that Corp divested himself of the property in question and transferred it to Enoch Durand, of London, in whose name Thomas Elmes accepted the conveyance. The instrument is undoubtedly such as ought to have effect against third persons, and tho’ Durand might (which we doubt) have a right to decline ratifying it, yet from the moment it was passed, third persons were bound by it, in the case of Durand’s subsequent ratification.
+But, it is said that Durand never had possession of the premises, under that act. It is law that the delivery of the title is sufficient to transfer the possession of real property. Part. 3, 30, 8. Cur. Phil. Venta, n. 51. In a country, in which the original title remains deposited, in the office of a notary, such a delivery must he considered as made, when the deed of transfer is there lodged. Then, if Durand, in person or by attorney, had signed the instrument made out, there would be no question as to the delivery of possession having followed, or rather, accompanied, the deed. Does it make any difference that instead of an authorised attorney, a voluntary agent accepted the transfer in his name? We think not. The right, accrued to Durand by that acceptance, was certainly the same, whatever might be his subsequent determination.
+II. But admitting the sale to be complete in point of form, it is said to be void. 1. as covering a usurious loan: 2, as intended to defraud the venders creditors.
+On the first ground, however, supposing that the appellants have a right to set up such a plea, nothing can be shewn than can induce us to view the transaction in that light. Mere conjectures and inferences are not sufficient to shake a contract apparently valid: neither have we heard in support of the second objection, any sufficient reason to make us consider the contract as fraudulent. It does not appear that when the sale took place, there were any creditors that could be defrauded by it. For several years after, vendor remained in affluent circumstances, and if any reverse of fortune has befallen him since, the creditors, who lose thereby, have no right to complain of the alienation. The appellants particularly, as-representing a creditor, who was the vendor’s agent in this country, and as such well informed of his business, and who became his creditor since the sale in question, are in a still more unfavorable situation to set up such a claim.
+The title to this property being now fixed in Durand, and nothing having been shewn, which can invalidate the sale by him made to the plaintiff, there seems to remain nothing to do, but to decree possession.
+But a difficulty of a singular nature is finally set up by the appellants. They pretend to remain in possession, under Durand, by virtue of the lease which the plaintiff has alleged, against Samuel Corp. In order to avail themselves of such a title, is was expected that they should at least attempt to shew, how that lease passed to them. So far however from that being the case, the question is not even at issue between the present parties: the character of the appellants, being that of creditors, who have seized the premises, as the property of Corp, and who, in their answer in this suit, deny that Enoch Durand or the plaintiff had any title to them.
+It is ordered, adjudged and decreed, that the judgment of the district court be affirmed with costs.
