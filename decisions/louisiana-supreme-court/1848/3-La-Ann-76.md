@@ -1,0 +1,37 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-01"
+citations: ["3 La. Ann. 76"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith v. Ward et al."]
+source_url: "https://static.case.law/la-ann/3/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4817134
+cites_cases: ["3 Mass. 249", "6 Leigh 82"]
+---
+
+# Smith v. Ward
+
+## Majority (Etjstis, C. J.)
+
+The judgment of the court was pronounced by
+Etjstis, C. J.
+The defendants were the factors of the plaintiff, who resides at Marion, a village on the Yazoo river, in the State of Mississippi. They are sued for the balance of their account, the amount of which is not contested, but it is alleged by them that it was remitted by them, in obedience to the plaintiff’s instructions, and in accordance with the custom of merchants, with an observance of all proper precautions on their part. There was judgment for the defendants, and the plaintiff has appealed.
+The plaintiff directed the amount in the hands of the defendants to be sent to him in sovereigns. Sixty-two and a half sovereigns were put in a sealed package, directed to Marion, Mississippi, and sent to the plaintiff. It was delivered to the clerk of the steamer Gazelle, which was advertised for the Yazoo river; no receipt or bill of lading was taken, but the clerk was told, at the time of the delivery, that it was money. Although the testimony is notas definite as it might have been, we conclude that the address of the package was in conformity with its destination, and that proper notice was given of its contents. We find no evidence of any letter of advice being sent by this conveyance, or any other, to the plaintiff, notifying him of the money being sent by the steamer Gazelle.
+It is contended for the defence, that it is customary when remittances are directed to be made of sums like this, to give the money in a sealed package, bag, or box, in charge of the clerk of a river steamer going to the plaee where it is to be sent, for which it is not usual to take a bill of lading. If a bill of lading is required freight is charged, which is one-fourth per cent for gold; otherwise the money is carried gratuitously. This is said to be the usual mode followed by the commission merchants of this city in remitting money, 'and the defendants having acted in conformity with this usage in remitting the money to the plaintiff, it is contended, have no further responsibility in relation to it. On this point the case has been argued, but the want of proof of any letter of advice would prevent the defendants from having the benefit of any sueh usage, supposing it to have been sufficiently proved and the facts to have brought their case within it, and admitting it to be one which the court would be bound to recognise.
+There is no evidence that the plaintiff ever received the money sent to him, and the naked question is before us as to which of the parties shall bear the loss.
+Concerning the duties of factors the law is too well settled to admit of any question. They are bound not only to obey the orders of their principals, but to consult their advantage in all matters referred to their own discretion; to be early in their intelligence, distinct in their accounts, and punctual in their correspondence, and to. exercise in the business confided to them a reasonable and proper care, skill and judgment; and the enquiry in relation to the responsibility of the factor in any particular case is, whether other persons exercising the same calling or employment, and being experienced and skilled therein, would or not have acted as he has done. 1 Livermore on" Agency, 68. Russell on Factors, 36. Chapman v. Walton, 10 Bingham, 57. This class of agents should likewise be punctual in giving notice to their principals of all those facts and circumstances connected with the business which they have been retained to transact, by which the rights or interests of their principals may be affected. Russell on Factors, 44.
+In .ordinary shipments, the bill .of lading is dispatched to the consignee, in .order to enable him to demand and receive the goods from the master of the vessel in which they are transported; with the bill of lading, letters of advice al'e transmitted, unless the notice of the shipment to the consignee is communicated in some other mode. Where there is no bill of lading there is so much the more necessity for the letter of advice, and a remittance without either one or the other we cannot consider as made with due diligence, and is not consistent with that attention to the intere'sts of the principal which the factor is bound to bestow.
+The present case furnishes a striking instance of the necessity of the observance of this rule. The plaintiff thus explains his position in his letter to the defendants, under date of June 26,1845.
+“ The steamboat Gazelle has just now come up. I understand from the clerk he has had several packages of money stolen last night; to whom they were directed he cannot inform me, but they think there was one package from your house for this river.: he has a man prisoner on board upon suspicion of committing .the act, &c.”
+This letter is relied upon by the counsel for the defendants as showing, among other things, that the plaintiff evidently expected the remittance by this boat, and hence authorised it; but it shows the helpless condition in which the plaintiff was placed by the neglect of the defendants to inform him of the remittance having been made. He was left .in.a state of ignorance, which put it out of his power to claim what the defendants insist was his own. We consider that the .defence has not bean established.
+The judgment of the District Court is therefore reversed; and it is decreed that the plaintiff recover from the defendants jointly and severally, the sum of three .hundred and five dollars .and fourteen cents, with five per cent interest from the 25th November, 1846, and costs of suit in both courts.
+Prentiss and Finney, for re-hearing, urged: 1. That there is no established rule of law, that required the defendants, in the transmission of the money to the plaintiff, to fiend any other letter of advice than the envelope. That the rule which requires it is unsupported by authority, and contrary to authority.
+2. That the rule is not founded in custom ; and, even if it be so founded, that there is no proof of the custom, and the oourt cannot ex officio take potice thereof.
+3. That unless some rule .of law or custom proved in the record required another letter of advice than the envelope to be sent, defendants were not bound to prove that such a letter was sent
+4. That if a single letter accompanying the package is sufficient, the mere envolopo, properly sealed and directed, is sufficient.
+5. That the suit, being in the nature of an action of debt on ap account stated, the court cannot condemn defendants iu damages .for the mere failure to write a letter.
+C. That if liable iu this action for the neglect to write a letter, defendants are only liable for the actual loss caused by their neglect and to the extent of that loss, and that no loss whatever was sustained in consequence of such neglect.
+7. That the defendants, in tho transmission of the money, did exercise reasonable skill and ordinary diligencio. ’ Re-hearing refused.
