@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-06"
+decided_precision: "month"
+citations: ["2 La. Ann. 615"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Eustis, C. J., dissented."]
+parties: ["Freeman v. Stacy."]
+source_url: "https://static.case.law/la-ann/2/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 335177
+cites_cases: ["12 Rob. 131"]
+---
+
+# Freeman v. Stacy
+
+## Majority (Slidell, J.)
+
+The opinion-of the majority of the court was pronounced-by-'
+Slidell, J.
+This is a contest? concerning the title to a slave between the plaintiff and Reynolds,- the lessor of Stacy. The circumstances under which Reynolds acquired title are stated in the case' of- Farrar v. Stacy, ante p. 210. Pending the attachment suit of which we have there'spoken, and before judgment therein, Spencer,- the defendant in attachment, executed an act of sale of the slave in favor of Freeman, in consideration^ as therein stated, of the sum of five hundred dollars paid to him-by Freeman-. The act stated' that the slave was one of those' attached in the suit of Briggs, Lacoste & Co. v. Spencer. This act was duly reoorded on the day ofits date. It is contended by- the defendant that this was the pu-rchase of a litigious right. The circumstances under which the sale was really made were, that Spencer was the debtor of- Freeman, and conveyed the slave to him on account of his indebtedness.
+We see nothing illegal in this. It was a dation enpaiement'to a bond fide creditor, of property subject to encumbrance. Even if Spencer's 'title be considered a litigious right, which is not clear, this would subject Freeman to no equity in favor of’Reynolds, it having been, in the words of the Code, “ transferred to a creditor as a payment of a debt due to him.” Arts. 2624, 2622. We have stated in the case of Farrar v. Stacy, that the'judgment in the attachment suit of Briggs, Bacoste if Co., upon the execution- of which judgment the slave was sold, was reversed upon;a devolutive1 appeal. The encumbrance, therefore, of the attachment being extinct, the contest between these parties turns solely upon the validity of the judicial sale,-under which Reynolds claims title. This sale Freeman alleges to be invalid,- by reason of the non-observance of the legal formality of advertisement.
+The sale was made in the month of August, 1842, the seizure under fieri facias having been made on the 2d July, 1842. Under the then existing laws it was necessary that this sale, being in the case of a judgment for an amount over three hundred dollars, should be advertised in a newspaper, if there was one published in the parish. The defendant, however, insists that this formality was dispensed with, by the’ statute of February 8th, 1842.
+The Civil Code, art. 3522, and the Code of Practice, art. 669, required a newspaper advertisement. By the act of 1828, this general requisition was modified, and it was enacted, that when the judgment on which the execution issues is under ¡¡¡>300', it shall be unnecessary to advertise in a public newspaper. In 1841 the law was again changed, the requisition again became general, and it was made “ the' duty of the sheriffin any pai'ish of the State in which a newspaper is published, to publish all his advertisements for sales in said'paper,”k&c., and “ all laws, or parts of laws, inconsistent therewith”¿wereTepealed. In 1842, another act Was passed, by which it whs declared, “ that the act entitled da act; relative to sheriffs’ sales, approved 8th March, Í841,Jbe and is hereby repealed, and that all acts relative to advertising at sheriffs’ sales in force at the time of the passage of the said act be, and the same are hereby revived.” The result of this complicated legislation, so well calculated to create confusion and mistakes, nevertheless undoubtedly was, that a newspaper advertisement should be made when' one Was published in the pai'ish, and when the amount of the Judgment exceeded three hundred dollars. Such also was the opinion of our predecessors on this very point. See Ex parte Groves, 12 Rob. 131.
+The return of the fierifacias exhibits an advertisement by posting^only ^and a witness states that the property was not advertised in the newspaper published in the parish at the time when the seizure was made, and for some time subsequently. The first day for advertising was the 6th July, 1842, and the sale took place on the' 6lh August, 1842; the newspaper was regularly published every week during the year 1842, down to-the 16th July, 1842. The advertisement might have been published during a portion of the time; and the subsequent impossibility does not excuse the previous omission.
+Spenier, under the state of facts to which we have referred in the case of Farrar v. Stacy, has precluded himself from any objection to this sale ; but his acts subsequent to the recorded conveyance to Freeman cannot affect the latter without his assent, whieh is in no way shown. He stands before us as a bond fide purchaser of property subject to a prior incumbrance. His title could not be divested at the suit of the privileged creditor, except by a sale conducted in conformity to law. No such sale has been made; and the incumbrance created by the attachment has in the mean while become extinct. So that the unencumbered legal title is now in the plaintiff, who must have judgment accordingly.
+Upon the claim for the value of the slave’s labor, we consider the plaintiff entitled,-under the evidence, to recover, at the rate of $75 a year, from judicial demand, until the slave be restored to his possession.
+It is therefore decreed that the judgment of the court below be- reversed, and that the slave Frank, in the petition described, be restored by the sa-id Reynolds to the said plaintiff as the lawful owner thereof; and that the said plaintiff further recover from the said Reynolds, as wages for the said slave-, at the rate of seventy-five dollars per year, from the 2d day of December, 1842, until delivery of said slave be -made to the said plaintiff; the said Reynolds paying the costs of suit in both courts.
+Eustis, C. J., dissented.
