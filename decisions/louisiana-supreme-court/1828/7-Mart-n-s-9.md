@@ -1,0 +1,30 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1828-05"
+citations: ["7 Mart. (n.s.) 9"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NOLTE & AL. vs. THEIR CREDITORS."]
+source_url: "https://static.case.law/mart-ns/7/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6679968
+---
+
+# Nolte v. Their Creditors
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the «ourt. The appellants opposed the tion of the tableau of distribution filed by *yndics, and alleged as the ground of their on-J o o i position, that-they were not placed thereon creditors for the damages on certain foreign bills of exchange, which were drawn by insolvents, and returned protested. The court rejected their opposition, and they appealed.
+From the statement,agreed ort by the par* fies, it appears that the appellees wereoudor-»ers on drifts of Nolte A- Co. to a large amount. Their endorsements were not on real transactions; but made for the account io;a-tjou 0p (|ie drawers, ancj hills were by them negociated at the branch bank of the £ ruled States in this city. When the failure of the drawers took place, the appellants entered into arrangements with the bank, by wh’ch they gave security, and obtained time for the payment. It made a part of the agreement that they should be released from the damages; and the principal question for our consideration is, whether not having paid damage^ they are entitled to recover them from the drawers.
+The act of our legislature on this subject, provides that on the return of any foreign bid of exchange unpaid, with legal protest, the drawer thereof, and all others concerned, shall pay and discharge the contents of said bill, With twenty per cent, advance for the damage thereof. Martin's Dig. rot. 1, 596.
+The counsel have gone very fully into the question, whether the endorsee of bills, whe does not pay damages, has a right to recovef them from previous parties on the instrument t\'e do not find it necessary, however, to express any opinion on this point, as the case must be decided on particular grounds, which take it out of the general rule, conceding that ... rule to be what the appellants contend it is.
+It is admitted the appellants did not take the bills in the usual course of trade; that they gave no consideration, but that they lent their names to the drawers for their accommodation. It is also admitted the appellant did not transfer the notes, but that they were ne-gQciated by Nolte & Co. for their own use and benefit.
+It was not made a question at the bar; and if it had been, there can be no doubt the court may look beyond the form in which this con-' tract is cloalhed, and examine into its real character. Indoing so,it is at once seen that though it possesses the features of a commer* cial transaction, evidenced by bills in a negotiable form and endorsed, yet that in point of fact it is not so. The drafts never were in the possession of the appellants; they had no Interest in them, and they did not transfer them. They were, therefore, in reality, the sureties of the drawers, to enable them to raise money in, market. Their obligations and their rights must be ascertained by a reference to the general law, not that of bills of exchange. We understand it to be well settled, in respect t* accommodation notes or drafts, that although, as to subsequent parties to the endorser, ;ha rules applicable to negotiable paper apply in full force, yet in regard to those who agree to accommodate each other by the use of their pames, these obligations must be tested by the ordinary rules of law. The lex mércalo ⅜& recognises no such contracts. Bayley on Bills, 224, 302. Chilly on bills, (ed. 1821.) 381.
+Viewing the transaction in this light, we agree in opinion with the district judge. The appellants, as sureties of the drawers, can recover from them no more than w as paid on their account.
+The appellees have assigned, as error in the judgment below, the placing the appellants on the tableau as creditors for the balance due on a note of Cromelien, Davis Sp Co. of which the insolvents were endorsers. The objection made to the decision of the judge a quo, is, that the appellants attended a meeting of the creditors of the makers, called for the purpose of deliberating on the propriety of according them a respite, and that they (the appellants) voted in favour of it.
+W - think the objection well taken, and that the court below erred. There is no rule more cl sirly or firmly established in relation to. negotiable paper, than that discharging or giving time to any of she parties, is a discharge of every other party who, on paying the bill or non:, would be entitled to sue the party to ■whom such discharge or time has been gi ven.
+The court below seems to have considered the endorsers were not injured by the indulgence: that whether the appellants had consented or not, the respite would have been granted. We do not think we are permitted to go into that question. What would have been the effect of the appellants refusing the indulgence, we do not know. What influence their example, either in rejecting or acceding to the prayer of the petitioners, might have had on the other creditors, cannot now be ascertained; and a positive right, conferred by law on the doing of a certain act, cannot be destroyed by speculations as to what would have been the situation of the parties, if that act had not been done.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court be annulled, avoided and reversed : And it is further ordered, adjudged, and decreed, that ^e case jje remanded to the said court, with directions to amend the tableau by rejecting the claim of the appellants as endorsers of the note of Vincent Nolte &/ Co: And it is further ordered, adjudged, and decreed, that the ap» pellants pay the costs of this appeal.
+Grymes for the appellants-—Pierce 4* jBms* Us for the appellees.
