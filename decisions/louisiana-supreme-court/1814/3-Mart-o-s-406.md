@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1814-08"
+citations: ["3 Mart. (o.s.) 406"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VERNOT vs. YOCUM."]
+source_url: "https://static.case.law/mart-os/3/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12131301
+---
+
+# Vernot v. Yocum
+
+## Majority (~lBy the Court.)
+
+~lBy the Court.
+This action was brought- m the Court below bv the appellee, to recover from the appellant a negro, mentioned in tlie proceed* i'igs, a"d appears by the petition, to be founded a bill of sale, made by Yocum to Vernot. \ - The instrument of sale, as it appears by the re-cord>>s an act under private signature, without any subscribing witness,, but seems to have been prov- , . , „ . , .... en by the oath ol one witness on the trial, m »the t ⅛ , • Bistnct Court.
+^ stateme!lt -°f facts not having been regularly made in the case, either by parties or the Judge before whom it was tried ; and, as the testimony then given is submitted by consent for the consideration of this Court, it becomes our duty to examine the whole evidence as offered, to apply the law, and render judgment conformably thereto.
+From a full view of the case, it is discovered to be founded on a contract known to our laws under the denomination of aleatory, and is of the species of gaming and betting : having its origin in a horse race. It appears from the testimony, that the parties to the suit agreed to run á race with horses, on the first day of March, 1813, for the sum of §2000, which waste» have b¡ en staked on the day previous to running ; that the race was to have been run at a certain time the day of, \vhich was passed before either of the -parties insisted on carrying the contract into «ífcct by running._ It is in evidence that the agreement to run fer 82000 was in writing, but was not produced tin the trial in the Court below by either patty ; that the original race for 82000 was relinquished by the consent of the contracting parties, either in consequence of tire time having elapsed' or foE some other cause, not apparent ; and that they agreed to run for 81Q00 ; about which the evidence is not entirely clear.
+The bill of sale for the negro, claimed by the appellee, was placed in the hands of Johnston, a witness in the cause, who held it, ás a stakeas gainst another negro, and 8 2Ó0 held by him for Vernot, to be delivered as a forfeit by either party who should refuse to comply with his, contract arid fail to run the1 race. And here, were it necessary to the decision of the cause, it might be observed, that the bill of sale for the appellant’s negro was obtained from the stake-holder, under false pretenses, and circumstances of deception which ought never to be encouraged.
+, Frojí all the facts disclosed by the whole tes- , timony, adduced in the case, it appears evident to the Court, that the negro in dispute was to be forfeited by the appellant, only on his failure and refusal to run the race for 8’2000; and he ought not to be made answerable in danjages to the ap-pellee, on account of’ his failing to run as this seems to haj^a^en, from the mutual negligence of both parties, as neither required the, performance of^g pontract, within the time limited by its stipulations. Thus the performance.of the obligations created by their agreement having failed, as much by the conduct of the one party as the other, neither can claim any benefit resulting from it : on this subject there could not remain a shadow of doubt except, from the confusion introduced in the transaction, by the consent of the parties to run on the same day a race for S 1000. This surely cannot be considered the same contract by which they stipulated to run for g-2000- and as the latter that is, the contract or agreement to run for S 2000 is the one which on tailing to perform the forfeiture was to take place and must be considered in relation to this alone : for it is not to be presumed, nor is it to be collected from the evidence, that the same forfeiture, was to accrue on failing to run for g 1000, and as, before stated, this failure having taken place not by any neglect or improper conduct on the part of the appellant.; we are of opinion that the appellee has no right to recover the negro claimed by him, and that the condition on which the sale was to have become valid having failed, it must be considered void and of no effect.
+The Court being- of opinion, on this ground, that . , _ ••• _ _ ^ the judgment of the District CJourt is erroneous, it becomes unnecessary to- examine the @fects of the power given hg vernot to Cox, to settle the race, and the acquittance given by Cox, in virtue of dSjd power. . '
+It is, therefore, ordered, adjudged and decreed, and we do order, adjudge and decree, that the judgment rendered by the Court below, in this cause, be reversed and annulled, and that judgment be here entered for the appellant with costs.
