@@ -1,0 +1,23 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1826-03"
+citations: ["4 Mart. (n.s.) 292"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THORN & CO. vs. MORGAN & AL."]
+source_url: "https://static.case.law/mart-ns/4/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6684026
+---
+
+# Thorn v. Morgan
+
+## Majority (Mathews, J.,)
+
+Mathews, J.,
+delivered the opinion of the court. In this ease the plaintiffs sue to re- * COver a house and lot described in their peti-r tjon as owners. under a title derived from John Vf, Oddie, án insolvent. The sheriff of the parish of Orleans, Clark the syndic of the creditors of the insolvent, arid Brand the builder of the house, are made defendants. The judgment of the court below is favorable to the claim of the plaintiffs, bat subjects the property to the privilege of the builder.— Both parties seem to be dissatisfied with the judgment below, and have appealed.
+From the view which we have taken of the cause, it is unnecessary now to examine the claims or pretentions of any of the defendants, except that of Clark in his capacity of syndic, representing the mass of creditors of the insolvent. The act under which the plaintiffs claim title is attacked on the ground of legal fraud as having been executed by the insol- . „ ... . vent at a time when he was m tailing circ.um-stances. It was made in the state of New-York, and however valid it may be under the laws of that state, there are circumstances shown in the present case, which subject it to the control of our state laws. The insolvent was a resident of New-Orleans ; went to New Fork, executed the title for the property in dispute in due form to the plaintiffs, and in one month afterwards, attempted to avail himself of the benefit of the insolvent laws of that state ; returned to New-Orleans and made a cessio bonorum in pursuance of our laws in such cases provided. All these things.vvere done in the course of six months. , It was admitted by The counsel for ..the plaintiffs, that a debtor could not legally and honestly go from this state into another, and there dispose of his property to the prejudice of the mass of his credtiors, under the sanction of foreign laws. Such an act is in fraudan leges nostrum, and ought not to be tolerated. Subjecting the decision of the present case entirely to the laws of the state of Louisiana, it offers little difficulty, \\ e are clear! v of opinion, that the transfer was made bv Oddie . io the plaintiffs in tiempo inhabit, at a time when he was unable to pay all his debts, and when his property ought to have been eon- ' sidcred a common pledge to all his creditors,, according to the rank and privilege of their claims. This case ditiers hut little from the case of Kenner & al. vs. Brown, 3 Martin, 270; and the case of Ritchie & al. syndics, vs. Sands & al. syndics, 10; ibid. 704. In the first, a mortgage given by a person who was in failing circumstances to a creditor, intended to favor him to the prejudice of the mass of the creditors, was declared null; in the other a sale was set aside, on account of hiving been made in fraud of creditors. The attempt made by Oddie to avail himself of the insolvent laws of New-York, not more than one month after he had conveyed the property now in dispute to the plaintiffs, is such evidence of his inability to pay all his debts, as to show clearly, that he was insolvent at the time he executed the deed of conveyance.—Then all his property was a common pledge of his creditors, and no part of it could be legally transferred to any one of them to the prejudice of the rest. The deed is voidable according to the acts of 1818, and 181?. as it i;s>bj 0very principle oí our laws relating to \ , ■: - ' insolvency,
+Morse for the plaintiffs, Ripley, and Watts ⅝-Lobdell, for the defendants.
+It is therefore ordered, adjudged and deCreed, that the judgment of the district court bo annulled, avoided and reversed; and it is further ordered, adjudged and decreed, that sale of the property mentioned in the petition by John VV, ()ddie to the plaintiff's be annuiled and made void ; and it is further ordered, adjudged and decreed, that the cause be remanded to the district court, with directions to cumulate the same with the proceedings in concurso of John W. Oddie, vs. his creditors, reserving to the parties in the suit, other than the plaintiffs, the right to assert their claims on the property according to law,
+The plaintiffs paying costs in both courts.
