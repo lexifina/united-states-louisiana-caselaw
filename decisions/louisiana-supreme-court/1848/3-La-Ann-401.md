@@ -1,0 +1,26 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-04"
+citations: ["3 La. Ann. 401"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ballister et al. v. Hamilton."]
+source_url: "https://static.case.law/la-ann/3/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4817428
+cites_cases: ["1 La. 249", "17 Johns. 511", "3 Wheaton 101"]
+---
+
+# Ballister v. Hamilton
+
+## Majority (Slidell, J.)
+
+The judgment of the court was pronounced by
+Slidell, J.
+In December, 1843, Oakford obtained from S. and J. P. Whitney, the agents at New Orleans, of the plaintifis, merchants of Boston, an advance of $3,340, on seventy-three bales of cotton’belonging to the defendant, For the sum advanced S.and J. P. Whitney drew their bills on the plaintiffs at sixty days’ sight, which bills were accepted and paid by plaintiffs at their maturity, 11 March, 1844. The cotton, pursuant to agreement, was shipped by and J. P. Whitney to plaintiffs, for sale on Oakford's account. It was sold by them on the 14 October, 1844, and on the 15 October, 1844, the plaintiffs made out their account-current of the shipment, in which the amount of the drafts is charged at the date of their maturity, interest is charged on that amount at six percent from that date, the nett proceeds of sale of the cotton are credited on the day of sale, and a balance is thus produced as due 14 October, 1844, of ®1,269 26 ; for which, with interest from that date, at six per cent according to the law of Massachusetts, this suit is brought.
+Although the transaction took place in Oakford's name, we have no doubt as to the liability of Hamilton. Oakford was his agent, and made the shipments at his request. At the time of the shipment Oakford mentioned to the Whitneys that he was not the owner of the cotton; that there was a responsible ■party, whose name he would give, in case there was any reclamation on the cotton. As soon as Oakford received the plaintiffs’ account from the Whitneys, lie gave the name of Hamilton, as the owner of the consignment, and the party hound to pay. Mere knowledge that there is a principal, does not destroy the right of a party dealing with the agent to look to the principal when afterwards discovered. By debiting Oakford with the balance of account of the shipment, the plaintiffs were not precluded from resorting afterwards to Hamilton, the undisclosed principal. It is consistent with justice and the general rules of the law of agency, that the creditor should.have his remedy against the principal. How far this doctrino is to be qualified in cases where tho stats of accounts between the principal and agent Would make it a hardship that the principal should be called upon, it is unnecessary to consider, no such equity having been shown in the present case.
+But the point most seriously pressed in this Cause, and certainly a Very interesting one, is, whether the defendant is to pay interest on the balance of the account at six per cent, which is the Massachusetts rate, Or at the Louisiana rate of five ? This turns upon the question, where the indebtedness is to be considered as payable; and, in its solution, the parties have given us no express guide. Their agreement was silent upon that point, and We must endeavor to gather their intentions from the nature of the transactions. It is clear that the first resort of the plaintiffs was to be the cotton, and that resort was to be exercised in Boston, because it was shipped for the express purpose of being there sold. Then, so far as the proceeds would go, the contract of the parties was that payment should be made in Boston. Again, although the contract is made in Louisiana, the duty of selling, the duty of the plaintiffs as factors of the defendant, was to be performed in Massachusetts. An incident of the duty thus to be performed is, to pay the defendant, if there should be an excess of proceeds over advances. Suppese there had been a surplus in this case, instead of a deficit. Boston being the place where the consignee’s duty of selling the merchandize was to be performed, it seems just to consider the incidents of that duty as regulated by the laws of that place. Becoming there a debtor for the supposed surplus, the interest of Massachusetts would seem the proper standard, if the consignee failed to pay. See the case of Consequa v. Fanning, 17 Johns. 511. But if the plaintiffs would be chargeable with Massachusetts interest on a surplus, a reciprocal liability should rest upon the defendant in case of deficit; otherwise, as was forcibly put by the court below, we should be adopting the singular rule of two kinds of interest in an account-current, without the agreement of the parties.
+We are aware that this view conflicts with the opinion of Judge Story, in the case of Grant v. Healy, 2 Law Reporter; but we feel a strong conviction that the rule we have followed accords with the general mercantile opinion, which, in a matter of this sort, is entitled to very great weight.
+Under the admissions made at the trial, we think there was no error in allowing the interest from the time the balance was due and payable.
+Judgment affirmed.
