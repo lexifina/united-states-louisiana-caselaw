@@ -1,0 +1,22 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1854-06"
+citations: ["9 La. Ann. 400"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Succession of Marie Francoise Prudence D’Aquin—State Treasurer, Opponent— Charles Cavelier, Appellant."]
+source_url: "https://static.case.law/la-ann/9/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11974588
+---
+
+# Succession of D'Aquin
+
+## Majority (Slidell, 0. J.)
+
+Slidell, 0. J.
+One of the questions presented by the appellant is, whether the State Treasurer, represented by a member of the bar, has power to act for the State in this proceeding, which commenced in a rule by the State Treasurer upon the curator to file an account, and has resulted in a judgment on opposition to the account condemning the curator to pay twenty per cent, interest upon the ascertained balance in his hands.
+As a general rule, the State appears in judicial proceedings in its own name and by its Attorney General or District Attorney, a public officer appointed or elected to prosecute or maintain the interest of the State in such proceedings. The power of the State Treasurer in the present case, which, if it exist, is an exception to the general rule, is claimed under the 26th section of an Act entitled ‘‘an Act relative to the Revenue of the State,” approved March 10th, 1845, which reads as follows: “ That the State Treasurer be and he is hereby-empowered to employ and appoint attorneys to examine the proceedings in vacant successions and absent heirs, and to collect what sums should have been paid by the curators of said vacant estates, and that as their fees, said attorneys thus employed, shall receive ten per cent, on all moneys which they may cause to be paid in the State Treasury.” Our opinion is that this law had in contemplation, the collection of the tax of ten per cent, on interest in successions falling to certain non-residents, the amount of which tax executors, curators, &c., were required to retain and to pay to the State Treasurer in certain cases, or to the Sheriff, in certain other cases, which latter officer was required to pay over sums thus received as in case of other taxes collected. Act of 1842, page 436. "We are led to this interpretation by the applications of the familiar rule, noscitur a sociis. Taxation and the mode of assessing and collecting taxes, are the main subjects of the statute, and the title is, “an Act relative to the Revenue of the State.” Taxes on such interest in successions properly fall within that description; but money paid into the Treasury of the State, in the absence of heirs of the deceased, there to remain in deposit until claimed, is not a part of the revenue of the State. Moreover, ample provisions had been already made before the Act of 1845, to compel curators, &c., to pay the funds of vacant successions into the treasury, whereas no special provision of law, of which we are of aware, existed for the collection of the tax above mentioned. It was already provided by the 1196 Article of the Civil Code, that if curators, &c., neglected to pay the funds of vacant estates into the hands of the Treasurer, it was the duty of that officer to denounce them to the Attorney General or District Attorney, who were required thereupon to bring suit.
+The power of appearing for another in judicial proceedings, is a very grave power, and one which the law carefully scrutinizes in the case of individuals; and the importance of such a power is obviously not to be less appreciated in the case of the State. The consequence of a power to appear for another, in a court of justice, is the irrevocably binding force of “ the thing adjudged” upon the party for whom the appearance is made; and where the interests of the State, which are the interest of all its citizens, are involved, courts of justice should not pass upon those interests unless the State is properly before it through the officers recognized as its representatives by the Constitution or law. The amount involved in the present case is not large, but the principle is important, and has been the subject of our careful consideration.
+It is therefore decreed that the judgment be reversed and that the cause be remanded, with instructions to to the court below, not to act further upon the account filed by the curator until service of reasonable notice of such filing upon the Attorney General, the costs of appeal to be paid by the appellees.
