@@ -1,0 +1,29 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1846-06"
+citations: ["1 La. Ann. 144"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lebœuf v. Merle."]
+source_url: "https://static.case.law/la-ann/1/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8505784
+---
+
+# Lebœuf v. Merle
+
+## Majority (Slidell, J.)
+
+The judgment of the court was pronounced by
+Slidell, J.
+Faurie, having become subrogated to the rights of Lebmuf, the judgment creditor of Merle, obtained writs of fieri facias, and, on the 4th October, 1845, caused a slave of Merle's to be seized. The sheriff made returns that he had seized the slave under the writs, and had adjudged the slave to Emma Cliapus,the wife of the defendant Merle, for the price of $600, payable cash, which amount the purchaser retained in her hands on ascount of the mortgage and privilege in her favor, according to the certificate of the Recorder of Mortgages. The sheriff also delivered the slave to this purchaser, and executed a deed to her in the usual form, reciting the price, and its retention by the purchaser on account of the alleged mortgage and privilege.
+Subsequently Faurie, by a rule, called upon the sheriff to shew cause why he should not bring into court the proceeds of the sale, that it might b© paid over to the plaintiff in the rule.
+The sheriff made no exception to the form of proceeding, but answered that the proceeds of the sale were retained by the purchaser, Emma Chapus, wife of the defendant, on account of a mortgage with privilege accruing to her by judgment of separation of properly from her husband, as mentioned in the certificate of the recorder of mortgages read at the public sale of the slave sold by him.
+He further answered that Emma Chapus had furnished him, an indemnity bond, to hold him harmless in the matter, with her husband and another as sureties. He prayed that the purchaser and her sureties might bo cited in warranty, to defend him in the rule.
+When the rule came to trial, the parties called in warranty moved for their dismissal, and thereupon the warrantors were dismissed. The trial proceeded between Faurie and the sheriff. Faurie offered in evidence the records of the two suits of Lehœuf v. Merle, including the authentic act of subrogation and the order of the court thereon, and a certificate of the recorder of mortgages showing that the judgments which he held against Merle were recorded as far back as 1843. The sheriff offered his deed of sale, and a certificate of the recorder of mortgages of date as recited in his deed, exhibitingthe registry of the Wife’s judgment against her husband, “rendered on the 6th of October, 1845, for $1300, with interest and costs, and with the privilege and mortgage granted by law to married women for the security of their dotal and paraphernal rights.”
+The court below gave judgment for Faurie, ordering the sheriff to pay over to him, as the seizing creditor, the proceeds of the sale. From this judgment the sheriff appealed.
+The plaintiff, Faurie, obtained by his seizure a privilege on the slave which clearly entitled him to the proceeds of sale, unless the sheriff has sliolvn a superior right in E. Chapus, in whose hands he left this price. This superior right he has not proved; the mere registry of her judgment did not give it, for that judgment was rendered and registered subsequently to the seizure, and subsequently also, by two years, to the registry of Faurie's judgments. But it is said that the wife’s mortgage and privilege for her dotal and paraphernal rights, date from Che conversion by her husband. We have no evidence hero of what these rights were, whether dotal or paraphernal; but even conceding this to be immaterial, the sheriff has offered no evidence except the certificate of registry, and this furnishes no proof of the date of conversion or receipt by the husband of the dotal or paraphernal monies or property. The date of rendition of the judgment and its registry, the only dates furnished by the certificate, are both posterior to the seizure. The proof as to the wife’s rights is also defective in other points. The sheriff then has not made out his defence, to wit, a superior right in the party to whom he has delivered the slave, leaving the price of adjudication in her hands.
+The sheriff was not authorized by the certificate on which he relies, to assume that the purchaser’s rights were superior to those of the seizing oroditor. If he had no better authority with regard to the wife’s rights than that which he has laid before us, he should not have delivered the slave and have given a deed; leaving the money in her hands, but should have required the purchaser to file a third opposition, pursuant to article 401 of the Code of Practice; or, if she would not do so, should have instituted himself a judicial proceeding to compel the claimants to litigate their rights to the proceeds, giving no title and making no delivery till the money was put into his hands. Instead of pursuing this oourso for his own safety, he has provided for it in another form, by a bond of indemnity from the purchaser ; and having shown no legal ground of defence against the plaintiffin the rule, he must pay him and look to the indemnity bond.
+It is said that this is not a proper case for the summary remedy provided by the Code of Practice, art. 766, because here the money is not in the sheriff’s hands ; that Fcturie should have proceeded by an ordinary action. This objection is untenable, because the sheriff took no exception in the court below, but pleaded to the merits.
+As regards the dismissal of the warrantors, we cannot inquire into its propriety, because no appeal was taken from the order, and the warrantors are no® before us- Judgment affirmed.
