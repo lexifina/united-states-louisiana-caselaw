@@ -1,0 +1,44 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1852-04"
+citations: ["7 La. Ann. 213"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rost, J., concurs in this opinion.'"]
+parties: ["Charles Fonda v. E. D. Beach."]
+source_url: "https://static.case.law/la-ann/7/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 331855
+---
+
+# Fonda v. Beach
+
+## Majority (Preston, J. SiiiDEnii, J.)
+
+Preston, J.
+The articles 212 and 214 of the Code of Practice, authorizing the arrest of debtors, was amended by the Act of 1840, “to abolish imprisonment for debt.” The 2d section of the Act authorizes the creditor to have his debtor arrested, on making oath that he believes him about to depart, permanently, from the State, without leaving in it sufficient property to satisfy his demand.
+' The supplemental Act of 1840, required the debtor, on his arrest, to give security not to depart the State for the term of three months. The 3d section of the first Act of 1840 made the condition of the bond to be, that the surety should pay the debt if the execution against the principal was returned unsatisfied.
+The object of the arrest, still allowed by our laws, notwithstanding the abolition of imprisonment for debt, was to" prevent the permanent departure of the debtor from the State, without satisfying the debt, or making a surrender of his property to his creditors.
+The oath required has no reference to a temporary absence of the debtor, nor was the arrest designed to prevent his temporary, but permanent departure. If the debtor is unable to give security, he may be imprisoned three months, and must then be discharged; but upon condition of surrendering his property, if required by the creditor, setting forth in a petition to the court, that the debtor had property which might be made available to his creditors.
+If the debtor be released on giving bail, the same condition is, by implication, attached to his bond, that he cannot be discharged from liability, under the bond, until the lapse of three months after his arrest, and then, only, on condition that he surrender his property to his creditors, if required. The object of the imprisonment, and of the bond consequent upon the oath, and the arrest, being the same, the conditions of both must be the same. Both were intended to prevent a permanent departure, by the debtor, without making a surrender of his property, if required; both are satisfied if he does so. And both these means of effecting the same object, cease, under the law, at the end of three months, if the creditor does not require, within that time, the surrender of the debtor’s property.
+The district court very properly refused, in this case, to make an order, as to the debtor, rescinding the arrest, because it had become inoperative by the lapse of the three months. In like manner he should have released the surety, because the three months had elapsed without the permanent departure of the debtor, during which time the creditor might, but had not required the surrender of his property. The surety had prevented a permanent departure of the debtor, during the term allowed to the creditor to require a surrender of property. That property remained subject to his execution, but the person of the debtor was no longer subject to the control of the creditor, under the law abolishing imprisonment for debt.
+I do not concur in the reasons given by the district judge for his judgment, that the debtor had no intention to depart permanently when arrested ; but upon the principles stated, I think his judgment should be affirmed, with costs.
+SiiiDEnii, J.
+This case involves the construction of the Act of 28th March, ]840, and the supplementary act of the same year. The first Act is entitled “ An Act to abolish imprisonment for debt,” p. 131, a title which seems by no means to harmonize with the body of the statute.
+The interpretation of much of this statute is involved in serious difficulty, and I confess myself embarrassed in attempting to apply it to this particular case. As the surety’s liability under the statute, and the proceedings and evidence in this cause does not seem to me clear, I prefer to leave the judgment of the district court undisturbed.
+
+## Dissent (Eustis, C. J.,)
+
+Eustis, C. J.,
+dissenting. The plaintiff, who was a judgment creditor of James Garland and others, took a rule on Beach, who was one of the sureties of Garland on a bond given for his discharge from arrest, for him to show cause why judgment should not be rendered against him on his bond, the condition thereof having been broken by Garland's having left the State within ninety days from the date of the same.
+The defence of Beach was, that the arrest of Garland was illegal, inasmuch as the affidavit on which the order of arrest was issued was false, and that Garland was not, at the time, about permanently to depart from the State. Evidence was heard on the trial of this rule, and the district judge was satisfied that Garland had not intended permanently to leave the State, and discharged the rule, holding the surety to be released from his suretyship.
+The plaintiff has appealed, and the question has been argued as to the sufficiency of the matter of defence presented on behalf of the surety.
+It is objected that this defence comes too late, because the bond had already become forfeited, and judgment been obtained against the principal, Garland.
+The petition was filed on the 12th of July, 1851. Garland was arrested under the second section of the Act of March, 1840, entitled “An Act to abolish imprisonment for debt.” He was released on giving Ms bond, with Beach as one of his sureties, conditioned that he should not depart from the State for the term of three months, without the leave of the court; or in case of his departure without such leave, that the said Garland, or Ms sureties, shall pay the amount of the judgment rendered in the cause, &c.
+Garland immediately left the State, and did not return until November following. Judgment, by default, was taken against him, but before it was confirmed he obtained a rule against the plaintiff, having for its object to set aside the writ of arrest. The rule was discharged, on the ground that more than three months had elapsed since the arrest. The ground on which this rule was granted, was the alleged falsity of the plaintiff’s affidavit, and the consequent illegality of arrest, &c. Execution was afterwards issued on the judgment against Garland, and on the return of nulla Iona, the present proceeding was taken against the surety.
+The bond given in this case, under the statute, resembles that formerly required from debtors in custody, to enable them to enjoy what were then called the prison limits which, in New Orleans, at one time were confined to a single street, but afterwards, in 1823, Were extended to the limits of the city. The debtor, arrested under this act, has the whole range of the State, and the object of the law .giving the creditor the right to restrain him during the three months, is to compel Mm to pay the debt, or to make an honest surrender of his property under the insolvent laws. There can be no question that the departure of the debtor from the State, during this term, without leave of the court or authority from the creditor, operates a forfeiture of the bond. Thompson v. Blackwell, 5 L. R. 466. Gwynne on Sheriffs, 156. Landley v. Hagens, 11 R. R. 204.
+It seems to us repugnant to all sound ideas of justice, to allow a surety on a bond like this, after its condition has been broken and after judgment rendered against the principal, to falsify the affidavit under which the proceedings were instituted. It is contrary to the universal practice, and has no semblance of authority to support it here, or elsewhere, that we ever heard of. In Dalton v. Barnes, 1 Merle and Selwyn, 230, Mr. Justice Bayley said, there was not an instance in which the party, after putting in bail above, had been permitted to take advantage of a defect in the affidavit to hold to bail. Petersdorf on Bail, 196. Tidd’s Practice, 1044.
+In the case of Thornhill v. Christmas, cited by the counsel for the defendant, the court permitted the surety, on a bond under this act, to avail himself of the defence that the arrest was not warranted by the statute, it having been made after judgment rendered, as a means of coercing payment by imprisonment, and the proceeding being virtually a reestablishment of the writ of capias ad satisfaciendum, which the statute had abolished.
+In the cases of Herrick v. Conant, 4th Ann. 276, and Quine v. Mayes, 2 R. R. 511, the objections of the sureties were to the validity and effect of the judgment which the sureties bound themselves to satisfy.
+Rost, J., concurs in this opinion.'
