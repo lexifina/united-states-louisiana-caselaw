@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1822-03"
+citations: ["11 Mart. (o.s.) 32"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BALDWIN vs. PRESTON."]
+source_url: "https://static.case.law/mart-os/11/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6681784
+---
+
+# Baldwin v. Preston
+
+## Majority (Martin J.)
+
+Martin J.
+delivered the opinion of the court. The plaintiff charges, that in March, the defendant received from him a ¶ non check on the bank of Kentucky, for collection; th at he has collected its ainouri't, `an4 refuses to pay it over.
+East'n District.
+March, 1822.
+Preston for a considerable time, when said William wrote that sickness had hitherto prevented his attention to the collection of the check; that he was on his way to Virginia, would collect the money and deposit it in the bank at Frankfort, which was done; that the defendant sent his own check to Charles W. Taylor, to receive and forward the money; but as it was deposited ih William Preston’s name, the check was not paid; that said William is since dead, and the money Irj• ~~ defend ant answered, that in March 1820, be received from the plaintiff; a checi of the bank of Orleans, on that of Kentucky for six hundred dollars, for collection; that hi advised the plaintiff. who anthorised thi money to be obtained from the batik of Or leans, that this could not be done; whereupot the dekx$ant was requested to send 1h check to Kentucky for collection; that hi therefore forwarded it to William Preston, i person of good character, to whom the defen dant entrusted his own business, and wt~ was named ta, and approved by the plaintiff~ that the defendant heard nothing from stilt remains in the bank at F rankfort; that * _ _ / the original check being payable in Kentucky bank notes, and such notes having been receive(j an(j deposited by William Preston; the defendant, in order to stop the unfounded complaints of the plaintiff^ contracted for notes of the bank of Kentucky, and offered to pay in such notes, or to procure them.
+There was judgment for the^dfefendant, and the plaintiff appealed.
+Fitzhugh, a witness for the defendant* deposed, that he believes the late William Preston received in March or April, 1820, for collection, the check mentioned in the petition: that the cashier of the bank of Kentucky told him, that such a check was handed into the bank by W. Preston, with directions to pay the amount to his or A. {rales’ order. The witness knew William •Preston; he bore a good character, and was trust-worthy. He was much indisposed, and unable to attend to business in the summer ⅝ of 1820. The witness saw the entry on the books of the bank, relative to the check; the money is still there in deposit. William Preston' went to Virginia, and the witness believes he died in the winter of 1820 or .1821.— The witness has seen the defendant’s letter and check, to Charles W. Taylor, who was directed to apply the proceeds to the payment of some land in Indiana. The cashier of the bank told witness, that the money was not paid to Taylor, because it was deposited in Wm. Preston’s name. It is still in the bank. The bank of Kentucky stopped specie ^áyméñt^i| January, 1820. If specie could be recovered from the bank of Kentucky, on the check, the witness believes it could on its notes,* The money was still deposited in the bank on the first of this month.
+Bingey deposed, that the plaintiff informed him he was desirous of being informed of the proper mode of collecting a check of the bank of Orleans, on that of Kentuckyand the witness recommended to him to employ -the defendant, and the plaintiff afterwards informed lum that he had done so, and the defendant had sent the check to William Preston, in Kentucky.
+E. Allen deposed, that A. Gales, to whom the check, from the bank of Orleans, was originally payable, owed her about $400, and sjbe was to be paid out of the proceeds of the check; the plaintiff informed her, he had employed the defendant to collect the amount ofthe check, and that the defendant had sent it to Wm. Preston. The plaintiff lately told her the defendant offered to pay in Kentucky notes, which the witness declined receiving.
+The cashier of the bank of Orleans deposed, that about a year ago, the defendant presented a check of that bank, on that of Kentucky, originally payable to A. Chafes, then in the possession of the plaintiff Payment was refused, as it had not been returned within a reasonable time, having been drawn 18 mouths before — about ten days before, the samé check was presented by the plaintiff, \vho said payment had been refused in Kentucky, on the ground of a check of the same amount having been paid, but he believed the reason was, they did not wish to pay specie. The bank of Kentucky continued to pay specie for about a year after the check was drawn; but a few months before the plaintiff presented the check in New-Orleans, it was known there, that the bank of Kentucky had ceased to pay specie. With a great deal of trouble Kentucky notes might be disposed óf afthree per cent, discount.
+Hennen for the plaintiff, Éustis fbr the defendant.
+The plaintiff admitted on record, that the check, in the petition was, on presentation, by William Preston, carried to his credit, and that the money is still in deposit there.
+The plaintiff was aware that the defendant did not undertake to collect the amount of the note himself and the agent, he employed for that purpose, was known to the plaintiff Untoward circumstances, not within the control of the defendant, have prevented the money from coming. into his hands. It is true, he made an unsuccessful attempt to obtain it, with the view of its being applied to his own concerns. This he might lawfully do, and the moment the money would have been in his agent’s hands (Taylor’s) lie would hare been accountable to the plaintiff In this, however, he has failed, and it is admitted, that the money is still deposited in the Kentucky bank, as^William Preston left it. Surely the defendant has been guilty of no latches, of no improper conduct, and the plaintiff ought not to recover.
+It is therefore ordered, adjudged and de-_ creed, that the judgment of the district court be affirmed with costs.
