@@ -1,0 +1,30 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1846-06"
+citations: ["1 La. Ann. 181"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Succession of Ducloslange."]
+source_url: "https://static.case.law/la-ann/1/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8506003
+cites_cases: ["6 La. 212"]
+---
+
+# Succession of Ducloslange
+
+## Majority (King-, J.)
+
+The judgment of the court was pronounced by
+King-, J.
+Eulalie Ducloslange died in the city of New Orleans, leaving neither ascendants nor descendants, nor legitimate collateral relations. She left, however, a surviving husband, from whom she had not been separated from bed and board. Shortly after her death, her natural brother, Phillip Duclos-lange, presented a petition to the Probate Court, in which he represented himself, his three sisters, and the children of a deceased sister, to be the heirs of Eulalie, and claimed the administration of her succession. Ternoir, the surviving husband, opposed the appointment of the applicant, claimed the succession as having fallen to him, and prayed to be put in possession of it, under arts. 918, 924 of the Civil Codo. The probate judge determined that the succession was vacant, overruled the opposition of Ternoir, and appointed PhiWio Ducloslange the curator. From this judgment Ternoir has appealed.
+Among the few rules which govern irregular successions, and prescribe the formalities by which those who are called to them are to be put in possession, we And none which require that they shall be administered differently from other successions, when an administration becomes necessary. We think it results from a comparison of the various articles of the Code relating to successions, that irregular successions may either be accepted with the benefit of inventory, in which event they are to be administered under the rules prescribed for the administration of beneficiary estates, or that they may by accepted purely and simply by the person called to the inheritance, when no administration would be required, unless under the contingencies stated in the 1005th article of the Code. They are clearly not to be regarded as necessarily vacant. A succession is vacant when no one claims it, or when all the heirs are unknown, or when the known heirs have renounced it. Civil Code, art. 1088 In the instance now under consideration, two classes of persons, the natural brother and sisters and the surviving husband, were present, both claiming the inheritance. The former, under the 917th article of the Code, which gives tho estate of the natural child, whose father and mother have died before him, to the natural brothers and sisters and their descendants; and the latter under the 918th article, which calls to the inheritance of the wife, the surviving husband, not separated from bed and board from her, when she has died without leaving lawful ascendants, descendants, collateral relations, or natural children, duly acknowledged.
+The probate judge erred in considering the succession to be vacant, and tho appointment of a curator to it was irregular.
+But it is contended that an administration is required upon every succession, whether the heirs be present or absent; and that Ternoir, having alleged in his opposition no better right in himself to the administration, the appointment was properly conferred on the applicant, P. Ducloslange■
+The first of these positions we think untenable. The articles of the Codes, and the decision of the Supreme Court, relied on as favoring that view, all relate to beneficiary successions. Civil Code, arts. 1034 to 1040. Code of Pract. art. 976. 6 La. 212. Heirs of full age may accept, purely and simply, a succession falling to them, take possession of it, pay its debts if any exist, and make a parti • tion of it among themselves, without the appointment of an administrator, or the intervention of the Court of Probates. It is true, the creditors may require an inventory, and security from the heir who has accepted the succession unconditionally; and that, upon his failure to furnish the security, an administrator is to be appointed. Civil Code, art. 1005.
+In the case of Erwin's Heirs v. Orillon, 6 La. 212, the Supreme Court could not have intended to decide that, a succession should, of necessity, be administered by an administrator or curator, even when accepted unconditionally. Tho question was not then before the court; the subject under discussion was a beneficiary succession. If the opinion is to be understood as contended for by the appellee’s counsel, it will stand in conflict with the textual provisions of the Code.
+The appointment of a curator, or administrator, does not seem to be contemplated by the Code, as a prerequisite to putting in possession the person called to the inheritance of an irregular succession. The only officer whose appointment is required for that purpose, is a person to defend the interests of the absent heirs, inthe event of there being any. Civil Code, ait. 924.
+When the husband presented himself, claiming the succession of tho do-ceased, all further proceedings upon the application for the administration should have been suspended, until he had produced proofs in support of his claim ; and, if these had been sufficient, the court should have put him in possession upon his complying with the previous requisites of the law, and have dismissed the application for letters of administration.
+It is, therefore, ordered that the judgment of the Probate Court be avoided and reversed, and the cause remanded, with instructions to the judge to hear and determine upon the application of Jean Ternoir to be put in possession of the succession of Eulalie Ducloslange, deceased, as her surviving husband; tho appellee paying the costs of this appeal; the costs of the lower court, to abide the result of the litigation there.
+Benjamin and Micou, for the appellant. Grivol and Boselius, contri!.
