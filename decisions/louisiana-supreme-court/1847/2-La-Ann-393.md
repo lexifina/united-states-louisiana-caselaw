@@ -1,0 +1,27 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-04"
+decided_precision: "month"
+citations: ["2 La. Ann. 393"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sanders v. Carson, Administratrix."]
+source_url: "https://static.case.law/la-ann/2/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 335127
+cites_cases: ["12 Rob. 666", "9 Rob. 83"]
+---
+
+# Sanders v. Carson
+
+## Majority (Rost, J.)
+
+The judgment of the court was pronounced by
+Rost, J.
+The plaintiff obtained an injunction, to prevent the sale, under an order of seizure, of certain property, adjudicated to her as belonging to the community which had existed between her and her late husband, James Sanders. The facts of this case are substantially as follows: James Sanders and the plaintiff were married in 1810. Sanders died in 1839, leaving as the issue of his marriage James Sanders, Mary Sanders, the defendant Mary Carson, and Susan and Eliza Sanders, the two last being minors at the time. In December, 1839, James Sanders was appointed administrator of the succession of his father, and he subsequently convoked a family meeting of the minors, who advised that certain slaves and immovables, stated by them to belong to the community, should be adjudicated to the plaintiff, and that the remainder of the projjerty should be sold. These proceedings were duly homologated, by a decree of the Court of Probates sanctioning the- adjudication and ordering the sale. The property not adjudicated to the plaintiff was sold in execution of the decree. In March, 1843, the administrator rendered his account, showing a balance in his hands, after paying all the claims presented against tho succession, and also uncollected' claims to the amount of $1,679 26, besides the price of adjudication due by the plaintiff. Mary Carson was subsequently appointed administratrix, and caused an order of seizure to issue on the mortgage retained to secure the price of the adjudication made to the plaintiff.
+The plaintiff enjoined the proceedings on various grounds, among which the-following are deemed material: 1st. That the slaves and property seized belong to the community which existed between the petitioner and her husband, and have been adjudicated to her as surviving partner of the community and as co-proprietor, and that the administratrix has no right to proceed against her until her portion has been definitively fixed, by a partition and settlement of the community, 2d. That Mary Carson, the administratrix, was also a purchaser at the sale of the succession to the amount of $1,116, which she is bound to apply to the payment of any claims against the succession, if any are still due, before calling on the petitioner. 3d. That the District Court has no jurisdiction, and cannot compel the payment of the notes as claimed; and that the Court of Probates alone has jurisdiction to fix the part and portion coming to each heir.
+The answer denies that the property adjudicated belonged to the community, and avers that the plaintiff is bound to pay the price, as any other purchaser. The plaintiff amended her petition, and alleged that, since the institution of this suit, she and the heirs have sold all the lands and improvements seized to H. Anderson, and that by her obligations in the act of sale, the defendant is bound to dismiss the order of seizure and sale.
+The defendant admits the sale, and that she received, in her capacity of administratrix, tho sum of $1,000, outof the price; but she denies that this sale deprives her of the right to proceed as she has done, and prays that the proceedings may be changed from the via. executiva to the vid ordinarid, and that she may have judgment for the several sums claimed, except the price of the land and improvements. The court below perpetuated the injunction, and the defendant has appealed.
+The judgment of adjudication having been rendered by a court of competent jurisdiction, and no fraud or spoliation being shown, its validity cannot be enquired into collaterally; and, for the purposes of this enquiry, we must take it for granted that the properly adjudicated formed part of the acquéts and gains made during the marriage, one half of which belonged to the plaintiff. It may be true that the administratrix has the right to collect from the plaintiff a sufficient amount to pay the debts of the community; but she has not shown the existence of those debts. All the claims presented to the former administrator were satisfied by him, and there were left in his hands money and credits which the present administratrix must have received.
+In the sale of the land to JHJ. Anderson, to which the administratrix was a party, it was stipulated that she should receive from the purchaser, in part payment of the price, the amount necessary to discharge the debts of the succession, leaving in the hands of the said purchaser the balance of said price, until the final settlement and partition between the heirs according to law. As the administratrix claimed and received one half of the price only under this agreement, we must presume that no more was necessary to pay the debts.' If this presumption should be unfounded in truth, the defendant cannot seize the property of the plaintiff till she has exhausted the fund placed at her disposal for the purpose of paying debts, and shown in a proper manner the application of the fund, and the debts remaining unpaid. Judgment affirmed.
