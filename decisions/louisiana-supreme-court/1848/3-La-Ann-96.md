@@ -1,0 +1,27 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-01"
+citations: ["3 La. Ann. 96"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of New Orleans v. The Commercial Bank."]
+source_url: "https://static.case.law/la-ann/3/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4818663
+cites_cases: ["5 Rob. 235"]
+---
+
+# City of New Orleans v. Commercial Bank.
+
+## Majority (Eustis, C. J.)
+
+The judgment of the court was pronounced by
+Eustis, C. J.
+An injunction was obtained at the instance of the plaintiffs against the defendants’ paying to the stockholders a dividend of $2 a share, and after a trial before the Third District Court of New Orleans the injunction Was made perpetual, and the defendants have appealed.
+One of the grounds upon which the injunction was granted was that, the banking affairs of the company are in liquidation under the laws of the State for the liquidation of banks. By a decree of the late court of the First Judicial District, certain proceedings were homologated, by which the appointment of commissioners was recognized to liquidate the hanking affairs of the Commei-cial Bank under the exclusive control of the stockholders, with the proviso contained in the 27th section of the' act of 14 March, 1842, entitled An act to provide for the liquidation of banks, &a. Under the 7th section of the act of 5th February, 1842, relating to the charters of the banks in New Orleans, the corporation of the Commercial Bank, having constructed its water works, retained its powers and privileges necessary to manage and conduct the same until the expiration of the term fixed by its charter. By a decree of the late court of the first district, previous to the appointment of the commissioners, the charter of the corporation, so far as it related to its banking powers, had been dissolved, and since that period its affairs have been distributed — those relating to the banking concern under the control of commissioners, and its water-works under that of a board of directors, both appointed by the stockholders. The situation of this institution is anomalous ; but there appears to be but one object in the laws under which its peculiar situation has been created, and in the stockholders at whose instance this anomaly was produced in the management of their own property, and that is, that its banking concerns should be liquidated and terminated, and the business of the corporation exclusively confined to the water-works. As long as there are debts of the former bank which are unprovided for, it strikes us as self-evident that the making of dividends is totally inconsistent with the liquidation of its affairs. We are aware of the caution which a court of justice must exercise in interfereing in the affairs of a private corporation under ordinary circumstances, and of the discretionary power necessarily vested in those who have the responsibility of conducting them, but the claims set up by the plaintiffs grow out of a state of facts which, under our peculiar legislation, we think calls for interposition.
+. The plaintiffs, representing the corporation of the city of New Orleans as it formerly existed, are stockholders of the bank, having five thousand shares, for which bonds of the city were issued payable in forty years from date, bearing an interest of five per cent per annum, payable semi-annually. They were made in favor of the bank, and were negotiated under its endorsement at a profit. The dividends on the stock held by the city were tobe retained by the bank, and applied, first, to the payment of the interest due on these bondsj and the surplus to be passed to the credit of the city, to be set apart as a sinking fund applicable alone to' the payment of the bonds when they should become due. , t
+The unqualified and imperative appropriation of these dividends to the payment of the interest on the bonds, as well as tile principal, at the time they fall due, is not only fixed by an article in the charter of the bank, but has been sanctioned without any reservation whatever in two decisions of the Supreme Court, in cases between these identical parties. 11 Louisiana Reports, 219. 5 Rob. 235.
+The interest on these bonds has not been paid by the bank since 1842 or 1843, notwithstanding there is an accumulation of dividends at the credit of the city amounting to $130,000. For this omission we have been unable to find any reasonable excuse or justification, and the rights of the plaintiffs to’ insist on the execution of this provision of the charter, which was one of the conditions on which the privileges secured by it were granted, we cannot refuse to them. The division of the administration of the banking portion from the other business of this corporation produces no change in its obligations to its creditors or the stockholders; its debts, and the duties imposed by the charter, remain as before the surrender of their banking privileges under the liquidating law.
+From the evidence we are satisfied that the best interests of the stockholders themselves require that their charter should be in all things respected, and that no dividends should be made until their just debts are paid or safely provided for.
+Our opinion in relation to the payment of this interest on the city bonds being as stated, it is unnecessary to examine the other points which have been presented in argument. Judgment affirmed.
