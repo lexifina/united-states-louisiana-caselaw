@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-01"
+decided_precision: "month"
+citations: ["2 La. Ann. 79"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marshall v. McCrea."]
+source_url: "https://static.case.law/la-ann/2/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 334649
+---
+
+# Marshall v. McCrea
+
+## Majority (lime-, J.)
+
+The judgment of the court was pronounced by
+lime-, J.
+This action was instituted to recover from the defendant, McCrea, who resides out of the State, the amount of several promissory notes. The suit was commenced by an attachment, under which the plaintiff caused to be seized a judgment which had been rendered against him, and' in favor of McCrea. McMasters intervened in the suit, and claimed the judgment attached, under an assignment from Me Crea, made while the cause in which the judgment was rendered was yet pending on appeal. The plaintiff answered the intervenor’s demand by denying the transfer of the judgment, and alleging that, if it had been made, it was fraudulent and void. A judgment was rendered in the court below in favor of the plaintiff and against the defendant, for the amount of the notes, with five per cent interest from the date of protest, subject to two small credits admitted in the petition, and the intervenor was decreed to be the owner of the judgment attached. The plaintiff has appealed, and contends: 1st. That the judgment attached was extinguished by compensation, previous to the purchase by the intervenor. Sd. That it was a litigious right at the date of the assignment, and that he should be permitted to liberate himself from it, on paying to the intervenor $500, the price for which he purchased it. 3rd. That the court below should have allowed him eight per cent interest on the amount of the notes from their date, instead of five per cent from the date of their protest.
+I. Compensation has not been pleaded either in this court or in the court below. The issue has not been made, and the plaintiff cannot avail himself of that ground of defence against the intervenor’s demand, without pleading it specially. C. P. art. 367. It may further be remarked that, this ground assumed by the plaintiff is inconsistent with the averments of his petition, where it is alleged that the judgment was the property of the defendant at the date of the attachment, subject to seizure. It could not have been a subsisting debt, subject to attachment, at a time when it had been extinguished by compensation, as it is now contended.
+II. The demand purchased by the intervenor was unquestionably litigious at the date of the transfer, as it was the subject of a suit then pending between Marshall and Me Crea; that litigation, however, had ceased before the inception of the present suit, and with it had ceased Marshall’s right to claim a release from the judgment, on paying the amount for which it had been purchased by the intervenor. The demand had lost its litigious character by a judgment, which had finally determined the rights of the parties. The object of the law relating to the sale of such claims is to suppress litigation. That object no longer exists, when the controversy between the parties has been finally adjudicated upon. Marshall could only have exercised the right granted by art. 2622 of the Code, during the pendency of the suit between himself and Me Crea, while the demand retained its litigious character. He had then tlio alternative, upon being notified of the transfer, either to persist in defending the suit, or to be released from the demand by paying the price for which it liad been transferred. He chose the former. Duvergier, de la Vente, nos. 374, 375. Troplong, de la Vente, no. 987. Bulletin des Arréts de la Cour do Cass, 1 Jan., 1831, vol. 33, p. 55. The evidence shows that the judgment was assigned to the intervenor in good faith, of which the plaintiff was duly notified, long prior to the attachment.
+III. There is a stipulation in the notes for the payment of eight per cent interest from their date. The judge below has allowed but five per cent from the date of protest. In this respect the judgment is erroneous, and must be corrected.
+It is therefore ordered and decreed that so much of the judgment appealed from as condemns the defendant to pay the plaintiff five per' cent interest on the sum of $1,200, from .the dates of the protests of the notes sued on, and decrees to the defendant a like rate of interest on the credits allowed in said judgment of $80 and $250, be avoided and reversed. It is further ordered that plaintiff have judgment against and recover from the defendant eight percent yearly interest on said sum of $1,200, from the 30th day of April, 1842, until paid, and that a like rate of interest be allowed on said credits of $80 and $250 from the dates when they were respectively paid. In other respects said judgment is affirmed, the defendant paying the costs of this appeal.
