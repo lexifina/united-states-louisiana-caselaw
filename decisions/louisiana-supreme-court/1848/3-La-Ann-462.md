@@ -1,0 +1,33 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-05"
+citations: ["3 La. Ann. 462"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lee et al. v. Bullard et al."]
+source_url: "https://static.case.law/la-ann/3/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4817792
+---
+
+# Lee v. Bullard
+
+## Majority (King, J.)
+
+'The opinion of tbe court was pronounced by
+King, J.
+The plaintiffs instituted this suit on two promissory notes, of which C. IC. Bullard was the maker. They alleged that C. A. Bullard was a partner of the firm of C. IC Bullard, that the notes were given for the business of the partnership, and prayed for a judgment, in solido, against both of the defendants. In a supplemental petition the plaintiffs alleged that the defendants were about to leave tbe State permanently, and on that ground obtained an attachment, which was executed by the seizure of a stock of merchandize and other effects in the possession of C. A. Bullard Sf Co., which firm was composed.of C. A. Bullard and F. M. Granger. C. A. Bullard, in aseparate answer, denied that he was ever a partner of C. IC. Bullard, or indebted to the plaintiffs. The firm of C. A. Bullard 4' Co. intervened in this suit, and alleged that they were the owners of the greater part of the merchandize •attached, which they prayed should be restored to them. To this intervention the plaintiffs answered that, the intervenors held the property attached under a transfer from C. K. Bullard, which was fraudulent and simulated, and intended to protect the property of C. K. Bullard from the pursuit of his creditors. R. Williams and J. McFall also intervened, claiming each a part of th* merchandise attached, alleging that they had purchased the goods by them claimed prior to the sheriff’s levy. C. B. Bullard likewise intervened, and prayed for .a judgment, with a privilege, for a sum alleged to be due for his salary, as clerk of C. A. Bullard 4* Co. There were other interventions to which it is unnecessary to refer, as no questions in relation to them arise. The judge below held C. A• Bullard to be liable to the plaintiffs asa partner of C. IC. Bullard, and rendered a judgment against those parties, in solido, for the amount of the notes. He decreed the sale from C. IC. Bullard to C. A. Bullard S¡- Co. to be valid, and maintained the attachment as to C. A. Bullard, but dissolved it as far as it affected the interest of F. M. Granger in the merchandize seized. The interventions of Williams and McFall were dismissed, and a sum of $90 decreed to C. B. Bullard with a privilege. From this judgment C. A. Bullard 4- Co., Williams and McFall and C. B. Bullard have appealed.
+We think that the district judge did not err in determining C. A. Bullard ¡to be liable as a partner of C. IC. Bullard. At the date of the notes he was in the employment of C. K. Bullard, with no fixed salary. His compensation depended on the profits; if none were made, he was to receive nothing. Besides this, participation in the nett profits on several occasions, he held himself out as a partner, and thus clearly rendered himself liable'.- Story on Partnership. The evidence, however, satisfies our minds",'that C. A. Bullard owned no part of the stock in trade of the firm of C. K. Bullard, and had no interest whatever therein, further than to receive a part of the profits realized, as a com. pensation for his services. As between themselves, we think that the parties intended to create no partnership. The transfer, therefore, from C. K. to C. A. Bullard Sf Co., must be considered as though- it had been made to entire strangers. The evidence, in our opinion, establishes the reality and good faith of the sale. That sale was made prior to the commencement of these proceedings. C. K. Bullard had, therefore, previous to the attachment, been divested of his ownership, and had no attachable interest in the merchandize. But the share of C. A. Bullard in this property, which belonged to a firm of which he was a partner, was subject to seizure in satisfaction of his separate' debt due to the plaintiffs. It is now urged that only the interest of C. A. Bullard in the firm of which he was a member was subject to- attachment, and not the property of the firm.
+We understand the judgment of the CoUrf below only fo maintain the attachment for the share of C. A. Bullard. No more could have been legally attached or sold. But the parties have a community of interest in every part, as well as in the whole, of the partnership effects. The sheriff, therefore, can only make an effectual seizure of the undivided interest of a partner; and preserve it to abide the result of the suit, by taking actual possession, as was done in the present instance, of the entire property attached, which he holds jointly with the other partners. C. C. aft. 2394. 4' Mart. N. S. 185. Story on Partnership, no. 261, et seq.
+The interventions of Williams and of McFall were correctly dismissed. The evidence shows that the articles claimed by them had not been delivered, at the date of the seizure, and while they continued in the possession of the vendors they were subjectto attachment for the debts of the latter. C. C. art. 1917.
+The evidence fully sustains the judgment of the district judge in relation So-the' claims of C, A. Bullard.
+The goods sold to Williams were on a credit, and his note received for the price; those to McFall were to have been paid for in cash, but no payment had been made at the date of the attachment, 3L
+
+## Rehearing (King,.J.)
+
+Same Case — ON a Re-hearing.
+THE judgment of the court was pronounced by
+King,.J.
+The principal question at issue in this cause is the' reality of and good faith of a sale of a quantity of merchandize, which sale the plaintiffs allege to be fraudulent. ,Our first examination brought us to the conclusion that the judgment of the inferior court was supported by the law and the evidence. Involving, as the cause does, a question of fraud in a commercial transaction, the proof of which, if it exists, depends upon numerous facts disclosed by witnesses, we have, upon further consideration, thought that the most appropriate forum for the trial of the issues presented would be a jury of merchants ; arid that the ends of justice would be best promoted by remanding the cause for the purpose of enabling the parties, if so disposed, to submit it to a jury thus composed.
+It is, therefore, ordered that, the judgment of the District Court be reversed; and that the cause be remanded for a new trial, the appellees paying the costs of this appeal.
