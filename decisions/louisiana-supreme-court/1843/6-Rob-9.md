@@ -1,0 +1,24 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1843-10"
+citations: ["6 Rob. 9"]
+reporter: "rob"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Martha J. Caldwell and others, Heirs of David B. Copper, v. Samuel Glenn, Curator of the vacant Succession of said Cooper."]
+source_url: "https://static.case.law/rob/6/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2519706
+cites_cases: ["2 La. 172"]
+---
+
+# Caldwell v. Glenn
+
+## Majority (Morphy, J.)
+
+Morphy, J.
+This is an appeal taken by the curator of the estate of the late David B. Cooper, from a judgment recognizing the petitioners as the heirs at law of the deceased, and decreeing to them the possession of his estate. The appellant has placed his case before this court upon the following assignment of erroi's appai’ent on the face of the record, to wit: “ That there was no legal citation, and no judgment by default, nor answer in the case.”
+The recox'd shows that a citation was served upon the defendant, but it is clearly defective and insufficient. It does not mention the title of the cause, the residence of the defendant, nor the place where the office is held in which he was cited to appear and file his answei'. These requisites, and especially the last mentioned one, are expressly required by article 179 of the Code of Practice. It has been urged, that whatever may be the defects of the citation, the defendant cannot avail himself of them, because the record shows that he had full knowledge of the suit. In Wall v. Wilson, 2 La. 172, we said that knowledge of a suit on the part of the defendant, no matter how clearly brought home to him, will not supply the want of citation. It would have been, perhaps, sufficient to notice these defects in the citation, but as the judgment must be reversed, and the casé remanded for further proceedings, it is proper to express our opinion on the necessity of a judgment by default being taken in a proceeding of this kind, as well as in an ordinary suit, before any final judgment can be legally obtained. The appellees’ counsel has contended that under art. 1000, and the following, in the Code of Practice, the proceeding instituted by the petitioners was a summary one, and that no judgment by default was necessary. We think otherwise. Article 1000 requires of the heirs, or other persons entitled to successions which are administered by curators or executors, to present a petition to the Judge who appointed or confirmed them, praying that such curators or executors may be cited and compelled to account for their administration. Article 1001, requires the claimants of a succession to file, along with their petition, all their proofs, that the curator or testamentary executor may examine them ; and the following article provides that the Judge shall pronounce on their claim, in a summary manner, as soon as the time allowed for the curators or executors to answer, shall have expired. These provisions indicate, that the heirs must proceed by a suit in the ordinary form, and they are required to file the documentary evidence they may have in support of their claim, that the defendants may make in their answer whatever objections to it, they may think proper to urge. The last article provides, it is true, that the Judge shall pronounce on the claim of the heirs in a summary manner; but this has nothing to do with the pleadings in the suit. It only means, as is shown by article 1034, that the Judge shall pronounce upon it with the greatest practicable celerity, and give it a preference over the ordinary cases ; but it is clear, that in actions of this kind, as in every other suit, there must be an issue joined before any final judgment can be rendered. If the curator or executor does not answer, that issue must be made by means of a judgment by default. Code of Practice, arts. 310, 312 ; 6 Mart. N. S. 2, 11 ; 8 Ib. N. S. 339. After issue is thus joined, the Judge, if satisfied from an examination of the evidence that the claimants are entitled to the succession, shall put them in possession of it, and shall direct the curator or executor to render an account within a reasonable time, to be fixed by him. Art. 1003. As the heirs in this case, proceeded correctly in the first instance, by filing their petition and all their proofs in the Court of Probates, as they were required to do by law, we think that the case should be remanded, in order that the Judge may issue a new citation to the curator.
+Ryan and Purvis, for the plaintiff.
+Mayo, for the appellant.
+It is, therefore, ordered, that the judgment of the Court of Probates of the Parish of Catahoula be reversed, and that this case be remanded for further proceedings; the appellees paying the costs in both courts.
