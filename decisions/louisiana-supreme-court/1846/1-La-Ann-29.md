@@ -1,0 +1,36 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1846-04"
+citations: ["1 La. Ann. 29"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCrea v. Marshall."]
+source_url: "https://static.case.law/la-ann/1/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8504940
+cites_cases: ["2 Rob. 211", "3 La. 211"]
+---
+
+# McCrea v. Marshall
+
+## Majority (King, J.)
+
+The judgment of the court was pronounced by
+King, J.
+On the 7th of March, 1842, the plaintiff McCrea, purchased from Thomas Barnard, a tract of land, lying in the parish of Terrebonne, represented in the act of sale to contain 760 acres, for the price of $6080, for which sum the purchaser gave his promissory notes, bearing eight per cent interest from .their date, and a mortgage was retained upon the land to secure their payment.
+In 1843, Marshall, the defendant, purchased those notes from Barnard. Pending the negotiation for their transfer, both parties were notified by McCrea, .that a deficiency of 190 acres had been discovered in the quantity of the tract. Acting tqion the supposed truth of this representation, a deduction was made by Barnard, of $700 or $800 from tho price which Marshall w&s to have paid for the notes. After the maturity of two of the notes, Marshall obtained an order .of seizure, by virtue of which the mortgaged property was sold on tho 24th June, 1844, and produced $7600, of which sum, $7206,99 were applied to the .extinction of his claim, that being the full amount of the notes, with the interest from thoir dato to the day of sale.
+McCrea instituted this suit against tfro defendant for the recovery of tho sum •which had thus been deducted from the price of the notes, with interest from the 7th March, 1842, alleging that the reduction had boon made for his benefit, and that Marshall had promised to give him the credit. There was a judgment in the court below in favor of the plaintiff for $750, from which the defendant has appealed. The plaintiff, in his answer to the appeal, asks that the judgment of the inferior court be so amended as to allow him interest, as claimed in his petition.
+The character of the transaction between Barnard and Marshall, the understanding of the parties in relation to it, and the assumpsit of Marshall, are to be found in a letter from the latter to McCrea, dated at New York, August 8th, 1843, from which the following is an extract:
+“On my airival here, yosterday, I received your favor of the 16th ult., and now haston to reply to your enquiries. I settled with Barnard by his deducting some $700 or $800, for the land you say is short. This was the only and the best settlement I could make, as he had all lire law on his side,- the land having been described in the deed by metes and bounds. Had hard work to get what I did. In truth, I considered it so much saved ; for, agreeably to tho law, my lawyer informed me Barnard was not bound to you for any deficiency, but only to me by way of misrepresentation, and even that, perhaps, somewhat doubtful. You are actually bound in the whole amount of the notes to tho holder of them — still I am willing to allow you the amount I got oil, less the expenses incurred in making the settlement.”
+The defences which Marshall opposes to the plaintiffs action are:
+1st. That there was no deficiency in the quantity of the land.
+2d. That the contact between himself and the plaintiff was subsequently modified, and the credit to be given made to depend upon prompt payment of the notes, which condition was not complied with.
+3d. In this court ho pleads, that the judgment ronderod for the seizure and sale of the mortgaged property has the force of the thing adjudged against the claim of the plaintiff.
+I. It does not appear, nor is it material to the presentinquiry, whether there wa3 or not a deficiency in the quantity of land conveyed by Barnard to McCrea. From the evidence, it is clear, that Marshall, acting upon the suggestion of the defendant, obtained a deduction of $700 or $800 from the price which he was to have paid for the notes. It is equally clear, that tho understanding of tho partios» at the time, was that the deduction was made for the benefit of McCrea, and that Marshall subsequently promised to credit him with the amount. It further appears, that Marshall has collected from Me Urea the full amount of tho notes, with eight per cent interest from their date.
+If, however, it were import,ant to ascertain whether the deficiency exist or not, the burthen of proof rests upon tho defendant, who pleads it specially as matter of defence.
+The fact that ho subsequently caused the land to be seized and sold, representing it in the proceeding and sale to contain seven hundred and sixty acres, is not sufficient proof to establish that to be tho quantity of tho tract; and this is the only evidence in support of that averment.
+II. An effort was made, upon the trial, to prove that, in January, 1844, a different contract was entered into between Marshall and McCrea, in relation to tho sum deducted from the price of the notos; but we consider the evidence adduced for that purposo insufficient. The proof of contracts or agreements above fivo hundred dollars in value, must bo made by at least one witness, and other corroborating circumstances. A single witness has testified in relation to it, and the record furnishes no additional circumstances in support of tho alleged agreement. Civil Code, art. 2257. 3 La. 211. 19 La. 2C5. 2 Rob. 211.
+III. In support of the plea of res judicata, tho defendant relies upon the order granted for the seizure and sale of tho mortgaged property, contending that the plaintiff should have urged his claim in that proceeding. It was not pleaded, however, in compensation, or otherwise, and has never been in contest between the parties, or the subject of judicial inquiry, until the commencement of this suit. The fact that he abstained from availing himself of it in a former suit, does not preclude him from claiming tho sum in a separate action. 6 Mart. N. S. 252. Civil Code, art. 2265.
+Tho court below awarded to tho plaintiff $750, which we think just; but it erred, in our opinion, in not allowing eight por cent interest upon this sum, from the date of the notes to that of tho sale; and further, in not allowing interest upon tho principal sum, from judicial demand. Marshall has collected from tho plaintiff the full amount of tho notes, with eight per cent interest from their date. Had the credit due been given, to talco offect from the date of tho notes, interost upon that sum would have ceased to accrue; and Marshall would have collected upon his execution, the price of the land, less $750, with eight per cent interest from 7th March, 1842.
+It is, therefore, ordered and decreed, that tho judgment of the Commercial Court be amended; and that, in addition to the sum of $750, awarded in said judgment to the plaintiff, he rocovcr of tho defendant the sum of $137,50, being tho interest at eight per cent, from tho 7th March, 1842, to the 24th June, 1844, upon the said sum. It is further ordered that the plaintiff have legal interest upon $750, from judicial demand. In other respects, said judgment is affirmed, with costs.
