@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1846-06"
+citations: ["1 La. Ann. 136"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Holmes v. Steamer Chieftain and owners."]
+source_url: "https://static.case.law/la-ann/1/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8505738
+cites_cases: ["10 La. 409"]
+---
+
+# Holmes v. Steamer Chieftain
+
+## Majority (Kras, J.)
+
+The judgment of the court was pronounced by
+Kras, J.
+This action was instituted to recover $600 damages, and $500 the penalty of the statute of 1840, for an alleged transportation of a slave out of the State, upon the steamboat Chieflain, of which the defendants are the owners. The cause was submitted to a jury, who returned a verdict in favor of the plaintiff, for $300 damages, and for $500, the fine prescribed by the act, in conformity with which a judgment was rendered, from which the defendants have ap-paaled.
+The plaintiff has moved to dismiss the appeal. The conclusion at which we heve arrived upon the merits, renders it unnecessary to consider this motion. The defendants assign as errors apparent upon the face of the record :
+1st. That the court erred in permitting the plaintiff to amend his petition by setting forth the names of the defendants, after an exception had been filed objecting to the omission as a defect.
+2d. In granting a new trial, upon the suggestion of the attorney of the plaintiff that he had, through mistake, described the slave abducted by the name of George, instead of Granville.
+3d. In permitting the plaintiff to amend his petition by stating the name of the slave to be Granville, instead of George as originally alleged, which amendment it is averred changed the substance of the action.
+The plaintiff appears to have founded his action upon the statute of 1840, which grants to owners a privilege upon vessels on which slaves are found in violation of its provisions, for both the damages and the fine; and he commenced his proceedings by a provisional seizure, alleging in his petition that the owners of the boat were unknown to him. The proceedings being in rem, it was not necessary that the names of the defendants should have been ascertained before commencing suit.- This presented no impediment to liis proceeding to final judgment and execution.- Code of Pract. arts. 290, 291. Bul. & Curry’s Dig. p. 847. The defendants,- however, chose to appeal, and, in their exception to the petition- for this alleged defect, disclosed their names, of which th’e plaintiff availed himself to amend his pleadings, which the judge did not err in permitting to be done. The nature of the action was not changed ; the exception taken- did not tend to the dismissal of the suit; and the plaintiff had a right to a judgment in pefsondm as Well as iríférrí.
+There were two trials of the cause in the lower court. Upon the first, the act of safe’of the slave in question was offered in evidence, but was objected to- and excluded, on the ground that the name of the slave was there stated to be' Granville, The testimony of two witnesses, deemed important, was also rejected, because if related to a slave named Granville. There was a verdict for the defendants. A motion was m'ade for a new trial, upon the ground, among others, that the’ counsel of plaintiff was not aware, when- instituting the suit,that the slave was known by another name than that stated in the petition; that he had been surprised by the objection made to the testimony which he had offered; and that' its exclusion had prevented the plaintiff from establishing his claim-
+The judge; in- assigning-his reasons for granting a new trial, expresses his belief, founded upon an examination of the testimony, that George and Granville were one and the same person, known by those different names.
+He' appears to have' considered that, with the aid of the excluded testimony,which could only be admitted under amended pleadings, the'plaintiff could establish his right to recover. With those convictions upon his mind, he exercised soundly the discretion'vested in courts of the first instance, in granting the new trial. 10 La. 409. The amendment did hot alter the substance of the demand ; it had for its object the furtherance of justice; and' was properly permitted.
+Upon the merits, we think that the evidence supports the verdict of the jury. An effort was made to impeach the veracity of the witness on whom the plaintiff mainly relies. This person was examined at two different times under commissions, and it is contended that his statement's on those’ occasions exhibit irreconcileable contradictions. After a careful examination and comparison of Ms answers, we find no discrepancies which may not be fairly ascribed to the natural infirmities of memory, or such as might not occur with the most truthful person testifying at different times. His narrative bears the impress of truthfulness, and, in those instances in which he‘ relates circumstances within the knowledge of other witnesses, his testimony is substantially corroborated. The question of Ms credibility was made before the jury, and they considered him worthy of belief.
+5t is contended that the evidence' does not show that the slave was on board of the boat within the limits of this State, without the written consent of the owner. Haile, one of the witnesses, states that, he embarked- at Bayou Sara late in the evening, and saw the slave on board the first or second day after, and that he continued on board until the witness landed in the State of Kentucky. Another witness says that, he had occasion to travel on the Chieftain in 1842, and that the time she then consumed in running from Bayou Sara to the northern limit of the State was nearly forty-eight hours. The overseer of the plaintiff states that the slave had absconded from Ms owner’s plantation in the parish of Point Coupee, and had been absent several weeks previous to the date of hit alleged abduction. These facts were submisted to the jury, who inferred from them that the slave was upon the boat within the limits of the State, withoul the owner's consent; and the evidence-does not authorise us to disturb theii verdict.- , Judgment affirmed.
