@@ -1,0 +1,31 @@
+---
+court: "Louisiana Supreme Court"
+docket: "9000"
+decided: "1884-01"
+citations: ["36 La. Ann. 60"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mrs. O. A. Fairex vs. The New Orleans City Railroad Co."]
+source_url: "https://static.case.law/la-ann/36/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8501557
+---
+
+# Fairex v. New Orleans City Railroad
+
+## Majority (Fenher, J.)
+
+The opinion of the court was delivered by
+Fenher, J.
+The petition of plaintiff herein represents that she is one of the three heirs of her father, John B. Schiller, who died in 1869, leaving a large community estate, including, amongst other property, two hundred shares of stock of the defendant company, of one-sixth of which, by virtue of her heirship, she became owner, and entitled to the interest and dividends therein; that her mother, Mrs. Schiller, qualified as executrix and as natural tutrix of petitioner, that she has recovered judgment against her mother, as late tutrix and executrix, for @30,000 'due as her share of the rents and revenues of the property left by her said father, not including her share of the stock aforesaid, upon which judgment execution has been issued and returned milla bona; that she has applied to her mother for possession of her share of said stock, without effect; that she is informed that the defendant company has unlawfully and without authority permitted one hundred and thirty-four shares of said stock to.be transferred by her mother to parties unknown, which transfers, as to peiitioner’s one-sixth thereof, are null and void, wherefore she prays to be recognized to have been owner of one-sixth of said one hundred and thirty-four, shares, together with the dividends accrued thereon, and foi; judgment for the market value of the same and for said dividends.
+The defendant answers, in substance, admitting the ownership of two hundred shares of stock in John B. Schiller at his death, of which plaintiff, as heir, became entitled to thirty-three and one-third shares, while Mrs. Schiller, as surviving partner in community, became owner of one hundred shares, or one-lialf of the whole, and was recognized and put in possession thereof by competent judgment of the probate court; that of the thirty-three and one-thiril shares owned by plaintiff, she has actually received twenty-two shares, and that she had sanctioned the transfers made by her mother of her remaining interest; and that the dividends were properly paid to her mother, or her transfer-rees, as legal usufructuary of the entire property. As to the stock, it is unquestionably true that plaintiff never owned and does not pretend to ha.Ve ever owned but thirty-three and one-third shares. It is equally true that she has received twenty-two shares thereof. The attempt of defendant to establish her consent to the transfer by her mother of her remaining interest, has not, in our judgment, been successful, and she is therefore entitled to the remaining eleven and one-third shares, or their value.
+We have nothing to do in this case with the disposition made by her mother of the other property of the estate and of its revenues, nor with the judgment which she obtained against her mother on that account. This is not an action for partition of the community, nor to subject property to the judgment rendered against her mother. It is a simple claim to ownership, as heir, of her portion of particular community property, and the very claim admits like ownership in her co-heirs and her mother to their shares thereof. The alienation by her mother mast he considered as the alienation of her own share to the extent thereof, and to that extent valid. No formal partition of property of this character was necessary. Being- composed of numerical units, each necessarily and absolutely equal in value to the other, it partitioned itself, and the sale of one hundred shares was the entire equivalent, of the sale of an undivided one-half of two hundred shares. The remaining sixty-six shares belonged to the three heirs solely, being twenty-two shares to each, and each one of them had a claim for the rest of their respective shares, viz: eleven and one-tliird shares each against the company, if it had permitted their unauthorized transfer.
+Plaintiff having received twenty-two shares, the limit of her claim is for eleven and one-third shares, or their value.
+As to the dividends, by judgment of the probate court, competent, final and never appealed from, the mother was recognized and sent into possession, not only as owner of one-half of the entire community estate, but also as usufructuary of the other half inherited by the children.
+It is true that long afterwards, plaintiff on reaching her majority brought suit to annul this judgment, and in January, 1881, this Court rendered its decree annulling the same.
+This, however, did not destroy the validity of the payments of dividends made to the mother by the defendant duringthe existence of the judgment; and even independently of the judgment, the payments during minority of plaintiff were properly made to the mother in her capacity as natural tutrix. The judge a quo gave plaintiff judgment for the value of eleven and one-third shares of stock and for the dividends accruing after January, 1881. Although both parties complain of his decree, we think he did exact justice.
+The plea of prescription of one year, interposed by defendant, is without merit.
+The action is not one sounding in damages for a quasi offense, but one for. the property or its value. As to the relation of the corporation to the stockholder, we recently had occasion to enunciate the well established doctrine that “ the corporation is the custodian and trustee of the corporate property, funds and stock, for the stockholder.” The law would be in strange case if such a custodian and tmstce, when called upon for the property entrusted to him, could say to the owner, “you cannot get the property, because I have disposed of it, and you cannot get its value because my wrongful disposition was made more than a year ago and your action is prescribed.”
+Judgment affirmed at appellant’s cost.
+Behearing refused.
