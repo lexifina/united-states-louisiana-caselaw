@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Supreme Court"
 decided: "1822-09"
-citations: ["12 Mart. (o.s.) 350", "12 Mart. (o.s.) 370"]
+decided_precision: "month"
+citations: ["12 Mart. (o.s.) 350"]
 reporter: "mart-os"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
