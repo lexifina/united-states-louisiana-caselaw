@@ -1,7 +1,8 @@
 ---
 court: "Louisiana Supreme Court"
 decided: "1865-05"
-citations: ["17 La. Ann. 1", "17 La. Ann. 22"]
+decided_precision: "month"
+citations: ["17 La. Ann. 1"]
 reporter: "la-ann"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,6 @@ parties: ["Margaret Haughery v. John M. Lee."]
 source_url: "https://static.case.law/la-ann/17/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8502171
-cites_cases: ["12 La. 490"]
 ---
 
 # Haughery v. Lee
