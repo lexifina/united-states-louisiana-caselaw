@@ -1,0 +1,22 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1816-05"
+citations: ["4 Mart. (o.s.) 380"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHNSON vs. BOON’S HEIRS."]
+source_url: "https://static.case.law/mart-os/4/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12130361
+---
+
+# Johnson v. Boon's Heirs
+
+## Majority (Mathews, J.)
+
+Mathews, J.
+delivered the opinion of the court. This suit was instituted by the appellee to recover from the defendants, as heir of James Boon, deceased, debts of his estate. The claim opposed on the ground that nothing was inherited by the defendants, and appellants from James Boon.
+The principal facts necessary to a correct decision, as they appear from the evidence and proceedings transmitted, are as follows. The appellants and defendants are the legitimate issue of the marriage of James Boon and Eunice his wife, which was contracted in North Carolina. At the time, she possessed in her own right, or afterwards acquired from her father or brother during the coverture, a female slave, named Jenny, who, with her increase, is now in the possession of the defendants. Boon, the father, had brought these slaves, with his family, from North Carolina to Georgia and Florida. At the time of his arrival in the latter place, it was under the Spanish government, and it continued so, long afterwards; he always exercised ownership over the slaves, altho’ he frequently declared that the property of them was not in himself, but in his children, who inherited them from their mother. In the year 1809, Courtland Smith (the husband of one of Boon’s daughters, and who is joined with her, as a defendant in the present suit) was appointed curator to Boon’s children, by a competent authority, and as such obtained possession of the slaves, (Boon being still living) claiming them for the minors, as their inheritance from their mother.
+According to the provisions of our law, heirs, who accept an inheritance, are bound to pay the debts of the ancestor to the extent of their own property, if they take the estate without the benefit of an inventory: but, if the estate be legally inventoried, then only to the amount of the inheritance. To make the heir responsible for the debts of his ancestor, an acceptance of the inheritance is necessary, and it may be express or tacit. A succession is accepted expressly, when the heir assumes the quality of such, in some authentic or private instrument, or in some judicial proceeding. It is accepted tacitly, when some act is done from which the intention of being heir must necessarily be supposed, Civil Code 162, art. 77, and in this respect the Spanish law accords with our code. It is useless to enter into any minute detail of the acts, which the law would construe into a tacit acceptance of a succession. None such appear to have been done by the appellants. They claim and pretend to hold the slaves, who form the main subject of dispute in the present case, on a right independent, separate and distinct from that of their ancestor, Boon. It is true that in the statement of facts, it is admitted that one of the witnesses deposed, that a bed, the property of the father, was taken by one of the children, without specifying which of them; a circumstance so vaguely related, as to be insufficient to fix on the appellants such an intermedling with the inheritance of their ancestor, as ought to burthen them with all the inconveniences and losses, which ought to result from a simple acceptation of it. We are of opinion that no person, as heir, can be considered liable to the payment of the debts of the ancestor, without accepting the inheritance. The appellants, from any thing that appears in the present case, have not accepted the succession of Boon, their father, and therefore ought not to be compelled to pay his debts; for altho’ the property they possess, which, if it really belonged to him, in his life time, ought to be subjected to the discharge of his engagements, yet, until it be represented by an heir or curator, no judgment can be regularly rendered against it.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court be annulled, avoided and reversed with costs; but, without prejudice to the plaintiff and appellee, in any future proceeding, which he may legally carry on against the estate of the said Boon.
