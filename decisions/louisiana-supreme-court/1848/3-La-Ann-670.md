@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1848-11"
+citations: ["3 La. Ann. 670"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Byrne v. Riddell et al."]
+source_url: "https://static.case.law/la-ann/3/cases/0670-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4816355
+---
+
+# Byrne v. Riddell
+
+## Majority (Seidell, J.)
+
+The judgment of the court was pronounced by
+Seidell, J.
+The plaintiff alleges that Riddell, aided and abetted by Banks and Dunn, forcibly ejected her from the premises she had leased from Riddell, and that Banks and Dunn, under the direction and with the immediate participation of Riddell, struck her and her child, detained her clothing, and committed sundry acts of violence upon her person and property.
+A judgment by default was taken against Banks, aud, upon submission of the case, as to him, to a jury, they gave a verdict against him for $362 50.
+Riddell first pleaded an exception that, he was not bound to answer until Dunn, the co-trespasser, who, as he alleged, was jointly bound, should be cited. Tiiis exception the court overruled, “ saving to the party excepting all his legal rights.” Riddell then filed an answer. In this answer he begins by a reservation of the benefit of matters theretofore pleaded, and then pleads a general denial, áfc.
+When the cause earns to trial before a jury as to Riddell and Dunn, no objection appeai-s to have been made that the cause had beeu already tried separately as to Banks. The jury found a verdict against Riddell “ for $1000; from which amount is to be deducted the amount of judgment against Banks and against Dunn for $500. From the judgments rendered in pursuance of this verdict Riddell has appealed.
+Objection is made to these separate verdicts for separate sums, and to the inequality of the verdicts, the appellant relying upon article 2304, which declares co-trespassers jointly liable. A mere mistake of the translator brought the euglish text of our Code into conflict with the french text, and with a well settled principle of the civil law. “ Lorsque plusíeurs personnes ont commis ensemble un délit, elles sont solidairement responsables du dommage causé.” Mackeldey, DroitRomain, p. 233. Merlin, Rep. Solidarité. Inconsequence of the act of 1844, the rule laid down in Loussade v. Harmann has ceased to be important, in cases ex delicto arising thereafter. We cannot but say, with great deference to the learned judge who delivered that opinion, that it seems to us to have been going very far, to apply to the case of wrongdoers the analogy of a technical and certainly inconvenient rule, established by special legislation with regard to joint contracts. But without entering into a discussion of the effect of article 2304 in ordinary cases, it is sufficient to say that, in the present case, we see no reason to disturb the judgment on this technical ground. If there was an informality in bringing the cause to trial separately as to Banks, the defendant Riddell should have raised the objection upon going to trial upon his own case. Moreover, it is clearly shown by the evidence that Dunn and Banks acted as Riddell’s agents, and it appears from the testimony of the judge of the criminal court, before whom was tried an indictment for the assault and battery committed upon the plaintiff, as well as from other testimony, that Riddell declared he assumed all the responsibility of what Dunn and Banks had done, and that they were authorized by him. It would, in our opinion, be a strained and inequitable construction of the article in question, to say that where a party employs others to commit a wrong, the person injured would be obliged to make the instruments of the wrong co-defendants, and should be debarred from-obtaining,- at the hands of a jury, a higher verdict against the originator of the mischief than against those whom he instigated to its commission.
+It is said that the damages in this case are excessive. We are very far from approving the conduct of the plaintiff. She had violated her duty as a lessee; her conduct was unjust, and of a character well calculated to irritate the defendant. But, on the other hand, the forcible ejectment of the plaintiff by an armed man, acting without a lawful warrant; the detention of plaintiff’s clothing; the actual violence committed on her person; the advanced age and sex of the injured party — all these were circumstances .which were not only very likely to operate powerfully upon the minds of a jury, but which in law it was their province to consider in estimating the damages. Much discretion is given in such cases to the jury (Civil Code 1928, § 3); and an appellate court should not disturb their finding except where it is clearly excessive. There is a limited class of cases in which the law permits high damages, not for the gratification of revenge, but for the sake of example, and with a view to promote the poace and quiet of society. Judgment affirmed.
