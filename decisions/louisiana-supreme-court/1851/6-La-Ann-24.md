@@ -1,0 +1,27 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1851-01"
+citations: ["6 La. Ann. 24"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Magdalene Bernard f. w. c. v. Francois Auguste, f. m. c."]
+source_url: "https://static.case.law/la-ann/6/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 523833
+---
+
+# Bernard v. Auguste
+
+## Majority (Eustis, C. J.)
+
+The judgment of the court was pronounced by
+Eustis, C. J.
+In 1842, the plaintiff instituted suit in the late Parish Court of New Orleans, for the recovery of several female slaves which, it was alleged, the defendant had recently taken from her possession, under color of acertain pretended act of sale dated the 6th of March, 1833. This act was made by Louis Ferrand, fils, a free man of color, as the attorney in fact of the plaintiff, with whom he then lived in concubinage. The slaves were originally bought in the name of the plaintiff, and on the 6th of March, 1833, Ferrand, under a power of attorney from the plaintiff, undertook Jo .sell -them .to the defendant. The plaintiff charges, that this act is utterly false, simulated, and without any legal or sufficient consideration, and conveyed no title whatever to the defendant.
+The defendant claims under this act, of which he alleges the validity and bondfides; charges the plaintiff with fraudulently lending her name to enable Ferrand to secrete his properly, &c., and that the sale was made for the purpose of reimbursing him, the defendant, for money which he had advanced to the plaintiff for paying for the said slaves. The details of this case appear to be similar with those of the case of the same parties, reported in 1st Ann. 69.
+The plaintiff abandoned the case; no one appeared for her at the trial in the court of the first instance, and judgment appears to have been rendered against her by default, which was confirmed. The case was tried on the respective claims of the defendant and of the assignee of Ferrand, who had become a bankrupt, in the District Court of the United States for this district, and who intervened in the suit, representing the interest of the creditors of Ferrand.
+The judge of the district court considered, that the act under which the defendant claimed, gave him no right whatever to the slaves, and adjudged them to belong to the creditors of- Ferrand, and condemned the defendant to pay to the assignees §>15 per month, for the value of the services of two of the female slaves, and allowed the services of another as a compensation to the defendant for probable expenses incurred in clothing and supporting the whole. From this judgment the defendant, Auguste, has appealed, the plaintiff acquiescing in the judgment.
+The case has been very elaborately argued. We think the ground upon which the defence rests does not materially affect the' rights of the creditors of Ferrand.
+It is not pretended, that up to March, 1842, there was a delivery of the possession of the slaves to the defendant, under the act of sale under which he claims, bearing date nine years before. On the contrary, they were in the service of the concubine of Ferrand, the original plaintiff to the suit, and to all intents and purposes in the possession of Ferrand. The presumption which the article 2456 establishes, in cases where there is no change of possession from the vendor to the vendee has not been rebutted in the case before us. On the contrary, our impressions from the evidence are strong, that the defendant him» self can give no explanation of his affairs which passed under the hand of his agent, Ferrand. It is no defence whatever against those who are seeking to injure legal rights, that he has been outwitted by the man of his confidence, and that he has been the dupe as well as the accomplice of Ferrand. . Perhaps he has. Such a result is not at all surprising. It is sufficient for the decision of ibe present case for us to state, that we find nothing in the evidence which satisfies us that the district judge erred in his conclusions, that the act under which the defendant claims the slaves named in the petition of intervention, is void and of no effect; that it was a mere simulation made by both Ferrand and the defendant to enable the former to perpetrate his purposes of fraud.
+We think the district judge erred in allowing too large a sum for the services of the slaves. The rate of eight dollars per month for the three slaves we think a just compensation for the whole, making allowance for the expense of keeping them, loss of time, &c. In this respect the judgment of the district court must be changed.
+It is therefore ordered, adjudged and decreed, that the judgment of the district court decreeing the property of the slaves mentioned therein to be vested in the assignee of Louis Ferrand, fils, f. m. c., be affirmed; and it is further decreed, that the said assignee recover said slaves from the said defendant, and that the said assignee recover from the said defendant the sum of eight dollars per month each for three of the said slaves, from the 12th of March, 1842, to the day of delivery thereof. The judgment of the district court being changed in this respect, it is further ordered, that said intervenor pay the costs of this appeal; the costs of the court below to be paid by the defendant.
