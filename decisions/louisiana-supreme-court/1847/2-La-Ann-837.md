@@ -1,0 +1,26 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-09"
+decided_precision: "month"
+citations: ["2 La. Ann. 837"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State v. Fant."]
+source_url: "https://static.case.law/la-ann/2/cases/0837-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 334365
+---
+
+# State v. Fant
+
+## Majority (Kitfe, J.)
+
+The judgment of the court was pronounced by
+Kitfe, J.
+The defendant was indicted under the act of 1832, (Acts, p. 162,) for selling spirituous and intoxicating liquors to a slave, without the consent or authorisation of the owner, or other person having lawful charge of the slave,. Upon conviction, the maximum punishment annexed to the offence by the statute was awarded by the sentence of the court, and the defendant has appealed.
+An application has been made by the defendant for a mandamus ordering the district judge to make a statement of facts, to which it is contended he is entitled as on appeals in civil cases. The act of 1843, (Acts, p. 60, § 2,) creating a Court of Errors and Appeals in Criminal Cases,conferred on that tribunal appellate jurisdiction, with power to review questions of law, which questions the statute required to be presented by bills of exception taken to the opinion of the judge of the lower co.urt, or by the assignment of errors apparent on .the face of the record. This statute was repealed by the act of the 26th May, 1846; and the act of the 30th of May of the same year, (Acts, p. 100, § 8, 9,) provides that, in criminal cases in which appeals are allowed, they “ may be taken on behalf of the accused from such judgment, returnable to the Supreme Court, as in civil cases.” The defendant contends that the only statute requiring that the questions of law .to bo raised by the appellate court should be presented by bills of exception or assignments of error having been repealed, and provision having been made that the cause is to be brought up by an appeal as in civil cases, he is entitled, as an incident to the appeal, to a statement of facts as a means of enabling this court to review the questions which he desires to present. We do not understand this statute as altering in any respect the method of trial, or rules of proceeding in criminal cases in the inferior court, previous to judgment. It .provides alone for .bringing the -case before theappellate court for revision, which is to be done, as in civil cases, by an appeal, in contradistinction from a writ of error. By the well known rules of caminal proceedings, the evidence introduced on the trial before the jury is not reduced -to writing, and, if it were, we w.ould be without authority to pronounce upon it. A statement of the facts proved on the trial would be only a substitute for the evidence itself, which we are not permitted to examine. The constitution confers appellate jurisdiction on,this court “.in.eriminal cases, on questions of law alone.” Art. 63. Those questions should be presented by bills of exception or assignments of error. The practice, in .this respect, stands unaffected by the repealing.statute of 1846, and the necessity for-observing it results.as a necessary consequence, from .the .constitutional limitation of the jurisdiction of .this court to questions of law alone. The application for a mandamus is therefore refused.
+Several objections were made to the sufficiency of the indictment,on a motion for .an arrest of judgment. The first is, that the defendant is averred to be a “.trader in goods, wares, and merchandise, and spirituous .and intoxicating liquors,” no such person being known to the law. 2d. That there is no allegation that the offence was committed -against the .consent of the owner of the slav.e. 3d. The indictment charges in one and the same.count, and as one substantive offence,, that the defendant “ did actually sell, give, .and deliver in payment, and cause to be sold, given, and delivered in payment,” spirituous and intoxicating liquor, all of which constitute distinct offences.
+I. Among the different persons to whom the prohibitions .of the statute extend, “.traders” are enumerated. It is no objection to the averment in the indictment, that it specifies the particular class of .traders to which the defendant belonged.
+II. The averment in the indictment is a sufficient answer to the second objection. It is alleged, in the language of the statute itself, that the defendant sold &c.,, •“-without .the consent and authorisation therefor of the said Mrs. Henrietta Hooper, the owner of said slave,” ,&c.
+III. There is no repugnance or duplicity in the allegations of the indictment. They are merely cumulative ; the offence ehar'ged is the same. A general verdict of guilty on such an indictment would be sustained by proof of any one of the acts charged. A .count charging that the defendant published and caused to be published a libel, has been held not to be pleading double, the offence being the same. So when the indictment charged the defendant with composing, printing, and publishing a libel, it was held that he could be convicted of the printing and publishing only. 2 East, P. C. 515, 516. 1 Starkie on Ev. 336. Archbold, Cr. Plead. 30. Judgment affirmed.
