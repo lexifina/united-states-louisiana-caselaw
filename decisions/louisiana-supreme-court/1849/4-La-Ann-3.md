@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1849-01"
+decided_precision: "month"
+citations: ["4 La. Ann. 3"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Byrne v. Riddell et al."]
+source_url: "https://static.case.law/la-ann/4/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4893863
+---
+
+# Byrne v. Riddell
+
+## Majority (Slidell, J.)
+
+The judgment of the court {King, J. absent,) was pronounced.by
+Slidell, J.
+A judgment was rendered in favor of the plaintiff against ■Banks by default, for the sum of $362 50 and costs. ■ This judgment was duly notified to Banks, in December, 1845. In May, 1846, Banks presented a petition,,in which he prayed for a suspensive appeal from the judgment. Upon .this petition the court granted the following order : “Let an appeal .be allowed in this case, returnable in the .Supreme Court on the third monday of June, 1846, on the appellant’s giving bond in the sum of $600, with J. L. Riddell as cecurity, conditioned as the law directs.”'• On .the same day an appeal bond was filed, drawn in the usual form, for the sum of $600. The Supreme Court having rendered a judgment dismissing the appeal, a fieri facias was issued :and returned ‘■‘nulla bona.” A rule was then taken by the plaintiff upon Rid-dell, as surety in the appeal bond, to show cause why he should not be adjudged !to pay the amount of the judgment and costs. To this rule Riddell answered that, the appeal of Banks was devolutive, and that his liability was only for the costs of the appeal. The court condemned the surely to pay the amount of the judgment-and costs; and he has appealed.
+Our first inquiry is, was the appeal suspensive or devolutive ? If an appeal be taken within ten days after notification of judgment it shall stay execution, says the Code of Practice, provided the appellant give his bond, with a proper surety, for a sum exceeding by one-half the amount of the judgment, &c. But if the appeal have been taken after the ten days have expired, “ the appeal shall not slay the execution of the judgment.” Such is the imperative language of art. 578. It will be observed that the order granted by the judge does not, in terms, say, a suspensive appeal was allowed. But suppose it had said so : It would have been in direct violation of the law, and being rondered ex parte, could not affect the plaintiff’s right to execution, which was acquired by the expiration of the legal delay. It is therefore clear, that, the plaintiff could have executed the judgment after the appeal was granted. The appeal was merely •devolutive. But the plaintiff contends, that she silently submitted to the order, as ene granting a suspensive appeal; that she did not attempt to execute the judgment pending tjie appeal; and that Banks thus had the benefit of a suspensive appeal. But her construction could not change the legal effect of the order; aud tins too as against a surety, whose obligation is not to be extended. The question is, not what she supposed her lights to be, but wliat they really were. If she had issued a fieri facias, after this order of appeal was granted, could Banks have been permitted to .enjoin upo'n-the ground, that execution had been suspended 1 We think not.
+Considering the appeal devolutive, our next inquiry is, what is the extent of the surety’s liability ? It is true that the amount of the bond was §600, an amount which more than covers the judgment and probably costs. It is also true, the condition of the bond was, “ that the above bound Bftnks shall prosecute his appeal, and shall satisfy whatever judgment may be rendered against him, or that the same shall be satisfied by the proceeds of the sale of his estate, real or personal, if he be cast in the appeal; otherwise that the said Riddell, surety, ahall be liable in his place.” But the language and intention of the bond, must be construed with reference to the articles of the Code of Practice applicable to the subject matter. When the appeal is deyolutive, the extent to which security is to be required is such a sum as the pourt may deem sufficient for the payment pf costs. Costs are the measure of the indemnity to be provided for the appellee, and consequently of the surety’s liability. C, P. 578.
+The appellant contends that by “posts,” is meant costs of the appeal. The language of the .engiish text is ambiguous ; but this ambiguity may be aided by reference to the french text,-which is .clear—“pour sureté du paiement des frais, tant en premiere instance qu’en cas d’appel.”
+Judgment reversed ; and judgment is rendered in favor of plaintiff against J, L. Riddell, for the amount of the costs incurred in the prosecution of the suit of the plaintiff agaip.st Banks, in the District and in the Supreme Court, and the costs of the motion against the surety in the court below; for the ascertainment pf which costs the pause is remanded. The plaintiff to pay tbh posts of this appeal, ,
