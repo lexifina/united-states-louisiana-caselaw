@@ -1,0 +1,25 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1847-06"
+decided_precision: "month"
+citations: ["2 La. Ann. 608"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jartroux v. Dupeire."]
+source_url: "https://static.case.law/la-ann/2/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 334772
+---
+
+# Jartroux v. Dupeire
+
+## Majority (Slideii., J.)
+
+The judgment of the court was pronounced by
+Slideii., J.
+The plaintiff claims to be an hypothecary creditor, upon property formerly owned by Deborgue, and now in the possession of the defendant, by virtue of a judgment obtained and recorded against Debergue, before the rights of the defendant were acquired. In the suit of Jartroux v. Debergue and others, the plaintiff obtained a verdict of the jury in these words: “ The jury find a verdict in favor of the plaintiff for the refunding of such sums of money as the plaintiff has paid, and returning of the notes given by him; or, in default thereof, for the amount of the same, and damages to the amount of $1,500.” Upon this loose and uncertain verdict, a judgment was entered in the following terms: “ The court being satisfied with the legality of said verdict, it is decreed that judgment be entered according to said, verdict, in favor of the plaintiff, and against the defendants, for the sum of $1,500, as damages; that said defendants do return the notes and money already paid by the plaintiff, and that the defendants pay the costs.”
+So far as the sum of $1,500 damages is concerned, it may be left out of view. That part of the judgment was remitted by Jartroux. Of the costs we will speak hereafter. The residue of the judgment will be at-present considered. We do not think it necessary to decide the point urged by counsel, that the judgment in question was, even between the parties to it, void-for uncertainty. We confine ourselves to the question of inscription, as affecting third persons.
+This judgment was r-ecorded in the terms above' stated. The inscription* was consequently uncertain, and did not informthe public what amountof money was decreed to be paid, and what notes were to be restored to the plaintiff. We deem it to be our duty, under the fair interpretation and intendment ofiour registry laws, to hold this inscription invalid, because it does not exhibit any definite*, pecuniary amount, nor any description of the notes to be returned. This essential information should be patent upon-the-public records of the-mortgage office-The creditor cannot be permitted to inscribe a loose and obscure notice, and< leave third persons to ferret out elsewhere the extent of the antecedent encumbrance claimed by him. If he desires to obtain by inscription the security of a judicial mortgage, let him ask and obtain his judgment-'from the court in a distinct and intelligible form. If a contrary practice were tolerated, confusion;, mistakes, and injustice, would be the inevitable result.
+As to so much, therefore, of this judgment, as decrees that “the defendants, return the notes andmoney already paid,” we consideritas not having acquired, by the inscription,, the force of a judicial mortgage; and in this respect the hypothecary action.must fail. As regards the costs given by the judgment in question, we consider the plaintiff entitled to be recognized as a mortgage creditor-In the sheriff’s sale to Dupeire, these costs are stated at the sum of $232, and. the purchaser was allowed to retain so much of the price to. satisfy that incumbrance. In this respect, therefore, the judgment of the court below must be-corrected.
+It is therefore decreed that the judgment of the court below be reversed; and it is further decreed that the said Franpis Jartroux be recognised as a mortgage creditor, for the sum of $232, with interest from, the 8th day of June, 1843r and costs of this suit in both courts, upon the following-described real estate, to wit: 1st. A certain lot of ground situated m.'fatibourg Marigny, in ElyBian Fields street, measuring fifty one feetfronton said street, between'Casacalvo and Moreau streets, by one.hundred and forty-five and ,a half feet deep; said lot is designated by the number ninety-three,, on the-plan, of said faubourg; together with all the buildings on said premises, without any .exception or reserve whatever. 2d. Another certain.Jot of ground desiguated-hy the. number ninety-two, on the plan of said-faubourg Marigny, situated in said.faubourg,-and measuring fifty-one.feet front, more or less, on Marigny street, between Casacalvo and Moreau streets, by one.hundred.and.fortyrfi.ve.feetsix inches deep,.more or less, bounded on the side towards Casacalvo street, by property belonging to M. Ulm, and .on the sidetowards Moreau street bythat of John L. Thielen, together with the buildings thereon; and that the same be solcl.to pay and satisfy to.the said Jartroux, the sum, interest, nnd..eosts. aforesaid.
