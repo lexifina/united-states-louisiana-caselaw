@@ -1,0 +1,34 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1822-06"
+citations: ["11 Mart. (o.s.) 730"]
+reporter: "mart-os"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MORRIS vs. EVES."]
+source_url: "https://static.case.law/mart-os/11/cases/0730-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6684776
+cites_cases: ["11 Johns. 194", "16 Johns. 233"]
+---
+
+# Morris v. Eves
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the 1 court. This action was commenced on a promissory note, drawn at Philadelphia, by the defendant; who has pleaded that he was not 1 indebted, and that on the 22d of June, 1818, he executed a deed of assignment to trustees, 0 for the benefit of his creditors, and was regie larly discharged, under an act of the state , oi Pennsylvania, for the relief of insolvent debtors.
+East'n District.
+June, 1822.
+^Vates debtor, ⅛* K himVom^pii-
+or law of na,lons’
+He has further averred, that at the date of the alleged contract, and ever after, until the time he took the benefit of the insolvent act already mentioned, both he and the were inhabitants of Philadelphia, and citizens of Pennsylvania.
+The certificate of discharge regularly au-ihenticated, was produced on the trial; there was judgment for the plaintiff, and the dant appealed. The only question, which the case presents, is the effect of this discharge in our state. By the terms of the certificate, the debtor is released from confinement, and his person protected against future arrest for all debts contracted by him previous to that time.
+A contract made in a foreign country is governed by the laws of that country, in every thing which relates to the mode of construing it; the meaning to be attached to the expressions, by which the parties may have engaged themselves, and the nature and validity of that engagement, Emerigon, Traité des assurances, chap. 4, sec. 8. Digest, lib. 21. tit. 2. But it is clear that the remedy, by which it is enforced, should be sought according to the . laws of the place where the party is pursued; ^at the form of procedure, the mode of trial, and the nature of the relief accorded, must be in pursuance to the regulations existing in the country where the debtor is sued. This is the rule in all civilized nations; the maxim actor sequitur forum rei is a part of the jus gentium; du droit des gens. D'Aguesseau, tom. 5. p. 53. Vatel, liv. 2, chap. 8, sec. 103. Emerigon, loco citato.
+Our enquiry, therefore, is narrowed to a single point; does the manner in which a judgment is carried into execution, make a part of the contract, or is it the remedy given to enforce it? To state this proposition, is almost to answer it; and we do not think it presents any difficulty, or is susceptible of a serious doubt. Huberus states, that in the execution of a sentence given abroad, the law of the place, in which execution is asked, must govern; not the law of the place where the judgment is given. Huberus, 6. 1 ,tit. 3, p. 26. 3 Dallas, 374, in note. And lord Kames, a lawyer of distinguished learning, who professedly wrote on the civil law, after noticing the maxim, actor sequitur forum rei, observes; whence it follows that the form of the action, the method of procedure, and the manner of execution must be all regulated by the law of the country where the action is brought. Kames on Equity, book 3, chap. 8, sec. 4. p. 560, Edinburgh ed. 1800
+It is a necessary consequence of these principles, that what is done in an other country, respecting that remedy, cannot controul the proceedings of the tribunal where the party is sued. Other governments may modify their writs of execution, as they please; may abolish imprisonment for debts of any kind ; or refuse it where the debtor is in such circumstances as the defendant now before us was placed. But so long as the contract exists, we must follow our own mode of doing justice, not that which it has pleased other states to adopt. This principle is acted on by other courts. In New-York they hold that a discharge from imprisonment, in the place where the contract was entered into, will not prevent the debtor from being arrested, when he comes into a different and independent jurisdiction. 11 Johns. 194. 2 Idem, 198. 14 Idem, 346. It is true, in the state where this note was made, a contrary doctrine seems to have crept into their jurisprudence; but the . ..7 reasons given for its introduction, are not satisfactory to us, and they cannot be reconciled wiíh general principles of law, which govern cases of this description.
+It has been argued that as both plaintiff and defendant were citizens of the same state, they must be presumed to have contracted in relation to those laws. Conceding this; all that they can be understood to have agreed on was, that in Pennsylvania the debtor might be discharged from imprisonment. When causes are required to be decided on the ground that the parties understood what the law w’as, and, as it were, incorporated it in their contract, 16 Johns. 233; they must be presumed to have known its limitations also, and have inserted them too in their agreement.
+It was urged that it appeared from the record of the proceedings ill Philadelphia, that the plaintiff was a party to that action, and, consequently, the judgment discharging the defendant from imprisonment, forms rem ju~ dicatam. It has the authority of the thing judged so far as it acted on the rights of the parties, and the question as to the imprisonment of the appellant in that state, is concluded by the judgment there given. But nothing more is decided by it.
+Finally, it was said, before the decisions of the highest tribunal in the union had declared the insolvent laws of the several states unconstitutional, we should have held a discharge in a sister state binding on us here; and it was asked what reason could exist, why we would not recognise it, so far as it is admitted to be within the limits of the constitution? To this there is a satisfactory reply. The discharges, held by the supreme court of the united states as void, dissolved the contract, and that now before us leaves it in full force. In the case first put, we should probably have held, between citizens of the same state, that as the obligation was destroyed by the same law which created it, it must be recognised every where else as annulled. But here the proceedings merely discharge the person. So that this point, and in truth, every other raised in argument, depends on the main question in the cause; does the want of a remedy to enforce a contract in one country deprive the creditor of the benefit of that which is given him in another? We are all clearly satisfied it does not,
+Maybin for the plaintiff, Hennen and Smith for the defendant.
+It is therefore ordered, adjudged and de- , • creed, that the judgment of the district court affirmefl with COStS.
