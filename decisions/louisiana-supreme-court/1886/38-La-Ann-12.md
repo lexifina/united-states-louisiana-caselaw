@@ -1,0 +1,32 @@
+---
+court: "Louisiana Supreme Court"
+docket: "9523"
+decided: "1886-01"
+citations: ["38 La. Ann. 12"]
+reporter: "la-ann"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harris, Parker & Co. vs. A. G. Nicolopulo.—Citizens Bank, Intervenor."]
+source_url: "https://static.case.law/la-ann/38/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2604909
+---
+
+# Harris, Parker & Co. v. Nicolopulo
+
+## Majority (Manning, J.)
+
+The opinion of the Court was delivered by
+Manning, J.
+This case presents the question whether the unpaid ■vendor of cotton, or the holder for value of the bill of lading for it, shall prevail in a contest for the amount of the purchase price.
+The case comes up on a statement of facts, and tney are as follows:
+The defendant bought fifty-nine bales of cotton from the plaintiffs for two thousand seven hundred and seven dollars and twelve cents, on January 3, 1885, and did not pay for it. The cotton was delivered on January 5th following, and the plaintiffs instituted this suit for the recovery of the price within the five days specified in Art. 3227 Rev. Civ. Code. Meanwhile between the delivery and the institution of this suit, the purchaser Nicolopulo had shipped the cotton, drawn his bill of exchange against it, and the bill of exchange with bill of lading ■attached was bought by the Citizens Bank for full value, both bills having been endorsed and delivered to the bank and the cotton being on shipboard. Nicolopulo is insolvent and has made a cession to his ■ creditors.
+The bank contends that the Act of 1868, to prevent the issue of false receipts or bills of lading and to punish fraudulent transfers of property by cotton presses and others, overrides and repeals the preference given the vendor of agricultural products whenever the purchaser has shipped the cotton and transferred the bill of lading for value.
+The point was not presented in Gumble vs. Beer, 36 Ann. 484. Nevertheless we think the principles therein announced control this case .and the whole reasoning in that opinion foreshadows our conclusion in this.
+The intention of the legislature to protect the vendor of agricultural products as against all the world, for a given time after their sale, was first manifested a little more than thirty years ago, and it lias been persistently and consistently adhered to ever since. The Act of 1854 was of course included in the revisal of the following year, and it was incorporated in the Code upon its revisal in 1870. Jurisprudence meanwhile had recognized that intention in all its fullness and had enforced it ■whenever occasion arose.
+The Act of 1868 recognized the negotiability of bills of lading, and ■declared that the transferree of them shall be deemed and taken to bo the owner of the goods therein specified so far as to give validity to any pledge, lien, or transfer made or created by such person. Acts, p. 194. But this was only the announcement in general terms of certain ■ qualities imparted to bills of lading, and a declaration that the transferree of them under normal circumstances should have and exercise •certain rights. He was deemed the owner so far as to give validity to his pledge of them or lien upon them or transfer of them, but it requires very different and much stronger and more precise language to-express the intention that a lien given the vendor within a given time, absolute and overmastering every other claim, which legislation had-created and jurisprudence enforced, was to he done away with and abrogated. The enactment in the same statute whereby a criminal, offence is created, and a violation of its provisions is declared punishable with severe penalties, does not add force to the suggestion that the vendor’s lien was intended to he destroyed or that it was to he relegated to a lower rank in the scale of privileges and subordinated to a hill of lading.
+Even if this were less clear the subsequent legislation of 1876, Acts, ]>. 113, would put it beyond cavil, for there it was enacted that the vendor’s lien of five days, now allowed in commercial transactions for the payment of the purchase price, shall not he affected by that Act except where a warehouse receipt has been pledged as collateral for money borrowed, and in order that it may come within the benefit of' the exception, the receipt must he paraphed before issue “for hypothecation.”
+Compare this minute and precise language with that of the Act of' 1868 and observe tire particularity with which a warehouse receipt is singled out for exception. Had it been intended that bills of lading• should under any circumstances have been given priority over the vendor’s lien and have been accorded a rank alongside of paraphed warehouse receipts, apt language would have been found to express-that intention, and the circumstance that warehouse receipts were given such dignity by name and no mention is made of bills of lading shews that the legislature intended to confine this alteration of the law to thefonner.
+The Act of 1876 has impressed upon it throughout the intention to give this priority to a paraphed warehouse receipt and nothing else, and instead of the halting language of the Act of 1868 when it says thetransferree of a hill of lading shall he deemed to he the owner of the goods so far as to give validity to his pledge, etc., the Act of 1876 says-outright, the holder of the warehouse receipt shall be considered and held as the actual owner of rhe property described in tlie receipt.. Sec. 5.
+The judgment of tlie lower court was for the plaintiffs enforcing their - lien as vendors, but it did not go far enough. It simply gave them a judgment against the defendant with recognition of their lien and dismissed the intervention of the hank. It is admitted that the bank has-the funds and is agreed that judgment shall go against it for the amount-of the plaintiffs’ claim if we shall decide as we have done, and an amendment of the judgment to accomplish that end is prayed. Therefore,
+It is ordered and decreed that the judgment of the lower court is-amended in this wise, that the plaintiffs have and recover of the Citizens Bank, interven or herein, two thousand seven hundred and seven dollars and twelve cents, with interest from January 3,1885, and costs-of both courts, and as thus amended that it is affirmed.
