@@ -1,0 +1,28 @@
+---
+court: "Louisiana Supreme Court"
+decided: "1830-01"
+citations: ["8 Mart. (n.s.) 473"]
+reporter: "mart-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HEPP vs. PARKER."]
+source_url: "https://static.case.law/mart-ns/8/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12139545
+---
+
+# Hepp v. Parker
+
+## Majority (Porter, J.)
+
+Porter, J.
+delivered the opinion of the court. This is a redhibitory action, in which there was judgment in the court of the first instance, in favor of the plaintiff.-The defendant appealed.
+The cause was submitted to a jury, and on the trial, the appellant took two bills of exceptions. One of them was to the opinion of the court, preventing a witness answering the following question: "How many days before the plaintiff signed the bill of sale was it, that he came and persued the bill of sale, as written in the records of G. R. Stringer, Esq. notary public ?” We think the judge erred. The answer to the ’’question could not, in any respect, contradict the act, not even its date ; for, non constat whether the date was affixed when the instrument was drawn out, or at the time it became a public act by the signatures of the parties.
+The object (declared in the bill of exceptions) of putting this question, was to show that the plaintiff had the slave in possession, and was acquainted with him, before he signed the sale. The appellee urges, that if this were the object, it could not have in any respect, weakened his case, or strengthened his adversary’s, supposing the witness to have answered as the party calling, expected. Because, whether the plaintiff knew of the fact or not, at the time of the purchase, he is still protected under the warranty.
+To this objection it has been answered, that the disease of which the slave died, was not one of those which the law classes as an absolute vice of body ; that consequently the action can only be maintained under the 2496 article of the code, which confers it on the buyer, when the thing bought is either absolutely useless, or its use so inconvenient and imperfect, that it must be supposed the buyer would not have purchased it, had he known of the vice : and, that if the answer to the interrogatory, would have induced the belief of the purchaser, having a knowledge of the disease at the time he bought, then it was material it should be answered, because the presumption of ignorance, on which the law gives an action, would be destroyed.
+This argument has also been supported, by reference to the 2497th article of the code, which declares, that apparent objects, such as the buyer might have discerned by simple inspection, are not among the number of redhibitory vices.
+Knowledge, that a slave was diseased at the time of the sale, and a knowledge that he was afflicted with an incurable disease, are two distinct things, and their effects on the right of the parties, quite dissimilar.— It is almost incredible, that any person, in his senses, would buy property of this kind, and give a full price for it, unless he conceived he was protected by the waranty, and even then it is difficult to conceive any object in such a contract. If indeed, as was said in the case of St. Rome & Poré, it appeared clearly, that the purchaser knew the nature and extent of the disease, and consented to purchase under all risks, the action of redhibition could not, perhaps, be maintained. But when the evidence is in the least degree equivocal, the presumption would be, that where a full price was given, the purchaser conceived the disease was other than incurable; one that would yield to medicine. It is established in the present instance that the slave died of an abscess in his lungs. When the physician was first called in, which was seven or eight days after the date of the bill of sale, the negro was found to be afflicted with a cough, and difficulty of breathing. This cough existed at the time the contract was made, for it is in evidence, that the defendant, when questioned in relation to it by the plaintiff, said, it was the remains of dysentery. Now, supposing the witness had established the fact, of the plaintiff's having the slave in his possession some time before he signed the note, we do not see how it could have aided his defence. The presumption flowing from it, would only have confirment a fact proved by other testimony, and in relation to which, there does not appear to have been any dispute, namely, that the plaintiff knew at the time he purchased the slave, he was afflicted with a cough. We are clear this knowledge did not defeat his recourse in warranty, for there must not only be knowledge of a disease. but knowledge of one that, is incurable and of such a nature as to render the slave useless or his use of inconvenient and imperfect that the buyer bought the hope or chance he might recover 10 Martin, 220
+Although, therefore, the judge might very properly have admitted the evidence, we do not see any possible influence it could have had in the cause which would authorise us to remand it for a new trial.
+On the other bill of exceptions, we think the judge did not err. The evidence offered, was to contradict the date of an authentic act. The date made a part of the instrument. And by the positive provisions of our law in relation to public acts, they make full proof against the parties, signing them their heirs and assigns, unless declared and proved a forgery. La. Code, 2233.
+Carleton & Lockett for plaintiff, Preston for defendant.
+It is therefore ordered, adjudged and decreed, that the judgment of the parish court be affirmed, with costs.
